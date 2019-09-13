@@ -560,9 +560,9 @@
 {id:114,name:"ジョストガンダーBS",size:"L",type:"l",cost:35,hp:20,str:-1,wlk:1,fly:3,tec:2}
 {id:120,name:"ティタロテスBS",type:"c",cost:90,hp:25,tec:2,fly:1,tgh:2,tunable:{mwp:1},main:{pwr:15,shl:90,rng:320,spd:280,itv:1000},tunable:{mwp:1}}
 {group:"ＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:3}
-{id:1,name:"シェイデンBS",type:"a",cost:150,hp:5,fly:1,sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
-{id:3,name:"シェイデンBS2",sub:{str:100,pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",cost:150,hp:5,str:-2,tec:1,fly:1}
-{id:6,name:"シェイデンBS3",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",size:"LL",cost:150,hp:5,fly:1}
+{id:1,name:"シェイデンBS",type:"a",cost:85,hp:10,fly:1,sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
+{id:3,name:"シェイデンBS2",sub:{str:-2,pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",cost:85,hp:15,str:-2,tec:1,fly:1}
+{id:6,name:"シェイデンBS3",sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000},type:"a",size:"LL",cost:105,hp:10,fly:1}
 {id:2,name:"グランダムBS",type:"c",cost:135,hp:20,tec:1,wlk:1,fly:3,sub:{pwr:20,shl:132,rng:350,spd:160,itv:1600}}
 {id:4,name:"ブリガバロンBS",type:"l",cost:40,hp:20,str:1,tec:-1,wlk:1,fly:2,tgh:2}
 {id:5,name:"ヘカトケレスBS",type:"c",cost:115,hp:15,wlk:-1,fly:3,tgh:1,main:{tec:100,pwr:11,shl:400,rng:300,spd:220,itv:1000},tunable:{mwp:1},size:"LL"}
