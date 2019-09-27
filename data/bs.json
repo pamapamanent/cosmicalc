@@ -445,6 +445,7 @@
 {id:229,name:"パラディナイトBS",tunable:{mwp:1},main:{str:100,pwr:8,shl:60,rng:200,spd:400,itv:500},type:"l",cost:70,hp:25,str:2,tec:-1,fly:2,tgh:2}
 {id:230,name:"ポンポコ・ラクーンBS",type:"s",cost:35,hp:25,wlk:2,fly:3}
 {id:231,name:"トウキマルBS2",type:"l",size:"M",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2}
+{id:232,name:"S・アクティナGBS",sub:{tec:100,pwr:0,shl:30,rng:0,spd:250,itv:500},tunable:{pwp:0},type:"lacs",size:"M",cost:85,hp:20,tec:1,wlk:2,fly:3,tgh:-1}
 {group:"Ｌサイズ",prefixID:"L",commonStat:{size:"L"},nextID:35}
 {id:1,name:"スチールライダーBS",type:"l",cost:25,hp:10,wlk:1,fly:2}
 {id:2,name:"エティオンBS",type:"l",cost:25,hp:20,fly:2,tgh:1}
