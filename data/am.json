@@ -620,7 +620,7 @@
 {id:185,name:"アポリオンAM",size:"L",type:"a",cost:110,hp:25,str:3,wlk:-1,fly:2,tgh:1,tunable:{pwp:1},sub:{pwr:27,rng:120,spd:110,itv:500}}
 {id:190,name:"ティタロテスAM",cost:70,hp:15,str:1,tec:3,fly:-1,tgh:2,sub:{tec:100,pwr:34,rng:150,spd:350,itv:500},joint:{wp:2},fixedParts:{wp:{name:"ティタロテスAM@",slot:0,main:{pwr:14,shl:600,rng:360,spd:360,itv:140}}}}
 {id:191,name:"ジーウェイン・アーヴAM3",main:{tec:100,pwr:9,shl:600,rng:300,spd:380,itv:800},tunable:{mwp:1},type:"a",size:"L",cost:145,hp:20,str:4,tec:-1,wlk:-1,fly:1,tgh:2,joint:{wp:0}}
-{id:192,name:"ラゴウAM",main:{pwr:6,shl:90,rng:300,spd:440,itv:500},sub:{pwr:28,rng:80,spd:85,itv:500,str:100},tunable:{pwp:1},type:"l",cost:75,hp:15,str:3,comment:"武器チューン不可"}
+{id:192,name:"ラゴウAM",main:{pwr:6,shl:90,rng:300,spd:440,itv:500},sub:{pwr:28,rng:80,spd:85,itv:500,str:100},tunable:{pwp:1},type:"l",cost:75,hp:15,str:3,joint:{wp:0},comment:"武器チューン不可"}
 {group:"ＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:7}
 {id:11,name:"ブリガバロンAM",cost:50,hp:35,str:2,tgh:3}
 {id:12,name:"ブリガバロンAM2",cost:110,hp:35,str:2,tgh:3,fixedParts:{wp:{name:"ブリガントシールド",sub:{shl:15,rng:600,spd:100,itv:5200},tunable:{pwp:0}}},type:"l"}
