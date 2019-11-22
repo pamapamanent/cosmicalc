@@ -386,6 +386,7 @@
 {id:123,name:"アポリオンLG",size:"L",cost:35,hp:75,str:-1,wlk:3,fly:1,tgh:2}
 {id:124,name:"ジョストガンダーLG",size:"L",cost:50,hp:30,str:1,fly:-1,wlk:3,tgh:2}
 {id:140,name:"ティタロテスLG",type:"c",cost:70,hp:70,str:-1,tec:2,wlk:2,tgh:3,sub:{pwr:4,shl:30,rng:360,spd:250,itv:500}}
+{id:141,name:"ラゴウLG",sub:{str:100,pwr:30,rng:150,spd:350,itv:500},tunable:{pwp:1},type:"l",size:"L",cost:100,hp:60,str:3,tec:-1,wlk:3,tgh:1,comment:"武器チューン不可"}
 {group:"ＬＬサイズ",prefixID:"LL",commonStat:{size:"LL"},nextID:4}
 {id:1,name:"トッドンLG",cost:35,hp:75,wlk:2,tgh:3}
 {id:2,name:"シノ･イクスロードLG",type:"l",cost:105,hp:55,str:1,wlk:4,tgh:1,sub:{str:100,pwr:25,rng:80,spd:105,itv:1200},tunable:{pwp:1},joint:{bs:1}}
