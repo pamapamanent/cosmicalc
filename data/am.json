@@ -650,6 +650,7 @@
 {id:27,name:"ケントゥリオンAM",type:"l",size:"L",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:2,tec:-1}
 {id:28,name:"ゴクソツキAM2",type:"l",size:"LL",cost:155,hp:20,str:3,tec:-1,wlk:1,tgh:2,tunable:{mwp:1},main:{str:100,pwr:10,shl:280,rng:225,spd:420,itv:600}}
 {id:29,name:"ジョストガンダーAM",main:{pwr:7,shl:160,rng:225,spd:420,itv:200,str:100},sub:{pwr:34,rng:70,spd:10,itv:500,str:100},tunable:{mwp:1,pwp:1},cost:140,hp:25,str:3,tec:-1,wlk:1,tgh:3,type:"l",joint:{wp:0}}
+{id:30,name:"ジョストガンダーAM2",main:{pwr:0,shl:30,rng:0,spd:10,itv:1000,str:100},sub:{pwr:30,rng:150,spd:0,itv:500,str:100},tunable:{mwp:1,pwp:1},cost:120,hp:25,str:3,tec:-1,wlk:2,tgh:2,type:"l",joint:{wp:0}}
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:6,name:"ダークウィングAMJ",size:"M",builtin:{bs:1},slot:1,comment:"Rtチャージ特典"}
 {id:7,name:"ルミナスウィングAMJ",size:"M",builtin:{bs:1},slot:1,comment:"Rtチャージ特典"}
