@@ -706,4 +706,4 @@
 {id:53,name:"ティタロテスAMJ",type:"c",size:"L",cost:35,tunable:{mwp:1},main:{pwr:15,shl:150,rng:320,spd:300,itv:800}}
 {id:54,name:"XギミックランチャーAMJ",main:{pwr:23,shl:350,rng:320,spd:320,itv:500},type:"c",size:"M",cost:60,hp:10,tec:1,slot:1,tunable:{mwp:1}}
 {id:55,name:"XミドルガトリングAMJ",size:"M",cost:60,hp:10,tec:1,main:{pwr:8,shl:700,rng:260,spd:450,itv:140},tunable:{mwp:1},slot:1,type:"lc"}
-{id:56,name:"ゴウテン用AMJ",joint:{am:2},comment:"AMJ分スロット込み",slot:2}
+{id:56,name:"ゴウテン用AMJ",joint:{am:2},comment:"ＡＭＪ分スロット込み",type:"lac",size:"M",slot:2}
