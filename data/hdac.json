@@ -11,8 +11,8 @@
 {id:009,name:"TGH+1,CAPA+5(HD)",tgh:1,capa:5,slot:1}
 {id:010,name:"STR+1,TEC+1(HD)",str:1,tec:1,slot:1}
 {id:011,name:"TEC+1,WLK+1(HD)",tec:1,wlk:1,slot:1}
-{id:012,name:"WLK+1,FLY+1(HD)",wlk:1,fly:1,slot:1}
-{id:013,name:"STR+1,TGH+1(HD)",str:1,tgh:1,slot:1}
-{id:014,name:"TEC+1,TGH+1(HD)",tec:1,tgh:1,slot:1}
-{id:015,name:"WLK+1,TGH+1(HD)",wlk:1,tgh:1,slot:1}
-{id:016,name:"FLY+1,TGH+1(HD)",fly:1,tgh:1,slot:1}
+{id:017,name:"WLK+1,FLY+1(HD)",wlk:1,fly:1,slot:1}
+{id:018,name:"STR+1,TGH+1(HD)",str:1,tgh:1,slot:1}
+{id:019,name:"TEC+1,TGH+1(HD)",tec:1,tgh:1,slot:1}
+{id:020,name:"WLK+1,TGH+1(HD)",wlk:1,tgh:1,slot:1}
+{id:021,name:"FLY+1,TGH+1(HD)",fly:1,tgh:1,slot:1}
