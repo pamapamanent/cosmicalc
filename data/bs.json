@@ -9,7 +9,7 @@
 //{id:8,name:"P・フォアナBS",type:"s",cost:30,hp:15,str:1,wlk:-1,fly:2,tgh:2}
 //{id:9,name:"レニーロップBS6",type:"l",size:"SS",cost:40,hp:25,str:1,tec:3,wlk:-1,fly:2}
 {group:"Ｓサイズ",prefixID:"S",commonStat:{size:"S"},nextID:42}
-//{id:1,name:"フログランダーBS",type:"l",cost:10,hp:10,tec:1,fly:1}
+{id:1,name:"フログランダーBS",type:"l",cost:10,hp:10,tec:1,fly:1}
 //{id:2,name:"カメンティスBS",type:"l",cost:20,hp:10,tec:1,wlk:1,fly:1}
 //{id:3,name:"ポーンジャーBS",type:"l",cost:20,hp:20,wlk:1,fly:1}
 //{id:164,name:"ポーンジャーBS2",cost:40,hp:25,str:2,tec:1,wlk:1,size:"S",type:"l",fly:1}

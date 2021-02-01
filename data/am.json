@@ -4,7 +4,7 @@
 //{id:1,name:"A・メイドAM",cost:50,hp:15,str:1,fly:1,tgh:1,main:{pwr:12,shl:420,rng:145,spd:62,itv:240},tunable:{mwp:1},joint:{wp:0}}
 //{id:2,name:"エルメ・SAM",type:"ls",cost:55,hp:15,str:1,tec:1,wlk:1,sub:{str:100,pwr:22,rng:27,spd:49,itv:600},tunable:{pwp:1},joint:{wp:0}}
 {group:"Ｓサイズ",prefixID:"S",commonStat:{size:"S"},nextID:66}
-//{id:30,name:"フログランダーAM",cost:5,hp:5,str:1}
+{id:30,name:"フログランダーAM",cost:5,hp:5,str:1}
 //{id:72,name:"トノサマランダーAM",cost:20,hp:10,str:1,wlk:1}
 //{id:73,name:"トノサマランダーAM-G",cost:20,hp:10,str:1,wlk:1}
 //{id:28,name:"ビーゾルAM",cost:5,hp:5,tec:1}
