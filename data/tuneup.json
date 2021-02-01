@@ -72,7 +72,7 @@
 {id:12,name:"ハイアサルト",cost:35,str:2,tec:2,material:"4*1|17*26|18*26|27*12|28*12|12*5|11*5|16*5",comment:["60%"]}
 {id:13,name:"スピーダー",cost:15,wlk:1,fly:1,material:"3*1|19*23|20*23|14*5|13*5",comment:["60%"]}
 {id:14,name:"ハイスピーダー",cost:35,wlk:2,fly:2,material:"4*1|19*26|20*26|30*12|26*12|14*5|13*5|16*5",comment:["60%"]}
-{group:"特殊",prefixID:"SP"}
+{group:"特殊",prefixID:"SP",commonStat:{target:"cpt"}}
 {id:1,name:"エターナル",cost:15,hp:15,material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"]}
 //{group:"キャパ系",prefixID:"C",commonStat:{target:"cpt lg"}}
 //{group:"リベンジ系",prefixID:"RV",commonStat:{target:"cpt lg"}}
