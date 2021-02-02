@@ -1,6 +1,6 @@
 {group:"HD",prefixID:"H",nextID:3}
 //{id:1,name:"シエスHD"}
-//{id:2,name:"セラフクリムローゼHD6"}
+{id:2,name:"セラフクリムローゼHD6"}
 {group:"LG",prefixID:"L",nextID:3}
 {id:1,name:"シエスLG",cost:40,hp:30,tec:-1,wlk:2,fly:1,tgh:3}
 //{id:2,name:"セラフクリムローゼLG2",cost:70,hp:40,str:1,tec:1,wlk:2,fly:4,tgh:1}
@@ -12,13 +12,13 @@
 //{id:4,name:"デモンBS2",type:"s",size:"S",cost:30,hp:20,tec:1,fly:3}
 {group:"AM",prefixID:"A",nextID:14}
 //{id:1,name:"セラフクリムローゼAM2",cost:25,hp:15,str:1,tec:2}
-//{id:2,name:"ゼロセイバーガールAM",cost:40,hp:25,str:3,wlk:1,fly:1}
-//{id:3,name:"ゼロセイバーガールAM-S",cost:40,hp:25,str:3,wlk:1,fly:1}
+{id:2,name:"ゼロセイバーガールAM",cost:40,hp:25,str:3,wlk:1,fly:1}
+{id:3,name:"ゼロセイバーガールAM-S",cost:40,hp:25,str:3,wlk:1,fly:1}
 //{id:4,name:"メカジェッターガールAM",cost:40,hp:25,str:1,tec:3,wlk:1}
 //{id:5,name:"メカジェッターガールAM-S",cost:40,hp:25,str:1,tec:3,wlk:1}
 //{id:6,name:"デストラクトガールAM",cost:35,hp:20,str:1,tec:1,tgh:3}
 //{id:7,name:"デストラクトガールAM-S",cost:35,hp:20,str:1,tec:1,tgh:3}
-//{id:8,name:"シエスAM",cost:30,hp:15,str:2,tec:2,wlk:1,tgh:-1}
+{id:8,name:"シエスAM",cost:30,hp:15,str:2,tec:2,wlk:1,tgh:-1}
 //{id:9,name:"天宮琴音AM",cost:25,hp:15,str:2,tec:2,wlk:-1}
 //{id:10,name:"ミスティホロウAM4",cost:35,hp:20,str:2,wlk:2,fly:1}
 //{id:11,name:"ウィンベルAM3",cost:75,hp:20,str:1,tec:1,tgh:3,main:{pwr:2,shl:50,rng:340,spd:420,itv:600},tunable:{mwp:1}}
