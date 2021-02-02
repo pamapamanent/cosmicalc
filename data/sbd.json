@@ -1,2 +1,2 @@
-{group:"S補",prefixId:"SS",commonStat:{size:"S",type:"s"},nextId:"0"}
-{id:"1",name:メルフィBD,size:"S",type:"s",cost:445,hp:225,str:4,tec:11,wlk:9,fly:12,tgh:10,capa:920, wbid:0, joint:{}, cartridge:{hpup:11,lv1:"3*6@25|9@20|11@30|12@30|10@30|19@20|21@20|25@25|24@30",lv6:"20@20|22@20|31@10",lv9:"15@20|34@30|33@40"}, tunable:{}, builtin:{}, main:{}, sub:{}, fixedParts:{HD:"メルフィHD", LG:"メルフィLG", AM : ["メルフィAM", "メルフィAM2"], WP : ["スロット","スロット"] }}
+{group:"Ｓ補",prefixId:"SS",commonStat:{size:"S",type:"s"},nextId:0}
+{id:1,name:"メルフィBD",size:"S",type:"s",cost:445,hp:225,str:4,tec:11,wlk:9,fly:12,tgh:10,capa:920, wbid:0, joint:{}, cartridge:{hpup:11,lv1:"3*6@25|9@20|11@30|12@30|10@30|19@20|21@20|25@25|24@30",lv6:"20@20|22@20|31@10",lv9:"15@20|34@30|33@40"}, tunable:{}, builtin:{}, main:{}, sub:{}, fixedParts:{HD:"メルフィHD", LG:"メルフィLG", AM : ["メルフィAM", "メルフィAM2"], WP : ["スロット","スロット"] }}
