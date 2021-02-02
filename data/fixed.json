@@ -1,7 +1,7 @@
 {group:"HD",prefixID:"H",nextID:3}
 {id:1,name:"シエスHD"}
 {id:2,name:"セラフクリムローゼHD6"}
-{id:3,name:"ExメルフィHD",sub:{pwr:20,shl:12,rng:80,spd:150,itv:1000},tunable:{pwp:0},builtin:{lg:1},comment:["ブレイクスイッチ省略","身代わり依存値不明"],type:"s",size:"S",cost:50,hp:30,str:-1,wlk:2,fly:2,tgh:2}
+{id:3,name:"メルフィHD",sub:{pwr:20,shl:12,rng:80,spd:150,itv:1000},tunable:{pwp:0},builtin:{lg:1},comment:["ブレイクスイッチ省略","身代わり依存値不明"],type:"s",size:"S",cost:50,hp:30,str:-1,wlk:2,fly:2,tgh:2}
 {group:"LG",prefixID:"L",nextID:3}
 {id:1,name:"シエスLG",cost:40,hp:30,tec:-1,wlk:2,fly:1,tgh:3}
 {id:2,name:"セラフクリムローゼLG2",cost:70,hp:40,str:1,tec:1,wlk:2,fly:4,tgh:1}
@@ -32,3 +32,4 @@
 {id:2,name:"エンジェルエンブレム",slot:0,comment:"エンジェル学園シリーズ共通"}
 {id:3,name:"バトルホイッスル",size:"M",comment:"サマーガラポン水着機体用コンバージョンパーツ",slot:0}
 {id:4,name:"バトルリコーダー",sub:{itv:4000},type:"l",size:"M",comment:["スクールイルミスBF","スクールリリレインBFに接続可能。"],slot:0}
+{id:5,name:"スロット",comment:"スロット調整パーツ"}
