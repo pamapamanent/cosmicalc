@@ -1,4 +1,4 @@
-{group:"マスク",nextID:0}
+{group:"マスク",prefixId:"fcac",nextID:0}
 {id:0,name:"HP+5,STR+1,CAPA+5",hp:5,str:1,capa:5,slot:1}
 {id:1,name:"HP+5,TEC+1,CAPA+5",hp:5,tec:1,capa:5,slot:1}
 {id:2,name:"HP+5,WLK+1,CAPA+5",hp:5,wlk:1,capa:5,slot:1}
