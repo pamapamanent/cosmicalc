@@ -1,13 +1,12 @@
-{group:"ＳＳサイズ",prefixId:"SS",commonStat:{size:"SS",type:""},nextId:0}
 {id:1,name:"テストBS（SS）",size:"SS",type:"lfcs",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, cartridge:{hpup:11,lv1:"3*6@25|9@20|11@30|12@30|10@30|19@20|21@20|25@25",lv6:"15@20|34@30|33@40",lv9:""}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}, fixedParts:{ }}
 
 
-{group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:0}
+{group:"Ｓサイズ",prefixId:"BS",commonStat:{size:"S",type:""},nextId:0}
 {id:1,name:"テストBS（S）",size:"S",type:"lfcs",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
 
 
-{group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:0}
+{group:"Ｍサイズ",prefixId:"BM",commonStat:{size:"M",type:""},nextId:0}
 
 
 
-{group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:0}
+{group:"Ｌサイズ",prefixId:"BL",commonStat:{size:"L",type:""},nextId:0}
