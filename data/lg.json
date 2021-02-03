@@ -1,5 +1,5 @@
 {group:"ＳＳサイズ",prefixId:"SS",commonStat:{size:"SS",type:""},nextId:0}
-{id:1,name:"テストLG（S）",size:"SS",type:"lfcs",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
+{id:1,name:"テストLG（SS）",size:"SS",type:"lfcs",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
 
 
 {group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
@@ -11,4 +11,3 @@
 
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
-
