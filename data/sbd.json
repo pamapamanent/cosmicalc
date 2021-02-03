@@ -1,5 +1,3 @@
 {group:"Ｓ補",prefixId:"SS",commonStat:{size:"S",type:"s"},nextId:0}
 {id:1,name:"メルフィBD",size:"S",type:"s",cost:445,hp:225,str:4,tec:11,wlk:9,fly:12,tgh:10,capa:920,wbid:0, joint:{wp:2}, cartridge:{hpup:11,lv1:"3*6@25|9@20|11@30|12@30|10@30|19@20|21@20|25@25",lv6:"15@20|34@30|33@40",lv9:""}, builtin:{bs:1}, fixedParts:{hd:"メルフィHD", lg:"メルフィLG", am : ["メルフィAM", "メルフィAM2"], wp : ["スロット","スロット"] }}
 {id:2,name:"テストロボ",size:"S",type:"s",cost:445,hp:225,str:4,tec:11,wlk:9,fly:12,tgh:10,capa:920,wbid:5}
-
-
