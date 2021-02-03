@@ -1,5 +1,115 @@
-{group:"ハンドガン",prefixId:"HG",nextId:0}
-{id:1,name:"テストWP（SS）",size:"SS",type:"lfcs",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, cartridge:{hpup:11,lv1:"3*6@25|9@20|11@30|12@30|10@30|19@20|21@20|25@25",lv6:"15@20|34@30|33@40",lv9:""}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}, fixedParts:{ }}
-{id:2,name:"テストWP（S）",size:"S",type:"lfcs",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
-{id:3,name:"テストWP（M）",size:"M",type:"lfcs",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
-{id:4,name:"テストWP（L）",size:"L",type:"lfcs",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
+{group:"ハンドガン系（実弾属性）",prefixId:"HG",nextId:0}
+{id:1,name:"ハンドガン",size:"S",type:"lfcs",cost:15, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:460,rng:225,spd:400,itv:360}}
+{id:2,name:"オートガン",size:"S",type:"lfcs",cost:35, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:440,rng:225,spd:400,itv:400}}
+{id:3,name:"カスタムガン",size:"M",type:"lc",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:660,rng:225,spd:400,itv:260}}
+{id:4,name:"ハンドマグ",size:"S",type:"lfcs",cost:15, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:260,rng:200,spd:440,itv:460}}
+{id:5,name:"オートマグ",size:"S",type:"lfcs",cost:45, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:250,rng:225,spd:400,itv:460}}
+{id:6,name:"カスタムマグ",size:"M",type:"lc",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:17,shl:270,rng:225,spd:400,itv:460}}
+{id:7,name:"シングルガン",size:"M",type:"lcs",cost:35, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:260,rng:250,spd:440,itv:400}}
+{id:8,name:"アクセルガン",size:"M",type:"lcs",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:15,shl:300,rng:250,spd:440,itv:400}}
+{id:9,name:"ピースメーカー",size:"M",type:"ls",cost:105, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:360,rng:250,spd:440,itv:280}}
+{id:10,name:"ミリタリーガン",size:"S",type:"lfcs",cost:60, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:400,rng:200,spd:400,itv:240}}
+{id:11,name:"ドラムガン",size:"M",type:"l",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:440,rng:175,spd:400,itv:240}}
+{id:12,name:"インクリーズドラムガン",size:"M",type:"l",cost:130, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:530,rng:175,spd:400,itv:240}}
+{id:13,name:"モータガン",size:"M",type:"l",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:650,rng:225,spd:400,itv:140}}
+{id:14,name:"ブーストガン",size:"M",type:"l",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:13,shl:460,rng:250,spd:440,itv:200}}
+{id:15,name:"エスティスマグ",size:"M",type:"l",cost:155, slot:3,tunable:{mwp:1}, main:{pwr:21,shl:340,rng:225,spd:400,itv:500}}
+{id:16,name:"ピアースガン",size:"M",type:"l",cost:120, slot:3,tunable:{mwp:1}, main:{pwr:13,shl:490,rng:250,spd:400,itv:340}}
+{id:17,name:"LLバルクマグ",size:"LL",type:"l",cost:140, slot:3,tunable:{mwp:1}, main:{pwr:19,shl:370,rng:225,spd:400,itv:500}}
+{id:18,name:"LLバルクアクセル",size:"LL",type:"lc",cost:130, slot:3,tunable:{mwp:1}, main:{pwr:22,shl:220,rng:250,spd:440,itv:500}}
+{group:"ハンドガン系（ビーム属性）",prefixId:"BHG",nextId:50}
+{id:51,name:"ビームガン",size:"S",type:"lfcs",cost:30, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:400,rng:275,spd:440,itv:440}}
+{id:52,name:"ワイドビームガン",size:"S",type:"fs",cost:50, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:300,rng:275,spd:440,itv:600}}
+{id:53,name:"ダブルビームガン",size:"S",type:"fs",cost:60, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:600,rng:275,spd:440,itv:580}}
+{id:54,name:"3ウェイビームガン",size:"M",type:"fs",cost:80, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:690,rng:275,spd:350,itv:780}}
+{id:55,name:"リミットプラズマガン",size:"M",type:"f",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:440,rng:275,spd:440,itv:400}}
+{id:56,name:"プラズマガン",size:"M",type:"f",cost:170, slot:3,tunable:{mwp:1}, main:{pwr:19,shl:370,rng:275,spd:440,itv:480}}
+{id:57,name:"ガンマライトニングガン",size:"M",type:"f",cost:130, slot:3,tunable:{mwp:1}, main:{pwr:26,shl:210,rng:275,spd:440,itv:780}}
+{id:58,name:"カーブガン",size:"S",type:"fs",cost:50, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:220,rng:275,spd:480,itv:500}}
+{id:59,name:"スイングガン",size:"M",type:"f",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:15,shl:240,rng:275,spd:480,itv:500}}
+{id:60,name:"アクセルビームガン",size:"M",type:"f",cost:400, slot:3,tunable:{mwp:1}, main:{pwr:13,shl:290,rng:275,spd:480,itv:400}}
+{id:61,name:"パルスガン",size:"S",type:"lfcs",cost:40, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:300,rng:250,spd:360,itv:600}}
+{id:62,name:"エレキガン",size:"S",type:"s",cost:90, slot:3, main:{pwr:15,shl:300,rng:250,spd:360,itv:600}}
+{id:63,name:"パラライズガン",size:"S",type:"s",cost:140, slot:3, main:{pwr:22,shl:270,rng:250,spd:360,itv:600}}
+{id:64,name:"ライトニングキャノン",size:"L",type:"f",cost:150, slot:3, main:{pwr:12,shl:520,rng:275,spd:440,itv:300}}
+{id:65,name:"サンダーシューター",size:"M",type:"f",cost:140, slot:3, main:{pwr:11,shl:520,rng:275,spd:440,itv:300}}
+{group:"マシンガン系（実弾属性）",prefixId:"MG",nextId:100}
+{id:101,name:"ナノマシンガン",size:"SS",type:"lfcs",cost:30, slot:3,tunable:{mwp:1}, main:{pwr:4,shl:880,rng:160,spd:480,itv:140}}
+{id:102,name:"ハンドマシンガン",size:"M",type:"lfcs",cost:50, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:920,rng:160,spd:480,itv:140}}
+{id:103,name:"サブマシンガン",size:"M",type:"lcs",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:960,rng:160,spd:480,itv:140}}
+{id:104,name:"マシンガン",size:"M",type:"ls",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:800,rng:160,spd:480,itv:140}}
+{id:105,name:"ドラムマシンガン",size:"M",type:"l",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:840,rng:160,spd:480,itv:140}}
+{id:106,name:"バルカン",size:"L",type:"lcs",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:840,rng:110,spd:400,itv:200}}
+{id:107,name:"チェインバルカン",size:"L",type:"lcs",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:960,rng:110,spd:400,itv:200}}
+{id:108,name:"デルタバルカン",size:"LL",type:"l",cost:180, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:1670,rng:90,spd:400,itv:200}}
+{id:109,name:"コンパクトガトリング",size:"M",type:"lc",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:1080,rng:200,spd:400,itv:140}}
+{id:110,name:"バスターガトリング",size:"L",type:"l",cost:170, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:1000,rng:200,spd:400,itv:140}}
+{id:111,name:"ヒュージガトリング",size:"LL",type:"l",cost:180, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:1920,rng:200,spd:400,itv:140}}
+{id:112,name:"例示マシンガン",size:"M",type:"l",cost:120, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:440,rng:160,spd:480,itv:140}}
+{id:113,name:"エイトバルカン",size:"LL",type:"lc",cost:130, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:1640,rng:110,spd:400,itv:220}}
+{id:114,name:"LLバルクガトリング",size:"LL",type:"l",cost:220, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:1000,rng:200,spd:400,itv:140}}
+{group:"マシンガン系（ビーム属性）",prefixId:"BMG",nextId:150}
+{id:151,name:"ビームマシンガン",size:"S",type:"fs",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:580,rng:200,spd:480,itv:140}}
+{id:152,name:"ビームガトリング",size:"LL",type:"f",cost:140, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:1020,rng:250,spd:440,itv:140}}
+{id:153,name:"ダブルビームガトリング",size:"LL",type:"f",cost:200, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:1620,rng:250,spd:440,itv:140}}
+{group:"マシンガン系（爆風属性）",prefixId:"BLMG",nextId:190}
+{id:191,name:"ヒートガトリング",size:"M",type:"c",cost:85, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:600,rng:300,spd:400,itv:200}}
+{group:"ライフル系（実弾属性）",prefixId:"RF",nextId:200}
+{id:201,name:"マスケット",size:"S",type:"lcs",cost:30, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:240,rng:330,spd:440,itv:700}}
+{id:202,name:"フリントマスケット",size:"M",type:"lcs",cost:50, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:330,rng:330,spd:440,itv:500}}
+{id:203,name:"イージーライフル",size:"S",type:"lcs",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:250,rng:330,spd:440,itv:660}}
+{id:204,name:"ライフル",size:"M",type:"lcs",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:17,shl:250,rng:330,spd:440,itv:700}}
+{id:205,name:"アサルトライフル",size:"M",type:"lc",cost:130, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:630,rng:250,spd:480,itv:140}}
+{id:206,name:"レイドライフル",size:"M",type:"lc",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:600,rng:250,spd:480,itv:140}}
+{id:207,name:"ペイロードライフル",size:"L",type:"c",cost:200, slot:3,tunable:{mwp:1}, main:{pwr:42,shl:150,rng:350,spd:520,itv:1000}}
+{id:208,name:"ストライカーライフル",size:"M",type:"l",cost:155, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:820,rng:250,spd:400,itv:140}}
+{group:"ライフル系（ビーム属性）",prefixId:"BRF",nextId:250}
+{id:251,name:"ビームライフル",size:"M",type:"fs",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:24,shl:140,rng:275,spd:520,itv:800}}
+{id:252,name:"オートビームライフル",size:"M",type:"f",cost:120, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:450,rng:275,spd:520,itv:200}}
+{id:253,name:"ネガトロンライフル",size:"L",type:"f",cost:180, slot:3,tunable:{mwp:1}, main:{pwr:37,shl:190,rng:275,spd:520,itv:900}}
+{group:"ライフル系（爆発属性）",prefixId:"BLRF",nextId:290}
+{id:291,name:"ヴォルグライフル",size:"M",type:"c",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:13,shl:540,rng:350,spd:360,itv:300}}
+{group:"ブレイカー系（実弾属性）",prefixId:"BR",nextId:300}
+{id:301,name:"サーキットブレイカー",size:"SS",type:"cs",cost:45, slot:3,tunable:{mwp:1}, main:{pwr:14,shl:200,rng:300,spd:400,itv:540}}
+{id:302,name:"アーマーブレイカー",size:"M",type:"c",cost:60, slot:3,tunable:{mwp:1}, main:{pwr:23,shl:100,rng:330,spd:440,itv:1000}}
+{id:303,name:"コアブレイカー",size:"M",type:"c",cost:140, slot:3,tunable:{mwp:1}, main:{pwr:39,shl:100,rng:350,spd:480,itv:1000}}
+{id:304,name:"ストラクトブレイカー",size:"L",type:"c",cost:200, slot:3,tunable:{mwp:1}, main:{pwr:53,shl:100,rng:350,spd:480,itv:1000}}
+{id:305,name:"ガトリングブレイカー",size:"L",type:"c",cost:210, slot:3,tunable:{mwp:1}, main:{pwr:13,shl:600,rng:300,spd:480,itv:240}}
+{group:"シューター系（実弾属性）",prefixId:"SH",nextId:320}
+{id:321,name:"クロスシューター",size:"S",type:"lfs",cost:60, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:420,rng:250,spd:400,itv:400}}
+{id:322,name:"パワーシューター",size:"M",type:"lf",cost:140, slot:3,tunable:{mwp:1}, main:{pwr:22,shl:270,rng:250,spd:400,itv:600}}
+{id:323,name:"クエンチシューター",size:"M",type:"l",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:15,shl:470,rng:225,spd:400,itv:340}}
+{group:"シューター系（実弾属性）",prefixId:"BSH",nextId:350}
+{id:351,name:"ビームシューター",size:"M",type:"f",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:24,shl:270,rng:275,spd:485,itv:600}}
+{group:"レールガン系（実弾属性）",prefixId:"RG",nextId:370}
+{id:371,name:"Sレールガン",size:"M",type:"ls",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:42,shl:90,rng:250,spd:480,itv:500}}
+{id:372,name:"Sブラストレールガン",size:"M",type:"l",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:31,shl:210,rng:250,spd:480,itv:600}}
+{group:"レールガン系（ビーム属性）",prefixId:"BRG",nextId:380}
+{id:381,name:"Bブラストレールガン",size:"M", slot:3,tunable:{mwp:1}, main:{pwr:18,shl:320,rng:275,spd:440,itv:340}}
+{group:"レールガン（爆風属性）",prefixId:"BLRG",nextId:390}
+{id:391,name:"レールガン",size:"M",type:"c",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:33,shl:90,rng:350,spd:480,itv:500}}
+{id:392,name:"クルエルレールガン",size:"M",type:"c",cost:140, slot:3,tunable:{mwp:1}, main:{pwr:20,shl:200,rng:350,spd:480,itv:400}}
+{id:393,name:"ブラストレールガン",size:"M",type:"c",cost:140, slot:3,tunable:{mwp:1}, main:{pwr:48,shl:90,rng:350,spd:480,itv:500}}
+{id:394,name:"リニアキャノン",size:"L",type:"c",cost:210, slot:3,tunable:{mwp:1}, main:{pwr:52,shl:160,rng:350,spd:480,itv:500}}
+{group:"バズーカ系（爆風属性）",prefixId:"BZ",nextId:400}
+{id:401,name:"マイクロバズーカ",size:"SS",type:"cs",cost:40, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:460,rng:300,spd:400,itv:300}}
+{id:402,name:"ミニバズーカ",size:"S",type:"cs",cost:60, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:340,rng:300,spd:360,itv:400}}
+{id:403,name:"ハンドバズーカ",size:"M",type:"cs",cost:80, slot:3,tunable:{mwp:1}, main:{pwr:14,shl:300,rng:300,spd:320,itv:500}}
+{id:404,name:"バズーカ",size:"L",type:"c",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:19,shl:260,rng:300,spd:320,itv:600}}
+{id:405,name:"ダブルバズーカ",size:"L",type:"c",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:400,rng:300,spd:320,itv:600}}
+{id:406,name:"ミドルバズーカ",size:"L",type:"c",cost:120, slot:3,tunable:{mwp:1}, main:{pwr:25,shl:220,rng:300,spd:320,itv:700}}
+{id:407,name:"ラージバズーカ",size:"LL",type:"c",cost:160,tunable:{mwp:1}, main:{pwr:33,shl:250,rng:300,spd:300,itv:900}}
+{id:408,name:"タイタンバズーカ",size:"LL",type:"c",cost:200,tunable:{mwp:1}, main:{pwr:49,shl:210,rng:300,spd:260,itv:1100}}
+{id:409,name:"ミニブラストバズーカ",size:"S",type:"c",cost:60,tunable:{mwp:1}, main:{pwr:18,shl:180,rng:300,spd:360,itv:640}}
+{id:410,name:"ブラストバズーカ",size:"M",type:"c",cost:105,tunable:{mwp:1}, main:{pwr:28,shl:190,rng:300,spd:360,itv:900}}
+{id:411,name:"ミニマイトバズーカ",size:"M",type:"c",cost:90,tunable:{mwp:1}, main:{pwr:25,shl:200,rng:300,spd:360,itv:900}}
+{id:412,name:"ガトリングバズーカ",size:"L",type:"c",cost:210,tunable:{mwp:1}, main:{pwr:11,shl:840,rng:300,spd:400,itv:200}}
+{id:413,name:"ショックバズーカ",size:"M",type:"s",cost:100,tunable:{mwp:1}, main:{pwr:16,shl:240,rng:250,spd:325,itv:800}}
+{id:414,name:"プロジオバズーカ",size:"L",type:"c",cost:160,tunable:{mwp:1}, main:{pwr:26,shl:290,rng:300,spd:320,itv:600}}
+{id:415,name:"ブラストガトリング",size:"L",type:"c",cost:210,tunable:{mwp:1}, main:{pwr:11,shl:820,rng:260,spd:300,itv:200}}
+{id:416,name:"チャージディレイバズーカ",size:"M",type:"s",cost:100,tunable:{mwp:1}, main:{pwr:16,shl:240,rng:250,spd:325,itv:800}}
+{id:417,name:"BTバズーカ",size:"M",type:"cs",cost:100,tunable:{mwp:1}, main:{pwr:16,shl:240,rng:250,spd:325,itv:800}}
+{group:"バズーカ系（ビーム属性）",prefixId:"BBZ",nextId:450}
+{id:451,name:"メガビームガン",size:"L",type:"f",cost:110,tunable:{mwp:1}, main:{pwr:31,shl:150,rng:250,spd:440,itv:1000}}
+{id:452,name:"プラズマビームキャノン",size:"M",type:"f",cost:180,tunable:{mwp:1}, main:{pwr:34,shl:220,rng:275,spd:400,itv:740}}
+{id:453,name:"チャージビームキャノン",size:"L",type:"f",cost:120,tunable:{mwp:1}, main:{pwr:37,shl:120,rng:250,spd:440,itv:1000}}
