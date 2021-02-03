@@ -2,19 +2,19 @@
 {id:1,name:"メルフィHD",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, cartridge:{hpup:11,lv1:"3*6@25|9@20|11@30|12@30|10@30|19@20|21@20|25@25",lv6:"15@20|34@30|33@40",lv9:""}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}, fixedParts:{ }}
 
 
-{group:"ＬＧ",prefixId:"L",nextId:0}
-{id:1,name:"メルフィLG",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
+{group:"ＬＧ",prefixId:"L",nextId:2000}
+{id:2001,name:"メルフィLG",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
 
 
-{group:"ＢＳ",prefixId:"B",nextId:0}
-
-
-
-{group:"ＡＭ",prefixId:"A",nextId:0}
-{id:1,name:"メルフィAM",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
-{id:2,name:"メルフィAM2",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
+{group:"ＢＳ",prefixId:"B",nextId:4000}
 
 
 
-{group:"ＷＰ",prefixId:"W",nextId:0}
-{id:1,name:"スロット",size:"M", slot:3}
+{group:"ＡＭ",prefixId:"A",nextId:6000}
+{id:6001,name:"メルフィAM",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
+{id:6002,name:"メルフィAM2",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
+
+
+
+{group:"ＷＰ",prefixId:"W",nextId:8000}
+{id:8001,name:"スロット",size:"M", slot:3}
