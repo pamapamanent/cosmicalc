@@ -1,3 +1,9 @@
 {group:"Ｓ補",prefixId:"SS",commonStat:{size:"S",type:"s"},nextId:0}
-{id:1,name:"メルフィBD",size:"S",type:"s",cost:445,hp:225,str:4,tec:11,wlk:9,fly:12,tgh:10,capa:920,wbid:0, joint:{wp:2}, cartridge:{hpup:11,lv1:"3*6@25|9@20|11@30|12@30|10@30|19@20|21@20|25@25",lv6:"15@20|34@30|33@40",lv9:""}, builtin:{bs:1}, fixedParts:{hd:"メルフィHD", lg:"メルフィLG", am : ["メルフィAM", "メルフィAM2"], wp : ["スロット","スロット"] }}
-{id:2,name:"テストロボ",size:"S",type:"s",cost:445,hp:225,str:4,tec:11,wlk:9,fly:12,tgh:10,capa:920,wbid:5}
+{id:79,name:"ウィンベルαBD",size:"S",type:"s",cost:505,hp:210,str:6,tec:10,wlk:10,fly:10,tgh:9,capa:780, fixedParts:{hd:"ウィンベルαHD" }}
+{id:84,name:"A.L.E.ウィンベルBD",size:"S",type:"s",cost:525,hp:210,str:5,tec:9,wlk:8,fly:7,tgh:8,capa:815, fixedParts:{hd:"A.L.E.ウィンベルHD", lg:"A.L.E.ウィンベルLG", wp : "A.L.E.ウィンベルBD@" }}
+{id:104,name:"エイミィBD",size:"S",type:"s",cost:515,hp:250,str:5,tec:12,wlk:16,fly:11,tgh:10,capa:900, sub:{pwr:25,shl:60,rng:275,spd:290,itv:1000}, fixedParts:{hd:"エイミィHD", lg:"エイミィLG", am : ["エイミィAM2", "エイミィAM"], wp : ["ラブリーシリンジα","ラブリーシリンジβ"] }}
+{id:126,name:"えりざBD",size:"S",type:"s",cost:470,hp:225,str:13,tec:3,wlk:10,fly:4,tgh:12,capa:670, main:{pwr:0,shl:80,rng:300,spd:300,itv:500}, sub:{pwr:0,shl:20,rng:43,spd:63,itv:1000}, fixedParts:{hd:"えりざHD", lg:"えりざLG", bs:"デモンBS", wp : ["プチシヴァリー","えりざBS","メモリ・スロット","メモリ・スロット"] }}
+ {id:295,name:"シャインバスターBD",size:"S",type:"s",cost:445,hp:225,str:10,tec:10,wlk:7,fly:7,tgh:14,capa:850}
+ {id:307,name:"スクイドルガールαBD2",size:"S",type:"s",cost:445,hp:210,str:7,tec:7,wlk:9,fly:6,tgh:8,capa:815, sub:{pwr:19,shl:180,rng:200,spd:200,itv:1000}, fixedParts:{hd:"スクイドルガールαHD2", lg:"スクイドルガールαLG2", am : ["スクイドルガールαAM2", "スクイドルガールαAM2"] },comment:["内蔵強化値不明"]}
+ {id:361,name:"ぜろ子BD",size:"S",type:"s",cost:470,hp:225,str:11,tec:9,wlk:17,fly:5,tgh:8,capa:635, main:{pwr:0,shl:80,rng:300,spd:300,itv:500}, sub:{pwr:0,shl:20,rng:43,spd:63,itv:1000}, fixedParts:{hd:"ぜろ子HD", lg:"ぜろ子LG", bs:"デモンBS", wp : ["メモリ・スロット","メモリ・スロット","メモリ・スロット","メモリ・スロット"] },comment:["AMなし？"]}
+ {id:385,name:"タラントリックBD",size:"S",type:"s",cost:425,hp:205,str:7,tec:11,wlk:13,fly:7,tgh:7,capa:635, joint:{hd:0}, main:{pwr:6,shl:550,rng:250,spd:320,itv:300}, fixedParts:{wp : "メモリ・スロット" },comment:["HD内蔵、HD接続不可","内蔵強化値不明"]}
