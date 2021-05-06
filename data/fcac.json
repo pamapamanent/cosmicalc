@@ -16,3 +16,8 @@
 {id:14,name:"TEC+1,TGH+1",tec:1,tgh:1,slot:1}
 {id:15,name:"WLK+1,TGH+1",wlk:1,tgh:1,slot:1}
 {id:16,name:"FLY+1,TGH+1",fly:1,tgh:1,slot:1}
+{id:17,name:"STR+2",str:2,slot:1}
+{id:18,name:"TEC+2",tec:2,slot:1}
+{id:19,name:"WLK+2",wlk:2,slot:1}
+{id:20,name:"FLY+2",fly:2,slot:1}
+{id:21,name:"TGH+2",tgh:2,slot:1}
