@@ -18,6 +18,7 @@
 {id:70,name:"イヅナカムイαHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
  {id:176,name:"クリムローゼαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,fly:2, slot:3}
  {id:272,name:"ジークンロンαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
+ {id:362,name:"ぜろ子HD",size:"S",type:"s",cost:35,hp:20,str:2,tec:2,tgh:1, slot:3}
 
 {group:"ＬＧ",prefixId:"L",nextId:2000}
 {id:2001,name:"メルフィLG",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
@@ -39,7 +40,7 @@
  {id:341,name:"ゼロセイバーガールLG",size:"S",type:"l",cost:40,hp:20,str:1,tec:2,wlk:1,tgh:1, slot:3}
 {id:86,name:"A.L.E.ウィンベルLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,wlk:3,fly:1,tgh:2, slot:3}
  {id:183,name:"クルールLG",size:"S",type:"lacs",cost:45,hp:25,str:2,wlk:3,fly:1, slot:3}
-
+ {id:363,name:"ぜろ子LG",size:"S",type:"s",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
 {group:"ＢＳ",prefixId:"B",nextId:4000}
 {id:129,name:"デモンBS",size:"S",type:"s",cost:35,hp:20,str:1,tec:1,fly:3, slot:3}
 {id:131,name:"えりざBS",size:"S",type:"s", slot:3}
