@@ -72,7 +72,7 @@
 {id:54,name:"アクイーアガールAM",size:"S",type:"a",cost:40,hp:25,tec:3,wlk:-1,fly:2,tgh:1, slot:3, joint:{wp:0},comment:["部位破壊不能","武器手持ち不可"]}
  {id:174,name:"クリムローゼAM",size:"S",type:"a",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
  {id:320,name:"スケアガントAM",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, joint:{wp:2}, sub:{pwr:0,rng:0,spd:0,itv:1000}, fixedParts:{wp : ["スケアドラムガン","スケアナイフ＆ボム"] },comment:["部位破壊不能","手持ち装備不可"]}
- {id:1320,name:"スケアガントAM_TEST",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, joint:{wp:2}, sub:{pwr:0,rng:0,spd:0,itv:1000}, fixedParts:{ },comment:["部位破壊不能","手持ち装備不可"]}
+ {id:1320,name:"スケアガントAM_TEST",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, sub:{pwr:0,rng:0,spd:0,itv:1000}, fixedParts:{ },comment:["部位破壊不能","手持ち装備不可"]}
 {id:30,name:"アイヴィスAM",size:"S",type:"l",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3, joint:{wp:0},comment:["武器手持ち不可"]}
 {id:31,name:"アイヴィスAM2",size:"S",type:"l",cost:210,hp:25,str:3,tec:-1,tgh:3, slot:3, joint:{wp:0},comment:["部位破壊不能","武器手持ち不可"]}
 {id:135,name:"エリザロッテAM2",size:"S",type:"l",cost:100,hp:20,str:1,wlk:2,tgh:2, slot:3, joint:{wp:2},tunable:{pwp:1}, sub:{pwr:28,rng:150,spd:250,itv:500}, fixedParts:{wp : ["プリンセス師ヴァリー","プリンセスストライク"] },comment:["部位破壊不能","チューン可否不明"]}
