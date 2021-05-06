@@ -24,7 +24,6 @@
  {id:350,name:"ゼロファイターNEXTBD",size:"S",type:"l",cost:445,hp:225,str:9,tec:9,wlk:14,fly:8,tgh:8,capa:850}
  {id:300,name:"シルビアBD",size:"S",type:"l",cost:445,hp:225,str:20,tec:1,wlk:11,fly:5,tgh:11,capa:900, fixedParts:{hd:"シルビアHD", lg:"シルビアLG", am : ["シルビアAM", "シルビアAM2"], wp : ["メモリ・スロット","メモリ・スロット"] },comment:["ビット変更不可"]}
  {group:"Ｍ陸",prefixID:"LM",commonStat:{size:"M",type:"l"},nextID:13}
-{id:64,name:"イヅナカムイαBD2",size:"M",type:"a",cost:505,hp:255,str:6,tec:10,wlk:7,fly:17,tgh:8,capa:870, sub:{pwr:0,shl:50,rng:100,spd:160,itv:1000}, fixedParts:{hd:"イヅナカムイαHD2" }}
 {id:56,name:"アクシオンBD",size:"M",type:"l",cost:520,hp:270,str:7,tec:12,wlk:13,fly:10,tgh:9,capa:945}
 {id:120,name:"エスティスBD",size:"M",type:"l",cost:475,hp:255,str:5,tec:10,wlk:15,fly:10,tgh:8,capa:870, sub:{pwr:20,rng:0,spd:220,itv:1000}}
 {group:"Ｌ陸",prefixID:"LL",commonStat:{size:"L",type:"l"},nextID:21}
