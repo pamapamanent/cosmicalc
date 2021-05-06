@@ -1,5 +1,5 @@
 {group:"Ｓ空",prefixID:"AS",commonStat:{size:"S",type:"a"},nextID:25}
-{id:11,name:"S・P・ニッパーヌBD",size:"S",type:"a",cost:490,hp:225,str:13,tec:4,wlk:6,fly:14,tgh:11,capa:900, slot:3, main:{pwr:0,shl:30,rng:0,spd:10,itv:1000}, fixedParts:{hd:"S・P・ニッパーヌHD", lg:"S・P・ニッパーヌLG", bs:"S・P・ニッパーヌBS", am : ["S・P・ニッパーヌAM2", "S・P・ニッパーヌAM1"], wp : "メモリ・スロット" }}
+{id:11,name:"S・P・ニッパーヌBD",size:"S",type:"a",cost:490,hp:225,str:13,tec:4,wlk:6,fly:14,tgh:11,capa:900, slot:3, main:{pwr:0,shl:30,rng:0,spd:10,itv:1000}, fixedParts:{hd:"S・P・ニッパーヌHD", lg:"S・P・ニッパーヌLG", bs:"S・P・ニッパーヌBS", am : ["S・P・ニッパーヌAM2", "S・P・ニッパーヌAM"], wp : "メモリ・スロット" }}
 {id:48,name:"アクイーアガールBD",size:"S",type:"a",cost:565,hp:225,str:4,tec:14,wlk:9,fly:13,tgh:8,capa:900, fixedParts:{hd:"アクイーアガールHD", lg:"アクイーアガールLG", bs:"アクイーアガールBS", am : ["アクイーアガールAM2", "アクイーアガールAM"], wp : ["アクイーアブラスター","メモリ・スロット"] }}
  {id:170,name:"クリムローゼBD",size:"S",type:"a",cost:445,hp:220,str:6,tec:8,wlk:10,fly:15,tgh:9,capa:900, joint:{bs:0}, sub:{pwr:0,rng:0,spd:0,itv:600}, fixedParts:{hd:"クリムローゼHD", lg:"クリムローゼLG", am : ["クリムローゼAM", "クリムローゼAM"], wp : "メモリ・スロット" }}
  {id:175,name:"クリムローゼαBD",size:"S",type:"a",cost:405,hp:210,str:7,tec:8,wlk:7,fly:16,tgh:7,capa:780, fixedParts:{hd:"クリムローゼαHD", wp : "メモリ・スロット" }}
@@ -7,9 +7,7 @@
  {id:203,name:"クロスラプターBD",size:"S",type:"a",cost:445,hp:225,str:7,tec:11,wlk:6,fly:16,tgh:8,capa:850}
  {id:364,name:"ソードウィングBD",size:"S",type:"a",cost:320,hp:185,str:4,tec:11,wlk:6,fly:13,tgh:6,capa:635}
 
-
 {group:"Ｍ空",prefixID:"AM",commonStat:{size:"M",type:"a"},nextID:19}
-{id:52,name:"ウミガメンティスBD",main:{tec:100,pwr:30,shl:20,rng:360,spd:520,itv:1000},cartridge:{hpup:5,lv1:"3*6@20|7@20|8@20|9@15|23@25|27@40|18@30|24@20|19@15",lv6:"22@30|21@20",lv9:"13@30|31@40|32@50|26@20"},type:"a",size:"M",cost:495,capa:850,hp:260,str:5,tec:15,wlk:8,fly:13,tgh:7}
 {id:6,name:"RAMソルジェッターBD",size:"M",type:"a",cost:485,hp:255,str:13,tec:5,wlk:7,fly:13,tgh:10,capa:870, main:{pwr:3,shl:900,rng:275,spd:350,itv:460}}
 {id:62,name:"イヅナカムイαBD3",size:"M",type:"a",cost:505,hp:255,str:5,tec:9,wlk:6,fly:13,tgh:7,capa:905, sub:{pwr:0,shl:50,rng:100,spd:160,itv:1000}, fixedParts:{hd:"イヅナカムイαHD3" }}
 {id:69,name:"イヅナカムイαBD",size:"M",type:"a",cost:505,hp:255,str:6,tec:10,wlk:7,fly:17,tgh:8,capa:870, sub:{pwr:0,shl:50,rng:100,spd:160,itv:1000}, fixedParts:{hd:"イヅナカムイαHD" }}
@@ -26,8 +24,6 @@
 
 
 {group:"Ｌ空",prefixID:"AL",commonStat:{size:"L",type:"a"},nextID:16}
-{id:62,name:"アポリオンBD2",size:"L",cost:660,hp:320,str:14,tec:3,wlk:8,fly:11,tgh:13,capa:1090,main:{str:100,pwr:24,shl:30,rng:320,spd:520,itv:500},sub:{pwr:34,shl:25,rng:300,spd:460,itv:500},cartridge:{hpup:9,lv1:"2*6@15|7@30|8@20|9@15|19@15|21@20|23@25|55@30|",lv6:"27@40|13@30|15@15",lv9:"32@50|28@30|30@20"},wbid:17,auraSystem:1,joint:{wp:1}}
-{id:999,name:"スチールバーンBD",size:"L",type:"a",cost:490,hp:305,str:6,tec:14,wlk:7,fly:16,tgh:7,capa:945, cartridge:{hpup:8,lv1:"3*6@15|9@30|11@15|10@20|19@30|22@30|21@15|25@25|23@20|30@30|28@20|15@30|34@50|33@40",lv6:"",lv9:""}}
 {id:41,name:"アクイーアBD2",size:"L",type:"a",cost:525,hp:290,str:4,tec:14,wlk:6,fly:16,tgh:8,capa:870, main:{pwr:6,shl:680,rng:275,spd:440,itv:500}, sub:{pwr:1,shl:20,rng:10,spd:150,itv:1000},comment:["内蔵強化値不明"]}
 {id:42,name:"アクイーアBD",size:"L",type:"a",cost:560,hp:290,str:4,tec:12,wlk:7,fly:17,tgh:8,capa:870, main:{pwr:5,shl:940,rng:275,spd:315,itv:900}, sub:{pwr:1,shl:20,rng:10,spd:150,itv:1000},comment:["内蔵強化値不明"]}
  {id:153,name:"ガルラバードBD",size:"L",type:"a",cost:490,hp:305,str:6,tec:13,wlk:8,fly:18,tgh:6,capa:945}
