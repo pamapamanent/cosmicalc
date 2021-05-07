@@ -20,8 +20,8 @@
 (function($, undefined){
 
 /* CONST VARS */
-var VERSION = "3.3.4",
-		LAST_MODIFIED = "2011.03.24",
+var VERSION = "4.0.0",
+		LAST_MODIFIED = "2021.05.08",
 
 	WEB_ACCESS_QUERY = "?mode=getData&target=",
 
@@ -1913,26 +1913,93 @@ function calc(){
 			Result.cost += prp.cst;
 			switch(prp.cid){
 			case "1":
+				Result.capa += 50;
+				Result.hp += Assembly.cartridge.hpup;
+				break;
 			case "2":
+				Result.capa += 55;
+				Result.hp += Assembly.cartridge.hpup;
+				break;
 			case "3":
+				Result.capa += 60;
+				Result.hp += Assembly.cartridge.hpup;
+				break;
 			case "4":
+				Result.capa += 65;
+				Result.hp += Assembly.cartridge.hpup;
+				break;
 			case "5":
-				Result.capa += (prp.cid-0) * 10 + 40;
+				Result.capa += 70;
 				Result.hp += Assembly.cartridge.hpup;
 				break;
 			case "6":
+				Result.capa += 75;
+				Result.hp += Assembly.cartridge.hpup;
+				break;
+			case "7":
+				Result.capa += 80;
+				Result.hp += Assembly.cartridge.hpup;
+				break;
+			case "8":
+				Result.capa += 85;
+				Result.hp += Assembly.cartridge.hpup;
+				break;
+			case "9":
+				Result.capa += 90;
+				Result.hp += Assembly.cartridge.hpup;
+				break;
+			case "10":
+				Result.capa += 95;
+				Result.hp += Assembly.cartridge.hpup;
+				break;
+			case "11":
 				Result.hp += 15;
-				Result.capa += 55;
+				Result.capa += 60;
 				Result.reinforce++;
 				break;
-			case "106":
+			case "12":
 				Result.hp += 15;
 				Result.capa += 65;
 				Result.reinforce++;
 				break;
-			case "107":
+			case "13":
+				Result.hp += 15;
+				Result.capa += 70;
+				Result.reinforce++;
+				break;
+			case "14":
 				Result.hp += 15;
 				Result.capa += 75;
+				Result.reinforce++;
+				break;
+			case "15":
+				Result.hp += 15;
+				Result.capa += 80;
+				Result.reinforce++;
+				break;
+			case "16":
+				Result.hp += 10;
+				Result.capa += 60;
+				Result.reinforce++;
+				break;
+			case "17":
+				Result.hp += 10;
+				Result.capa += 65;
+				Result.reinforce++;
+				break;
+			case "18":
+				Result.hp += 10;
+				Result.capa += 70;
+				Result.reinforce++;
+				break;
+			case "19":
+				Result.hp += 10;
+				Result.capa += 75;
+				Result.reinforce++;
+				break;
+			case "20":
+				Result.hp += 10;
+				Result.capa += 80;
 				Result.reinforce++;
 				break;
 			default:
