@@ -1953,52 +1953,52 @@ function calc(){
 				Result.hp += Assembly.cartridge.hpup;
 				break;
 			case "11":
-				Result.hp += 15;
+				Result.hp += 10;
 				Result.capa += 60;
 				Result.reinforce++;
 				break;
 			case "12":
-				Result.hp += 15;
+				Result.hp += 10;
 				Result.capa += 65;
 				Result.reinforce++;
 				break;
 			case "13":
-				Result.hp += 15;
+				Result.hp += 10;
 				Result.capa += 70;
 				Result.reinforce++;
 				break;
 			case "14":
-				Result.hp += 15;
+				Result.hp += 10;
 				Result.capa += 75;
 				Result.reinforce++;
 				break;
 			case "15":
-				Result.hp += 15;
+				Result.hp += 10;
 				Result.capa += 80;
 				Result.reinforce++;
 				break;
 			case "16":
-				Result.hp += 10;
+				Result.hp += 15;
 				Result.capa += 60;
 				Result.reinforce++;
 				break;
 			case "17":
-				Result.hp += 10;
+				Result.hp += 15;
 				Result.capa += 65;
 				Result.reinforce++;
 				break;
 			case "18":
-				Result.hp += 10;
+				Result.hp += 15;
 				Result.capa += 70;
 				Result.reinforce++;
 				break;
 			case "19":
-				Result.hp += 10;
+				Result.hp += 15;
 				Result.capa += 75;
 				Result.reinforce++;
 				break;
 			case "20":
-				Result.hp += 10;
+				Result.hp += 15;
 				Result.capa += 80;
 				Result.reinforce++;
 				break;
