@@ -1,10 +1,18 @@
 {group:"ＨＤ",prefixId:"H",nextId:0}
-{id:1,name:"メルフィHD",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, cartridge:{hpup:11,lv1:"3*6@25|9@20|11@30|12@30|10@30|19@20|21@20|25@25",lv6:"15@20|34@30|33@40",lv9:""}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}, fixedParts:{ }}
+ {id:288,name:"シノ・イクスロードHD",size:"M",type:"l",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2, slot:3}
+{id:63,name:"イヅナカムイαHD3",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3}
+{id:65,name:"イヅナカムイαHD2",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:3,fly:2,tgh:1, slot:3}
+{id:70,name:"イヅナカムイαHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
+{id:80,name:"ウィンベルαHD",size:"S",type:"s",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1, slot:3}
+{id:85,name:"A.L.E.ウィンベルHD",size:"S",type:"s",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1, slot:3}
+{id:105,name:"エイミィHD",size:"S",type:"s",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1, slot:3}
+{id:127,name:"えりざHD",size:"S",type:"s",cost:65,hp:20,str:2,tec:2,fly:2,tgh:-1, slot:3, sub:{pwr:0,shl:3,rng:0,spd:0,itv:500}}
+ {id:308,name:"スクイドルガールαHD2",size:"S",type:"s",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}
+ {id:315,name:"スクイドルガールαHD",size:"S",type:"s",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}
 {id:34,name:"アイシーHD",size:"S",type:"c",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
 {id:12,name:"S・P・ニッパーヌHD",size:"S",type:"a",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
 {id:49,name:"アクイーアガールHD",size:"S",type:"a",cost:40,hp:25,tec:2,fly:2,tgh:1, slot:3}
  {id:171,name:"クリムローゼHD",size:"S",type:"a",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
- {id:288,name:"シノ・イクスロードHD",size:"M",type:"l",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2, slot:3}
 {id:28,name:"アイヴィスHD",size:"S",type:"l",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
 {id:133,name:"エリザロッテHD",size:"S",type:"l",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
  {id:182,name:"クルールHD",size:"S",type:"l",cost:40,hp:25,tec:1,wlk:2,fly:2, slot:3}
@@ -13,19 +21,14 @@
  {id:277,name:"A.L.E.ジークンロンHD",size:"S",type:"l",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1, slot:3}
  {id:301,name:"シルビアHD",size:"S",type:"l",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1, slot:3}
  {id:342,name:"ゼロセイバーガールHD",size:"S",type:"l",cost:45,hp:25,tec:1,wlk:3,fly:1, slot:3}
-{id:63,name:"イヅナカムイαHD3",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3}
-{id:65,name:"イヅナカムイαHD2",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:3,fly:2,tgh:1, slot:3}
-{id:70,name:"イヅナカムイαHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
  {id:176,name:"クリムローゼαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,fly:2, slot:3}
  {id:272,name:"ジークンロンαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
- {id:362,name:"ぜろ子HD",size:"S",type:"s",cost:35,hp:20,str:2,tec:2,tgh:1, slot:3}
-
 {group:"ＬＧ",prefixId:"L",nextId:2000}
-{id:2001,name:"メルフィLG",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
 {id:106,name:"エイミィLG",size:"S",type:"s",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1, slot:3}
 {id:128,name:"えりざLG",size:"S",type:"s",cost:40,hp:20,str:2,wlk:2,fly:-1,tgh:2, slot:3, sub:{pwr:0,rng:43,spd:63,itv:2500}}
  {id:309,name:"スクイドルガールαLG2",size:"S",type:"s",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:1}
  {id:316,name:"スクイドルガールαLG",size:"S",type:"s",cost:45,hp:25,str:-1,tec:1,wlk:3,tgh:2}
+ {id:363,name:"ぜろ子LG",size:"S",type:"s",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
 {id:35,name:"アイシーLG",size:"S",type:"c",cost:45,hp:25,str:1,tec:1,wlk:3,fly:-1,tgh:1, slot:3, joint:{bs:1}}
  {id:147,name:"カクタスフューラーLG",size:"S",type:"c",cost:45,hp:25,str:1,tec:1,wlk:3, slot:3}
 {id:13,name:"S・P・ニッパーヌLG",size:"S",type:"a",cost:115,hp:25,str:1,tec:1,wlk:3,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:600,rng:275,spd:480,itv:300}}
@@ -40,7 +43,6 @@
  {id:341,name:"ゼロセイバーガールLG",size:"S",type:"l",cost:40,hp:20,str:1,tec:2,wlk:1,tgh:1, slot:3}
 {id:86,name:"A.L.E.ウィンベルLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,wlk:3,fly:1,tgh:2, slot:3}
  {id:183,name:"クルールLG",size:"S",type:"lacs",cost:45,hp:25,str:2,wlk:3,fly:1, slot:3}
- {id:363,name:"ぜろ子LG",size:"S",type:"s",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
 {group:"ＢＳ",prefixId:"B",nextId:4000}
 {id:129,name:"デモンBS",size:"S",type:"s",cost:35,hp:20,str:1,tec:1,fly:3, slot:3}
 {id:131,name:"えりざBS",size:"S",type:"s", slot:3}
@@ -54,27 +56,22 @@
  {id:187,name:"クルールBS",size:"S",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:2,tgh:1, slot:3}
  {id:269,name:"ジークンロンBS",size:"S",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1, slot:3}
  {id:306,name:"シルビアBS",size:"S",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
-
-
 {group:"ＡＭ",prefixId:"A",nextId:6000}
-{id:6001,name:"メルフィAM",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
-{id:6002,name:"メルフィAM2",size:"S",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
+ {id:265,name:"ジーウェインAM",size:"L",type:"a", slot:0}
+ {id:320,name:"スケアガントAM",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, joint:{wp:2}, sub:{pwr:0,rng:0,spd:0,itv:1000}, fixedParts:{wp : ["スケアドラムガン","スケアナイフ＆ボム"] },comment:["部位破壊不能","手持ち装備不可"]}
 {id:107,name:"エイミィAM2",size:"S",type:"s",cost:100,hp:25,tec:1,fly:2,tgh:2, slot:3, sub:{pwr:25,rng:0,spd:120,itv:1000},comment:["部位破壊不能"]}
 {id:110,name:"エイミィAM",size:"S",type:"s",cost:40,hp:25,tec:1,fly:2,tgh:2, slot:3,comment:["部位破壊不能"]}
  {id:311,name:"スクイドルガールαAM2",size:"S",type:"s",cost:35,hp:20,str:1,tec:2,wlk:2}
  {id:317,name:"スクイドルガールαAM",size:"S",type:"s",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:3}
-{id:37,name:"アイシーAM2",size:"S",type:"c",cost:65,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3, joint:{wp:2},tunable:{pwp:1}, sub:{pwr:0,shl:30,rng:0,spd:200,itv:1000}, fixedParts:{wp : ["ウィズダムソウルP","ウィズダムソウルR"] },comment:["武器手持ち不可","チューン可否不明"]}
+{id:37,name:"アイシーAM2",size:"S",type:"c",cost:65,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3, joint:{wp:2}, cartridge:{hpup:18,lv1:"8*6@25|21@20|24@20|22@15|32@20|33@20|37@25|36@30|40@25|45@20|35@20|41@10|27@30|46@40|47@40",lv6:"",lv9:""},tunable:{pwp:1}, sub:{pwr:0,shl:30,rng:0,spd:200,itv:1000}, fixedParts:{wp : ["ウィズダムソウルP","ウィズダムソウルR"] },comment:["武器手持ち不可","チューン可否不明"]}
 {id:40,name:"アイシーAM",size:"S",type:"c",cost:85,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3,tunable:{pwp:1}, sub:{pwr:20,rng:10,spd:10,itv:1000},comment:["武器手持ち不可","チューン可否不明"]}
- {id:265,name:"ジーウェインAM",size:"L",type:"a", slot:0}
 {id:14,name:"S・P・ニッパーヌAM2",size:"S",type:"a",cost:40,hp:25,str:3,tec:-1,fly:1,tgh:2, slot:3, joint:{wp:0},comment:["武器手持ち不可"]}
 {id:16,name:"S・P・ニッパーヌAM",size:"S",type:"a",cost:40,hp:25,str:3,tec:-1,fly:1,tgh:2, slot:3, joint:{wp:0},comment:["部位破壊不能","武器手持ち不可"]}
 {id:52,name:"アクイーアガールAM2",size:"S",type:"a",cost:40,hp:25,tec:3,wlk:-1,fly:2,tgh:1, slot:3, fixedParts:{wp : "オービタルシューター" },comment:["部位破壊不能","武器手持ち不可"]}
 {id:54,name:"アクイーアガールAM",size:"S",type:"a",cost:40,hp:25,tec:3,wlk:-1,fly:2,tgh:1, slot:3, joint:{wp:0},comment:["部位破壊不能","武器手持ち不可"]}
  {id:174,name:"クリムローゼAM",size:"S",type:"a",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
- {id:320,name:"スケアガントAM",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, joint:{wp:2}, sub:{pwr:0,rng:0,spd:0,itv:1000}, fixedParts:{wp : ["スケアドラムガン","スケアナイフ＆ボム"] },comment:["部位破壊不能","手持ち装備不可"]}
- {id:1320,name:"スケアガントAM_TEST",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, sub:{pwr:0,rng:0,spd:0,itv:1000}, fixedParts:{ },comment:["部位破壊不能","手持ち装備不可"]}
 {id:30,name:"アイヴィスAM",size:"S",type:"l",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3, joint:{wp:0},comment:["武器手持ち不可"]}
-{id:31,name:"アイヴィスAM2",size:"S",type:"l",cost:210,hp:25,str:3,tec:-1,tgh:3, slot:3, joint:{wp:0},comment:["部位破壊不能","武器手持ち不可"]}
+{id:31,name:"アイヴィスAM2",size:"S",type:"l",cost:210,hp:25,str:3,tec:-1,tgh:3, slot:3, joint:{wp:0}, main:{pwr:0,shl:30,rng:0,spd:10,itv:1000}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["部位破壊不能","武器手持ち不可"]}
 {id:135,name:"エリザロッテAM2",size:"S",type:"l",cost:100,hp:20,str:1,wlk:2,tgh:2, slot:3, joint:{wp:2},tunable:{pwp:1}, sub:{pwr:28,rng:150,spd:250,itv:500}, fixedParts:{wp : ["プリンセス師ヴァリー","プリンセスストライク"] },comment:["部位破壊不能","チューン可否不明"]}
 {id:138,name:"エリザロッテAM",size:"S",type:"l",cost:40,hp:25,str:1,wlk:2,tgh:2, slot:3,comment:["部位破壊不能","チューン可否不明"]}
  {id:184,name:"クルールAM",size:"S",type:"l",cost:40,hp:25,str:3,tec:1,wlk:-1,tgh:2, slot:0, joint:{wp:2},comment:["部位破壊不能","手持ち２個装着可（専用コンバ含む）"]}
@@ -84,31 +81,29 @@
  {id:303,name:"シルビアAM",size:"S",type:"l",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3, joint:{wp:0},comment:["部位破壊不能","手持ち装備不可"]}
  {id:304,name:"シルビアAM2",size:"S",type:"l",cost:60,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, fixedParts:{wp : "シヴァリークレイモア" },comment:["部位破壊不能"]}
  {id:344,name:"ゼロセイバーガールAM",size:"S",type:"l",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
-
 {group:"ＷＰ",prefixId:"W",nextId:8000}
-{id:8002,name:"スロット",size:"M", slot:3}
 {id:8001,name:"メモリ・スロット",size:"M", slot:3}
-{id:89,name:"A.L.E.ウィンベルBD@",size:"S",type:"s", slot:3,tunable:{pwp:1}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["チューン可否不明"]}
-{id:314,name:"スクイドルガールαBD",size:"S",type:"s",cost:445,hp:210,str:9,tec:9,wlk:10,fly:7,tgh:10,capa:780, sub:{pwr:21,rng:150,spd:10,itv:1000}, fixedParts:{hd:"スクイドルガールαHD", lg:"スクイドルガールαLG", am : ["スクイドルガールαAM", "スクイドルガールαAM"] },comment:["内蔵強化値不明"]}
-{id:255,name:"サジタルマクシスBD@",size:"L",type:"c",cost:140, slot:3}
+ {id:255,name:"サジタルマクシスBD@",size:"L",type:"c",cost:140, slot:3, sub:{pwr:42,shl:160,rng:350,spd:520,itv:500}}
 {id:74,name:"イニトォンBD2@",size:"M",type:"a",cost:170, slot:0, joint:{am:2}, main:{pwr:10,shl:1280,rng:200,spd:440,itv:500}, sub:{pwr:25,shl:50,rng:120,spd:250,itv:1000}}
-{id:234,name:"サイコクラスターBD@",size:"M",type:"a",cost:120, slot:0}
-{id:186,name:"クルールBD@",size:"S",type:"l",cost:20, slot:0, joint:{bs:1}, sub:{pwr:0,rng:250,spd:10,itv:1000}, fixedParts:{bs:"クルールBS" }}
+ {id:234,name:"サイコクラスターBD@",size:"M",type:"a",cost:120, slot:0}
+{id:89,name:"A.L.E.ウィンベルBD@",size:"S",type:"s", slot:3,tunable:{pwp:1}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["チューン可否不明"]}
+ {id:314,name:"スクイドルガールαBD",size:"S",type:"s",cost:445,hp:210,str:9,tec:9,wlk:10,fly:7,tgh:10,capa:780, cartridge:{hpup:18,lv1:"8*5@25|12*2@35|31@20|34@20|37@25|33@20|28@10|26@20|40@25|43@20|44@10|41@20|27@20|47@30|46@40",lv6:"",lv9:""}, sub:{pwr:21,rng:150,spd:10,itv:1000}, fixedParts:{hd:"スクイドルガールαHD", lg:"スクイドルガールαLG", am : ["スクイドルガールαAM", "スクイドルガールαAM"] },comment:["内蔵強化値不明"]}
+ {id:186,name:"クルールBD@",size:"S",type:"l",cost:20, slot:0, joint:{bs:1}, sub:{pwr:0,rng:250,spd:10,itv:1000}, fixedParts:{bs:"クルールBS" }}
+{id:15,name:"S・P・ニッパーヌAM2@",size:"S",type:"a", slot:3}
+ {id:17,name:"S・P・ニッパーヌAM@",size:"S",type:"a",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:30,shl:30,rng:80,spd:110,itv:500}}
+ {id:202,name:"クロスラプターAM2@",size:"S",type:"a"}
+ {id:163,name:"ガンアームズBS@",size:"M",type:"c", slot:0, main:{pwr:16,shl:200,rng:350,spd:520,itv:900}}
+{id:38,name:"ウィズダムソウルP",size:"M",type:"c",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:15,shl:540,rng:330,spd:400,itv:460},comment:["チューン可否不明"]}
+{id:39,name:"ウィズダムソウルR",size:"M",type:"c",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:45,shl:60,rng:350,spd:520,itv:100},comment:["チューン可否不明"]}
+ {id:321,name:"スケアドラムガン",size:"M",type:"l",cost:80, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:1100,rng:225,spd:440,itv:300},comment:["チューン可否不明"]}
+ {id:322,name:"スケアナイフ＆ボム",size:"M",type:"l",cost:90, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
 {id:108,name:"ラブリーシリンジα",size:"S",type:"s",cost:50, slot:3, sub:{pwr:1,shl:30,rng:300,spd:300,itv:500},comment:["本来のパーツ名は「ラブリーシリンジ」ですが便宜上αとしています"]}
 {id:109,name:"ラブリーシリンジβ",size:"S",type:"s",cost:30, slot:3, sub:{pwr:16,shl:220,rng:300,spd:400,itv:700},comment:["本来のパーツ名は「ラブリーシリンジ」ですが便宜上βとしています"]}
 {id:130,name:"プチシヴァリー",size:"S",type:"s",cost:40, slot:3, sub:{pwr:22,rng:56,spd:68,itv:1000}}
-{id:38,name:"ウィズダムソウルP",size:"M",type:"c",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:15,shl:540,rng:330,spd:400,itv:460},comment:["チューン可否不明"]}
-{id:39,name:"ウィズダムソウルR",size:"M",type:"c",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:45,shl:60,rng:350,spd:520,itv:100},comment:["チューン可否不明"]}
 {id:53,name:"オービタルシューター",size:"S",type:"a", slot:0,tunable:{mwp:1}, main:{pwr:5,shl:90,rng:250,spd:500,itv:1000}}
 {id:55,name:"アクイーアブラスター",size:"S",type:"a", slot:3,tunable:{mwp:1}, main:{pwr:6,shl:1440,rng:275,spd:350,itv:900},comment:["チューン可否不明"]}
- {id:321,name:"スケアドラムガン",size:"M",type:"l",cost:80, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:1100,rng:225,spd:440,itv:300},comment:["チューン可否不明"]}
- {id:322,name:"スケアナイフ＆ボム",size:"M",type:"l",cost:90, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
 {id:136,name:"プリンセスシヴァリー",size:"S",type:"l",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:500}}
 {id:137,name:"プリンセスストライク",size:"S",type:"l",cost:30, slot:3,tunable:{mwp:1}, main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100}}
 {id:139,name:"プリンセスシールド",size:"S",type:"l",cost:20, slot:3, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}}
  {id:305,name:"シヴァリークレイモア",size:"S",type:"l",cost:110, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
-{id:15,name:"S・P・ニッパーヌAM2@",size:"S",type:"a", slot:3}
-{id:17,name:"S・P・ニッパーヌAM@",size:"S",type:"a",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:30,shl:30,rng:80,spd:110,itv:500}}
- {id:202,name:"クロスラプターAM2@",size:"S",type:"a"}
- {id:163,name:"ガンアームズBS@",size:"M",type:"c", slot:0, main:{pwr:16,shl:200,rng:350,spd:520,itv:900}}
-
+  {id:154,name:"ガルラバードBD@",size:"L",type:"a",cost:60, slot:0, sub:{pwr:30,rng:140,spd:150,itv:1000}}
