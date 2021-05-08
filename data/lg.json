@@ -1,13 +1,59 @@
+{group:"ＳＳサイズ",prefixId:"SS",commonStat:{size:"SS",type:""},nextId:0}
+
 {group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
- {id:167,name:"キャノンボールLG",size:"S",type:"c",cost:35,hp:20,tec:2,wlk:1,tgh:2, slot:3}
- {id:366,name:"ソードウィングLG",size:"S",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:600,rng:200,spd:480,itv:140},comment:["チューン可否不明"]}
-{id:21,name:"ナイトジャーLG2",size:"S",type:"lacs",cost:40,hp:25,str:3,tgh:2, slot:3}
-{id:113,name:"エースブレイバーLG",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2, slot:3}
- {id:150,name:"カメンティスLG",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,tgh:2, slot:3}
- {id:292,name:"シャインバトラーLG",size:"S",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
- {id:297,name:"シャインバスターLG",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3}
- {id:334,name:"ゼロセイバーLG",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:2,tgh:1, slot:3}
- {id:338,name:"ゼロセイバーLG2",size:"S",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
- {id:347,name:"ゼロファイターLG",size:"S",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
- {id:352,name:"ゼロファイターNEXTLG",size:"S",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
- {id:376,name:"ソルボルカノウィングLG",size:"S",type:"lacs",cost:40,hp:25,str:3,tec:-1,fly:2,tgh:1, slot:3}
+{id:1,name:"A・ミラルLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:1, slot:3}
+{id:81,name:"ウィンベルαLG",size:"S",type:"s",cost:45,hp:25,tec:3,wlk:1,fly:1, slot:3,comment:["チューン可否不明"]}
+{id:103,name:"ウルメリーLG",size:"S",type:"lacs",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
+{id:112,name:"エースブレイバーLG",size:"S",type:"lacs",cost:45,hp:25,wlk:2,fly:1,tgh:2, slot:3}
+ {id:149,name:"カメンティスLG",size:"S",type:"lacs",cost:40,hp:20,str:2,wlk:2,tgh:1, slot:3}
+ {id:169,name:"キャノンボールLG",size:"S",type:"c",cost:40,hp:20,tec:1,wlk:3,fly:-1,tgh:2, slot:3}
+ {id:177,name:"クリムローゼαLG",size:"S",type:"a",cost:85,hp:50,str:1,tec:2,wlk:3,fly:3,tgh:1, slot:3, fixedParts:{wp : ["クリムローゼαBS","クリムローゼαBS"] },comment:["クリムローゼαBSは武器パーツとしてます"]}
+ {id:198,name:"クロスラプターLG",size:"S",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1, slot:3}
+ {id:273,name:"ジークンロンαLG",size:"S",type:"l",cost:145,hp:25,str:2,tec:-1,wlk:3,tgh:1, slot:3,comment:["チューン可否不明"]}
+ {id:291,name:"シャインバトラーLG",size:"S",type:"lacs",cost:45,hp:25,wlk:3,fly:1,tgh:2, slot:3}
+ {id:296,name:"シャインバスターLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1, slot:3}
+ {id:333,name:"ゼロセイバーLG",size:"S",type:"lacs",cost:45,hp:25,tec:1,wlk:2,tgh:2, slot:3}
+ {id:346,name:"ゼロファイターLG",size:"S",type:"lacs",cost:40,hp:20,tec:1,wlk:3,tgh:1, slot:3}
+ {id:351,name:"ゼロファイターNEXTLG",size:"S",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2, slot:3}
+ {id:363,name:"ぜろ子LG",size:"S",type:"s",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
+ {id:365,name:"ソードウィングLG",size:"S",type:"lacs",cost:40,hp:20,wlk:3,fly:1,tgh:1, slot:3}
+ {id:375,name:"ソルボルカノウィングLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:1, slot:3}
+ {id:388,name:"タラントリックLG",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:3,fly:1,tgh:1, slot:3}
+
+{group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
+{id:20,name:"ナイトジャーLG",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1, slot:3}
+{id:57,name:"アクシオンLG",size:"M",type:"l"}
+{id:66,name:"イヅナカムイαLG2",size:"M",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1, slot:3, joint:{bs:1}}
+{id:7,name:"RAMソルジェッターLG",size:"M",type:"a",cost:105,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:26,shl:50,rng:120,spd:250,itv:1000},comment:["チューン可否不明"]}
+{id:78,name:"イニトォンLG",size:"M",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1, slot:3}
+{id:96,name:"ウミガメンティスLG",size:"M",type:"a",cost:45,hp:25,str:2,tec:1,wlk:3,fly:1,tgh:-1, slot:3}
+{id:121,name:"エスティスLG",size:"M",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1, slot:3}
+ {id:160,name:"ガンアームズLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:3,tgh:1, slot:3}
+ {id:189,name:"クレストセイントLG",size:"M",type:"lacs",cost:45,hp:30,wlk:3,fly:1,tgh:2, slot:3}
+ {id:206,name:"ゲンブラLG",size:"M",type:"c",cost:45,hp:25,str:1,tec:2,wlk:3,fly:--1,tgh:1, slot:3}
+ {id:211,name:"ゴースレイダーLG2",size:"M",type:"a",cost:45,hp:25,tec:1,wlk:2,fly:2, slot:3}
+ {id:216,name:"ゴースレイダーLG",size:"M",type:"a",cost:45,hp:25,str:1,wlk:3,tgh:1, slot:3}
+ {id:238,name:"サイコクラスターLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:-1,wlk:2,fly:1,tgh:2, slot:3}
+ {id:240,name:"サイドロンLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:2,fly:-1,tgh:2, slot:3}
+ {id:328,name:"セイロンLG",size:"M",type:"a",cost:95,hp:30,str:1,tec:2,wlk:3,fly:2, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:70,spd:85,itv:500},comment:["AURA未対応のためデフォルトで武装ありとしています","チューン可否不明"]}
+ {id:370,name:"ソルジェッターLG",size:"M",type:"a",cost:95,hp:25,str:3,tec:-1,wlk:2,fly:1, slot:3,tunable:{pwp:1}, sub:{pwr:34,shl:30,rng:120,spd:220,itv:1000},comment:["チューン可否不明"]}
+
+{group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
+{id:43,name:"アクイーアLG",size:"L",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:1, slot:3, joint:{bs:1}}
+{id:91,name:"ウォーダスLG",size:"L",type:"lacs",cost:45,hp:25,str:2,tec:1,wlk:3,fly:-1, slot:3}
+{id:119,name:"エスカゴットLG",size:"L",type:"lacs",cost:40,hp:70,wlk:3,fly:2, slot:3, builtin:{bs:1},comment:["BS内蔵"]}
+{id:142,name:"ヘケトケレスLG2",size:"L",type:"c",cost:70,hp:65,wlk:3,fly:1,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:0,shl:30,rng:100,spd:260,itv:1000},comment:["チューン可否不明"]}
+ {id:158,name:"ガルラバードLG",size:"L",type:"a",cost:100,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:120,spd:250,itv:1000}}
+ {id:196,name:"クロコダガーLG",size:"L",type:"lacs",cost:45,hp:45,tec:-1,wlk:3,fly:2,tgh:1, slot:3}
+ {id:218,name:"コスモカイザーLG2",size:"L",type:"lacs",cost:50,hp:35,str:-1,tec:1,wlk:3,fly:1,tgh:2, slot:3}
+ {id:223,name:"コスモカイザーLG",size:"L",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1, slot:3}
+ {id:229,name:"コントラディクトLG",size:"L",type:"lacs",cost:50,hp:30,str:1,tec:-1,wlk:3,fly:1,tgh:2, slot:3}
+ {id:259,name:"サジタルマクシスLG",size:"L",type:"lacs",cost:50,hp:60,tec:1,wlk:4,tgh:1, slot:3}
+ {id:261,name:"ジーウェインLG",size:"L",type:"lacs",cost:50,hp:40,str:1,tec:1,wlk:3,tgh:1, slot:3}
+ {id:282,name:"ジオグラシスLG",size:"L",type:"a",cost:45,hp:25,tec:2,wlk:1,fly:3, slot:3}
+ {id:325,name:"スケアガントLG",size:"L",type:"lacs",cost:45,hp:25,wlk:2,fly:1,tgh:3, slot:3}
+ {id:356,name:"ゼロブレイカーLG",size:"L",type:"lacs",cost:45,hp:30,tec:-1,wlk:4,fly:1,tgh:2, slot:3}
+ {id:380,name:"ダイダリオンLG",size:"L",type:"lacs",cost:50,hp:35,str:2,tec:-1,wlk:3,fly:1,tgh:1, slot:3}
+
+{group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
+ {id:289,name:"シノ・イクスロードLG3",size:"LL",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:1000},comment:["BS接続可能","チューン可否不明"]}

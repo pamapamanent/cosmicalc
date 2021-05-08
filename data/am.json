@@ -25,9 +25,6 @@
  {id:378,name:"ソルボルカノウィングAM",size:"S",type:"lacs",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1, slot:3}
  {id:387,name:"タラントリックAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1, slot:3}
 {group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
-{id:7,name:"RAMソルジェッターLG",size:"M",type:"a",cost:105,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:26,shl:50,rng:120,spd:250,itv:1000},comment:["チューン可否不明"]}
-{id:8,name:"RAMソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
-{id:9,name:"RAMソルジェッターBS",size:"M",type:"a",cost:40,hp:20,tec:2,wlk:1,fly:2, slot:3}
 {id:10,name:"RAMソルジェッターAM",size:"M",type:"a",cost:80,hp:25,str:2,tec:1,wlk:-1,fly:2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:26,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
 {id:60,name:"アクシオンAM2",size:"M",type:"l"}
 {id:61,name:"アクシオンAM",size:"M",type:"l"}
