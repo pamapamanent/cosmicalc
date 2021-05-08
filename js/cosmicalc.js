@@ -645,6 +645,8 @@ var part_func = function(i, part){
 	}
 }, task = [];
 
+	ajaxManager.set({file:"lg", callback:part_func});
+	ajaxManager.set({file:"am", callback:part_func});
 	ajaxManager.set({file:"fixed", callback:part_func});
 	ajaxManager.set({file:"lbd", callback:part_func});
 	ajaxManager.set({file:"abd", callback:part_func});
