@@ -1,13 +1,14 @@
+{group:"ＳＳサイズ",prefixId:"SS",commonStat:{size:"SS",type:""},nextId:0}
+
+
 {group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
- {id:167,name:"キャノンボールAM",size:"S",type:"c",cost:35,hp:20,tec:2,wlk:1,tgh:2, slot:3}
- {id:366,name:"ソードウィングAM",size:"S",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:600,rng:200,spd:480,itv:140},comment:["チューン可否不明"]}
-{id:21,name:"ナイトジャーAM2",size:"S",type:"lacs",cost:40,hp:25,str:3,tgh:2, slot:3}
-{id:113,name:"エースブレイバーAM",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2, slot:3}
- {id:150,name:"カメンティスAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,tgh:2, slot:3}
- {id:292,name:"シャインバトラーAM",size:"S",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
- {id:297,name:"シャインバスターAM",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3}
- {id:334,name:"ゼロセイバーAM",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:2,tgh:1, slot:3}
- {id:338,name:"ゼロセイバーAM2",size:"S",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
- {id:347,name:"ゼロファイターAM",size:"S",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
- {id:352,name:"ゼロファイターNEXTAM",size:"S",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
- {id:376,name:"ソルボルカノウィングAM",size:"S",type:"lacs",cost:40,hp:25,str:3,tec:-1,fly:2,tgh:1, slot:3}
+{id:82,name:"ウィンベルαAM",size:"S",type:"s",cost:75,hp:20,tec:2,tgh:3, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:200,rng:200,spd:480,itv:500}}
+{id:167,name:"キャノンボールAM",size:"S",type:"c",cost:35,hp:20,tec:2,wlk:1,tgh:2, slot:3}
+
+{group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
+ {id:383,name:"ダイダリオンAM2",size:"LL",type:"l",cost:205,hp:25,str:4,tec:-1,fly:-1,tgh:3, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:34,rng:70,spd:85,itv:1000},comment:["手持ち装備不可","チューン可否不明"]}
+
+
+
+{group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
+ {id:145,name:"ヘケトケレスAM2",size:"L",type:"c",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:26,shl:210,rng:300,spd:320,itv:800},comment:["手持ち装備不可","チューン可否不明"]}
