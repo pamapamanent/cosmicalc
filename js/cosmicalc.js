@@ -650,20 +650,10 @@ var part_func = function(i, part){
 	ajaxManager.set({file:"abd", callback:part_func});
 	ajaxManager.set({file:"cbd", callback:part_func});
 	ajaxManager.set({file:"sbd", callback:part_func});
-	ajaxManager.set({file:"wb", callback:part_func});
-	ajaxManager.set({file:"lg", callback:part_func});
-	ajaxManager.set({file:"hd", callback:part_func});
-	ajaxManager.set({file:"bs", callback:part_func});
-	ajaxManager.set({file:"am", callback:part_func});
-	ajaxManager.set({file:"mainwp", callback:part_func});
-	ajaxManager.set({file:"subwp", callback:part_func});
-	ajaxManager.set({file:"hdac", callback:part_func});
-	ajaxManager.set({file:"fcac", callback:part_func});
-	/** AMとLGが読み込まれないため個別に実装
 	$.each("wb,lg,hd,bs,am,mainwp,subwp,hdac,fcac".split(","), function(dummy, part){
 		task.push({file:part, callback:part_func});
 	});
-	ajaxManager.set(task);*/
+	ajaxManager.set(task);
 
 /* チューンアップデータ読込:Start */
 ajaxManager.set({
