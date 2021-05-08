@@ -108,7 +108,7 @@
 {id:139,name:"プリンセスシールド",size:"S",type:"l",cost:20, slot:3, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}}
  {id:305,name:"シヴァリークレイモア",size:"S",type:"l",cost:110, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
 {id:15,name:"S・P・ニッパーヌAM2@",size:"S",type:"a", slot:3}
-{id:17,name:"S・P・ニッパーヌAM@",size:"S",type:"a",cost:100, slot:3, sub:{pwr:30,shl:30,rng:80,spd:110,itv:500}}
+{id:17,name:"S・P・ニッパーヌAM@",size:"S",type:"a",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:30,shl:30,rng:80,spd:110,itv:500}}
  {id:202,name:"クロスラプターAM2@",size:"S",type:"a"}
  {id:163,name:"ガンアームズBS@",size:"M",type:"c", slot:0, main:{pwr:16,shl:200,rng:350,spd:520,itv:900}}
 
