@@ -650,10 +650,11 @@ var part_func = function(i, part){
 	ajaxManager.set({file:"abd", callback:part_func});
 	ajaxManager.set({file:"cbd", callback:part_func});
 	ajaxManager.set({file:"sbd", callback:part_func});
+	/**
 	$.each("wb,lg,hd,bs,am,mainwp,subwp,hdac,fcac".split(","), function(dummy, part){
 		task.push({file:part, callback:part_func});
 	});
-	ajaxManager.set(task);
+	ajaxManager.set(task);*/
 
 /* チューンアップデータ読込:Start */
 ajaxManager.set({
