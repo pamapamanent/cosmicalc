@@ -3,69 +3,12 @@
 
 {group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
 {id:82,name:"ウィンベルαAM",size:"S",type:"s",cost:75,hp:20,tec:2,tgh:3, slot:3, cartridge:{hpup: ,lv1:"",lv6:"",lv9:""},tunable:{mwp:1}, main:{pwr:5,shl:200,rng:200,spd:480,itv:500}}
-{id:88,name:"A.L.E.ウィンベルAM",size:"S",type:"s",cost:75,hp:20,tec:3,wlk:1,fly:-1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:2,shl:200,rng:200,spd:480,itv:300},comment:["チューン可否不明"]}
- {id:179,name:"クリムローゼαAM2",size:"S",type:"a",cost:105,hp:20,str:3,fly:1,tgh:1, slot:3, sub:{pwr:30,rng:70,spd:8,itv:5500}}
- {id:201,name:"クロスラプターAM2",size:"S",type:"a",cost:35,hp:20,str:1,tec:-1,fly:3,tgh:2, slot:3, fixedParts:{wp : "クロスラプターAM2@" }}
- {id:280,name:"A.L.E.ジークンロンAM",size:"S",type:"l",cost:75,hp:20,str:2,tec:-1,wlk:2,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:26,shl:70,spd:85,itv:500},comment:["チューン可否不明"]}
-{id:115,name:"エースブレイバーAM",size:"S",type:"la",cost:70,hp:20,str:2,wlk:1,fly:1,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
-{id:5,name:"A・ミラルAM",size:"S",type:"lacs",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2, slot:3}
-{id:23,name:"ナイトジャーAM2",size:"S",type:"lacs",cost:35,hp:20,str:3,tec:-1,wlk:2,tgh:1, slot:3}
-{id:25,name:"ナイトジャーAM3",size:"S",type:"lacs",cost:35,hp:20,str:1,wlk:1,tgh:3, slot:3}
-{id:102,name:"ウルメリーAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,tgh:2, slot:3}
- {id:152,name:"カメンティスAM",size:"S",type:"lacs",cost:35,hp:20,tec:1,wlk:2,tgh:2, slot:3}
- {id:180,name:"クリムローゼαAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1, slot:3}
- {id:275,name:"ジークンαAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1, slot:3}
- {id:294,name:"シャインバトラーAM",size:"S",type:"lacs",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1, slot:3}
- {id:299,name:"シャインバスターAM",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
- {id:336,name:"ゼロセイバーAM",size:"S",type:"lacs",cost:35,hp:20,str:2,tec:1,wlk:1,fly:1, slot:3}
- {id:339,name:"ゼロセイバーAM2",size:"S",type:"lacs",cost:35,hp:20,tec:3,wlk:1,fly:1, slot:3}
- {id:349,name:"ゼロファイターAM",size:"S",type:"lacs",cost:35,hp:20,str:2,tec:1,wlk:1,tgh:1, slot:3}
- {id:354,name:"ゼロファイターNEXTAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,wlk:1,fly:-1,tgh:2, slot:3}
- {id:368,name:"ソードウィングAM",size:"S",type:"lacs",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1, slot:3}
- {id:378,name:"ソルボルカノウィングAM",size:"S",type:"lacs",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1, slot:3}
- {id:387,name:"タラントリックAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1, slot:3}
+
 
 {group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
  {id:383,name:"ダイダリオンAM2",size:"LL",type:"l",cost:205,hp:25,str:4,tec:-1,fly:-1,tgh:3, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:34,rng:70,spd:85,itv:1000},comment:["手持ち装備不可","チューン可否不明"]}
-{id:118,name:"エスカゴットAM",size:"M",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:16,shl:200,rng:330,spd:360,itv:500},comment:["手持ち装備不可","チューン可否不明"]}
- {id:164,name:"ガンアームズAM2",size:"M",type:"c",cost:80,hp:20,str:-1,tec:3,fly:1,tgh:2, slot:3, sub:{pwr:11,shl:200,rng:350,spd:290,itv:1000},comment:["チューン可否不明"]}
- {id:165,name:"ガンアームズAM",size:"M",type:"c",cost:60,hp:20,tec:3,fly:2, slot:3,comment:["チューン可否不明"]}
- {id:209,name:"ゲンブラAM",size:"M",type:"c",cost:60,hp:25,tec:2,wlk:1,tgh:2, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:12,shl:130,rng:330,spd:290,itv:440}, sub:{pwr:13,shl:160,rng:350,spd:290,itv:1000,tec:100}}
-{id:6,name:"RAMソルジェッターBD",size:"M",type:"a",cost:485,hp:255,str:13,tec:5,wlk:7,fly:13,tgh:10,capa:870, main:{pwr:3,shl:900,rng:275,spd:350,itv:460}}
-{id:7,name:"RAMソルジェッターLG",size:"M",type:"a",cost:105,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:26,shl:50,rng:120,spd:250,itv:1000},comment:["チューン可否不明"]}
-{id:9,name:"RAMソルジェッターBS",size:"M",type:"a",cost:40,hp:20,tec:2,wlk:1,fly:2, slot:3}
-{id:10,name:"RAMソルジェッターAM",size:"M",type:"a",cost:80,hp:25,str:2,tec:1,wlk:-1,fly:2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:26,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
-{id:75,name:"イニトォンAM2",size:"M",type:"a",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1, slot:3}
-{id:99,name:"ウミガメンティスAM",size:"M",type:"a",cost:80,hp:25,str:-1,tec:2,fly:2,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:16,shl:140,rng:275,spd:350,itv:780},comment:["チューン可否不明"]}
- {id:157,name:"ガルラバードAM",size:"M",type:"a",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, sub:{pwr:5,shl:620,rng:275,spd:390,itv:160},comment:["手持ち装備不可","チューン可否不明"]}
-{id:60,name:"アクシオンAM2",size:"M",type:"l"}
-{id:61,name:"アクシオンAM",size:"M",type:"l"}
-{id:124,name:"エスティスAM2",size:"M",type:"l",cost:95,hp:25,str:-1,tec:3,wlk:2,fly:1, slot:3,tunable:{pwp:1}, sub:{pwr:12,shl:270,rng:250,spd:400,itv:1000}}
-{id:125,name:"エスティスAM",size:"M",type:"l",cost:140,hp:25,tec:3,fly:-1,tgh:3, slot:3,tunable:{mwp:1}, main:{pwr:20,shl:220,rng:225,spd:440,itv:440}}
-{id:8,name:"RAMソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
-{id:68,name:"イヅナカムイαAM2",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1, slot:3}
-{id:72,name:"イヅナカムイαAM",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:2,tgh:1, slot:3}
- {id:192,name:"クレストセイントAM",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:1,fly:2, slot:3}
- {id:213,name:"ゴースレイダーAM",size:"M",type:"lacs",cost:35,hp:20,str:1,tec:2,wlk:1,fly:1, slot:3}
- {id:237,name:"サイコクラスターAM",size:"M",type:"lacs",cost:35,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2, slot:3}
- {id:331,name:"セイロンAM",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1, slot:3}
- {id:373,name:"ソルジェッターAM",size:"M",type:"lacs",cost:35,hp:20,str:2,fly:2,tgh:1, slot:3}
+
 
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
  {id:145,name:"ヘケトケレスAM2",size:"L",type:"c",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:26,shl:210,rng:300,spd:320,itv:800},comment:["手持ち装備不可","チューン可否不明"]}
- {id:232,name:"コントラディクトAM",size:"L",type:"c",cost:100,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:22,shl:160,rng:330,spd:290,itv:780},comment:["手持ち装備不可","チューン可否不明"]}
- {id:243,name:"サイドロンAM",size:"L",type:"a",cost:65,hp:20,str:-1,tec:2,wlk:2,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},comment:["盾あり（耐久値不明）","チューン可否不明"]}
- {id:264,name:"ジーウェインAMJ",size:"L",type:"a",cost:40,hp:25,tec:1,fly:1,tgh:3, slot:3, jointPart:1, fixedParts:{am : "ジーウェインAM" }}
- {id:285,name:"ジオグラシスAM2",size:"L",type:"a",cost:85,hp:20,tec:3,wlk:-1,fly:2,tgh:1, slot:3,comment:["チューン可否不明"]}
- {id:221,name:"コスモカイザーAM2",size:"L",type:"l",cost:90,hp:25,str:-1,tec:2,wlk:2,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:27,shl:30,rng:120,spd:250,itv:500}}
- {id:359,name:"ゼロブレイカーAM2",size:"L",type:"l",cost:155,hp:20,str:-1,tec:3,wlk:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:23,shl:220,rng:250,spd:480,itv:720},comment:["チューン可否不明"]}
- {id:384,name:"ダイダリオンAM",size:"L",type:"l",cost:40,hp:25,str:3,tec:-1,wlk:1,tgh:2, slot:3}
-{id:47,name:"アクイーアAM",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1, slot:3}
-{id:94,name:"ウォーダスAM2",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1, slot:3}
- {id:195,name:"クロコダガーAM",size:"L",type:"lacs",cost:35,hp:20,str:3,tec:1,tgh:1, slot:3}
- {id:226,name:"コスモカイザーAM",size:"L",type:"lacs",cost:40,hp:25,str:3,tec:1,tgh:1, slot:3}
- {id:258,name:"サジタルマクシスAM",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:3, slot:3}
- {id:286,name:"ジオグラシスAM",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:2,wlk:-1,tgh:2, slot:3}
- {id:326,name:"スケアガントAM2",size:"L",type:"lacs",cost:40,hp:20,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
- {id:360,name:"ゼロブレイカーAM",size:"L",type:"lacs",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2, slot:3}
