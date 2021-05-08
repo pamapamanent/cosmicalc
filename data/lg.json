@@ -1,10 +1,13 @@
-{group:"ＳＳサイズ",prefixId:"SS",commonStat:{size:"SS",type:""},nextId:0}
-
 {group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
-
-
-{group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
-{id:4001,name:"テストLG（M）",size:"M",type:"lfcs",cost:30,hp:25,str:1,tec:1,wlk:-1,fly:-2,tgh:1, slot:3, main:{pwr:1,shl:1,rng:1,spd:1,itv:1}, sub:{pwr:1,shl:1,rng:1,spd:1,itv:1}}
-
-
-{group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
+ {id:167,name:"キャノンボールHD",size:"S",type:"c",cost:35,hp:20,tec:2,wlk:1,tgh:2, slot:3}
+ {id:366,name:"ソードウィングHD",size:"S",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:600,rng:200,spd:480,itv:140},comment:["チューン可否不明"]}
+{id:21,name:"ナイトジャーHD2",size:"S",type:"lacs",cost:40,hp:25,str:3,tgh:2, slot:3}
+{id:113,name:"エースブレイバーHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2, slot:3}
+ {id:150,name:"カメンティスHD",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,tgh:2, slot:3}
+ {id:292,name:"シャインバトラーHD",size:"S",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
+ {id:297,name:"シャインバスターHD",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3}
+ {id:334,name:"ゼロセイバーHD",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:2,tgh:1, slot:3}
+ {id:338,name:"ゼロセイバーHD2",size:"S",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
+ {id:347,name:"ゼロファイターHD",size:"S",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
+ {id:352,name:"ゼロファイターNEXTHD",size:"S",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
+ {id:376,name:"ソルボルカノウィングHD",size:"S",type:"lacs",cost:40,hp:25,str:3,tec:-1,fly:2,tgh:1, slot:3}
