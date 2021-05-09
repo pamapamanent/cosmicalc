@@ -1,38 +1,5 @@
 {group:"ＳＳサイズ",prefixId:"SS",commonStat:{size:"SS",type:""},nextId:0}
  {id:83,name:"ウィンベルαBS",size:"SS",type:"s",cost:40,hp:25,wlk:1,fly:3,tgh:1, slot:3}
-{group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
- {id:162,name:"ガンアームズBS",size:"M",type:"c",cost:70,hp:25,str:-1,tec:2,fly:3,tgh:1, slot:3, joint:{wp:1}, fixedParts:{wp : "ガンアームズBS@" }}
- {id:212,name:"ゲンブラBS",size:"M",type:"c",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:2,tgh:2, slot:3}
- {id:9,name:"RAMソルジェッターBS",size:"M",type:"a",cost:40,hp:20,tec:2,wlk:1,fly:2, slot:3}
-{id:67,name:"イヅナカムイαBS2",size:"M",type:"a",cost:90,hp:25,str:-1,tec:3,fly:3, slot:3}
- {id:71,name:"イヅナカムイαBS",size:"M",type:"a",cost:90,hp:25,str:-1,tec:2,fly:3,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:6,shl:400,rng:275,spd:290,itv:1000},comment:["チューン可否不明"]}
-{id:77,name:"イニトォンBS",size:"M",type:"a",cost:40,hp:20,str:-1,tec:1,wlk:2,fly:3, slot:3}
- {id:98,name:"ウミガメンティスBS",size:"M",type:"a",cost:64,hp:25,tec:1,fly:2,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:5,shl:400,rng:250,spd:350,itv:1000},comment:["チューン可否不明"]}
-{id:195,name:"クレストセイントBS",size:"M",type:"a",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2, slot:3}
- {id:240,name:"サイコクラスターBS",size:"M",type:"a",cost:40,hp:20,str:1,tec:2,fly:3,tgh:-1, slot:3}
-{id:246,name:"サイドロンBS",size:"M",type:"a",cost:40,hp:25,tec:-1,wlk:2,fly:3,tgh:1, slot:3}
- {id:334,name:"セイロンBS",size:"M",type:"a",cost:40,hp:25,str:1,tec:1,fly:3, slot:3,comment:["※変形：空のみ"]}
- {id:382,name:"ソルジェッターBS",size:"M",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:3, slot:3}
- {id:59,name:"アクシオンBS",size:"M",type:"l"}
-{id:123,name:"エスティスBS",size:"M",type:"l",cost:40,hp:20,tec:2,wlk:2,fly:2,tgh:-1, slot:3}
-{id:503,name:"メディージャーBS",size:"M",type:"s",cost:40,hp:25,str:1,fly:3,tgh:1, slot:3}s
-{group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
-{id:235,name:"コントラディクトBS",size:"L",type:"c",cost:40,hp:25,str:1,wlk:-1,fly:3,tgh:2, slot:3}
- {id:261,name:"サジタルマクシスBS",size:"L",type:"c",cost:40,hp:25,str:2,fly:3, slot:3}
- {id:44,name:"アクイーアBS",size:"L",type:"a",cost:50,hp:30,str:1,tec:2,wlk:-1,fly:3,tgh:1, slot:3}
-{id:93,name:"ウォーダスBS2",size:"L",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:3,fly:1, slot:3}
- {id:156,name:"ガルラバードBS",size:"L",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2, slot:3}
-{id:267,name:"ジーウェインBS",size:"L",type:"a",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1, slot:3}
-{id:288,name:"ジオグラシスBS",size:"L",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1, slot:3}
-{id:371,name:"ソア・ラBS",size:"L",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2, slot:3}
-{id:198,name:"クロコダガーBS",size:"L",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:2,tgh:1, slot:3}
- {id:224,name:"コスモカイザーBS2",size:"L",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3, slot:3}
- {id:229,name:"コスモカイザーBS",size:"L",type:"l",cost:35,hp:20,str:1,tec:-1,wlk:1,fly:3,tgh:1, slot:3}
-{id:328,name:"スケアガントBS",size:"L",type:"l",cost:45,hp:25,fly:2,tgh:3, slot:3}
-{id:362,name:"ゼロブレイカーBS",size:"L",type:"l",cost:40,hp:25,wlk:2,fly:2,tgh:1, slot:3}
- {id:392,name:"ダイダリオンBS",size:"L",type:"l",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
-{group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:8000}
-{id:144,name:"ヘケトケレスBS",size:"LL",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:700,rng:330,spd:290,itv:1000},comment:["チューン可否不明"]}
-
+{group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:518,name:"BSJ",size:"M",type:"lacs", slot:1, jointPart:1,comment:["仮ジョイント","あとでけすかも"]}
