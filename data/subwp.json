@@ -1,1 +1,43 @@
-//subwp
+{group:"ソード",prefixId:"SWORD",nextId:450}
+{id:140,name:"ショートソード",size:"M",type:"lacs",cost:40, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:77,spd:94,itv:500}}
+{id:141,name:"ロングソード",size:"M",type:"lacs",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:77,spd:94,itv:500}}
+{id:142,name:"ブロードソード",size:"M",type:"ls",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:500}}
+{id:143,name:"グレートソード",size:"L",type:"l",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:33,rng:77,spd:94,itv:500}}
+{id:144,name:"オーガソード",size:"LL",type:"l",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:35,rng:77,spd:94,itv:500}}
+{id:145,name:"メタルスレイヤー",size:"M",type:"l",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:500}}
+{id:146,name:"ドゥームスレイヤー",size:"L",type:"l",cost:150, slot:3,tunable:{pwp:1}, sub:{pwr:34,rng:84,spd:102,itv:500}}
+{id:147,name:"リッパーズサイズ",size:"M",type:"la",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:1000}}
+{id:148,name:"オミナスサイス",size:"M",type:"las",cost:200, slot:3,tunable:{pwp:1}, sub:{pwr:34,rng:70,spd:85,itv:1000}}
+{id:149,name:"ビームブレード",size:"M",type:"a",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:70,spd:85,itv:500}}
+{id:150,name:"ソニックブレード",size:"M",type:"a",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:70,spd:85,itv:500}}
+{id:151,name:"スラッシュブレード",size:"M",type:"a",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:70,spd:85,itv:500}}
+{id:152,name:"ディバインブレード",size:"M",type:"a",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:70,spd:85,itv:500}}
+{group:"ナイフ",prefixId:"KNIFE",nextId:450}
+{id:153,name:"カッター",size:"SS",type:"lacs",cost:25, slot:3,tunable:{pwp:1}, sub:{pwr:26,rng:105,spd:128,itv:500}}
+{id:154,name:"サバイバルアイフ",size:"S",type:"lacs",cost:55, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:105,spd:128,itv:500}}
+{id:155,name:"インテグラルナイフ",size:"M",type:"l",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:31,rng:105,spd:125,itv:500}}
+{group:"スピア・ランス",prefixId:"LANCE",nextId:450}
+{id:156,name:"スピア",size:"M",type:"ls",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:84,spd:102,itv:1000}}
+{id:157,name:"ランス",size:"M",type:"l",cost:130, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:100,spd:200,itv:2000}}
+{id:158,name:"レイピア",size:"S",type:"a",cost:40, slot:3,tunable:{pwp:1}, sub:{pwr:23,rng:100,spd:200,itv:1000}}
+{id:159,name:"デュエルレイピア",size:"M",type:"a",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:27,rng:100,spd:200,itv:1000}}
+{id:160,name:"アサルトビームランス",size:"M",type:"a",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:27,rng:120,spd:200,itv:500}}
+{group:"アクス",prefixId:"AXE",nextId:450}
+{id:161,name:"ハンドアクス",size:"S",type:"lcs",cost:40, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:56,spd:68,itv:1000}}
+{id:162,name:"バトルアクス",size:"M",type:"ls",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:56,spd:68,itv:1000}}
+{id:163,name:"バイキングアクス",size:"L",type:"l",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:34,rng:56,spd:68,itv:1000}}
+{id:164,name:"ギガントアクス",size:"LL",type:"l",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:37,rng:56,spd:68,itv:1000}}
+{id:165,name:"ブレイズアクス",size:"L",type:"l",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:33,rng:70,spd:85,itv:500}}
+{group:"メイス・ハンマー",prefixId:"MACE",nextId:450}
+{id:166,name:"クラブ",size:"M",type:"lcs",cost:40, slot:3,tunable:{pwp:1}, sub:{pwr:31,rng:49,spd:60,itv:1000}}
+{id:167,name:"ハンマー",size:"L",type:"ls",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:33,rng:49,spd:60,itv:1000}}
+{id:168,name:"ウォーハンマー",size:"L",type:"l",cost:110, slot:3,tunable:{pwp:1}, sub:{pwr:36,rng:49,spd:60,itv:1000}}
+{id:169,name:"ジェットハンマー",size:"L",type:"l",cost:130, slot:3,tunable:{pwp:1}, sub:{pwr:39,shl:30,rng:70,spd:85,itv:1000}}
+{group:"シールド",prefixId:"SHIELD",nextId:450}
+{id:170,name:"バイパーシールド",size:"L",type:"lacs",cost:40, slot:3,comment:["盾耐久値不明"]}
+{id:173,name:"カタストロフシールド",size:"M",type:"lacs",cost:35, slot:3,comment:["盾耐久値不明","α、βともに同じステータス","プラチナチケット"]}
+{id:174,name:"オネストシールド",size:"M",cost:35, slot:3,comment:["盾耐久値不明","α、βともに同じステータス","プラチナチケット"]}
+{group:"その他（サブ）",prefixId:"SETC",nextId:450}
+{id:172,name:"スパイクシールド",size:"LL",type:"l",cost:90, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:120,spd:400,itv:500},comment:["盾耐久値不明"]}
+{group:"コンバージョン（サブ）",prefixId:"SCONV",nextId:450}
+{id:177,name:"ヴォルケンランス",size:"S",type:"l",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:90,spd:100,itv:2000},comment:["コンバージョンパーツ","ナイトジャーAM2専用","チューン可否不明"]}
