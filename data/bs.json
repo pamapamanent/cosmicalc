@@ -18,8 +18,7 @@
 {id:347,name:"ゼロセイバーガールBS",size:"S",type:"l",cost:40,hp:20,str:1,tec:1,fly:1,tgh:2, slot:3}
 {id:352,name:"ゼロファイターBS",size:"S",type:"l",cost:35,hp:20,str:1,fly:3,tgh:1, slot:3}
 {id:357,name:"ゼロファイターNEXTBS",size:"S",type:"l",cost:70,hp:25,str:1,tec:-1,wlk:2,fly:3, slot:3, sub:{pwr:0,shl:30,rng:120,spd:250,itv:1000}}
-{id:3,name:"A・ミラルBS",size:"S",type:"lc",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3, slot:3, sub:{shl:60,rng:100,spd:150,itv:1000},comment:["チューン可否不明"]}
-{id:4,name:"A・ミラルBS@",size:"S",type:"lc",cost:100, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:8,shl:500,rng:250,spd:360,itv:440},comment:["チューン可否不明"]}
+{id:3,name:"A・ミラルBS",size:"S",type:"lc",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3, slot:3, joint:{wp:1}, sub:{shl:60,rng:100,spd:150,itv:1000},comment:["コンバージョンパーツのみ装備可能","チューン可否不明"]}
  {id:114,name:"エースブレイバーBS",size:"S",type:"lacs",cost:40,hp:25,wlk:1,fly:3,tgh:1, slot:3}
 {id:387,name:"ソルボルカノウィングBS",size:"S",type:"lacs",cost:60,hp:25,wlk:1,fly:3,tgh:1, slot:3, sub:{pwr:20,rng:100,spd:120,itv:1000}}
 {id:515,name:"ブルーメBS",size:"S",type:"s",cost:40,hp:25,tec:1,wlk:1,fly:3, slot:3}
