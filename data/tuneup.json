@@ -72,63 +72,62 @@
 {id:12,name:"ハイアサルト",cost:35,str:2,tec:2,material:"4*1|17*26|18*26|27*12|28*12|12*5|11*5|16*5",comment:["60%"]}
 {id:13,name:"スピーダー",cost:15,wlk:1,fly:1,material:"3*1|19*23|20*23|14*5|13*5",comment:["60%"]}
 {id:14,name:"ハイスピーダー",cost:35,wlk:2,fly:2,material:"4*1|19*26|20*26|30*12|26*12|14*5|13*5|16*5",comment:["60%"]}
-{group:"特殊",prefixID:"SP",commonStat:{target:"cpt"}}
-{id:1,name:"エターナル",cost:5,material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["100%","適用パーツの部位破壊を防ぐ"]}
-{id:2,name:"ハイエターナル",cost:15,hp:8,comment:["%不明","適用パーツの部位破壊を防ぐ","素材未確認"]}
+{group:"特殊",prefixID:"SP"}
+{id:1,name:"エターナル",cost:15,hp:15,material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"]}
+{id:2,name:"ハイエターナル",cost:15,hp:8,material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"]}
 //{group:"キャパ系",prefixID:"C",commonStat:{target:"cpt lg"}}
 //{group:"リベンジ系",prefixID:"RV",commonStat:{target:"cpt lg"}}
 {group:"フォース系",prefixID:"F",commonStat:{target:"mwp"}}
-{id:1,name:"フォース",cost:10,pwr:3,material:"7*1|28*4",comment:["50%","威力+3%"]}
-{id:2,name:"ハイフォース",cost:25,pwr:6,material:"8*1|28*10|23*5|11*4",comment:["50%","威力+6%"]}
-{id:3,name:"ハイフォースα",cost:20,pwr:6,material:"8*1|28*10|23*5|11*4",comment:["50%","威力+6%、弾数-7%"]}
-{id:4,name:"ハイフォースβ",cost:20,pwr:6,material:"8*1|28*10|23*5|11*4",comment:["50%","威力+6%、射程-7%"]}
-{id:5,name:"ハイフォースγ",cost:20,pwr:6,material:"8*1|28*10|23*5|11*4",comment:["50%","威力+6%、速度-7%"]}
-{id:6,name:"グレートフォース",cost:40,pwr:9,material:"9*1|28*13|23*7|35*6|37*2|11*5",comment:["50%","威力+9%"]}
-{id:7,name:"グレートフォースα",cost:30,pwr:9,material:"9*1|28*13|23*7|35*6|37*2|11*5",comment:["50%","威力+9%、弾数-10%"]}
-{id:8,name:"グレートフォースβ",cost:30,pwr:9,material:"9*1|28*13|23*7|35*6|37*2|11*5",comment:["50%","威力+9%、弾数-10%"]}
-{id:9,name:"グレートフォースγ",cost:30,pwr:9,material:"9*1|28*13|23*7|35*6|37*2|11*5",comment:["50%","威力+9%、弾数-10%"]}
+{id:1,name:"フォース",cost:10, effect:{pwr:3},material:"7*1|28*4",comment:["50%","威力+3%"]}
+{id:2,name:"ハイフォース",cost:25, effect:{pwr:6},material:"8*1|28*10|23*5|11*4",comment:["50%","威力+6%"]}
+{id:3,name:"ハイフォースα",cost:20, effect:{pwr:6,shl:-7},material:"8*1|28*10|23*5|11*4",comment:["50%","威力+6%、弾数-7%"]}
+{id:4,name:"ハイフォースβ",cost:20, effect:{pwr:6,rng:-7},material:"8*1|28*10|23*5|11*4",comment:["50%","威力+6%、射程-7%"]}
+{id:5,name:"ハイフォースγ",cost:20, effect:{pwr:6,spd:-7},material:"8*1|28*10|23*5|11*4",comment:["50%","威力+6%、速度-7%"]}
+{id:6,name:"グレートフォース",cost:40, effect:{pwr:9},material:"9*1|28*13|23*7|35*6|37*2|11*5",comment:["50%","威力+9%"]}
+{id:7,name:"グレートフォースα",cost:30, effect:{pwr:9,shl:-10},material:"9*1|28*13|23*7|35*6|37*2|11*5",comment:["50%","威力+9%、弾数-10%"]}
+{id:8,name:"グレートフォースβ",cost:30, effect:{pwr:9,rng:-10},material:"9*1|28*13|23*7|35*6|37*2|11*5",comment:["50%","威力+9%、弾数-10%"]}
+{id:9,name:"グレートフォースγ",cost:30, effect:{pwr:9,spd:-10},material:"9*1|28*13|23*7|35*6|37*2|11*5",comment:["50%","威力+9%、弾数-10%"]}
 {group:"リーチ系",prefixID:"LC",commonStat:{target:"mwp"}}
-{id:1,name:"リーチ",cost:5,material:"7*1|26*4",comment:["50%","射程+5%"]}
-{id:2,name:"ハイリーチ",cost:15,material:"8*1|26*10|24*5|13*4",comment:["50%","射程+10%"]}
-{id:3,name:"ハイリーチα",cost:10,material:"8*1|26*10|24*5|13*4",comment:["50%","射程+10%、弾数-7%"]}
-{id:4,name:"ハイリーチβ",cost:10,material:"8*1|26*10|24*5|13*4",comment:["50%","射程+10%、速度-7%"]}
-{id:5,name:"グレートリーチ",cost:30,material:"9*1|26*13|24*7|36*6|38*2|13*5",comment:["50%","射程+15%"]}
-{id:6,name:"グレートリーチα",cost:20,material:"9*1|26*13|24*7|36*6|38*2|13*5",comment:["50%","射程+15%、弾数-10%"]}
-{id:7,name:"グレートリーチβ",cost:20,material:"9*1|26*13|24*7|36*6|38*2|13*5",comment:["50%","射程+15%、速度-10%"]}
+{id:1,name:"リーチ",cost:5, effect:{rng:5},material:"7*1|26*4",comment:["50%","射程+5%"]}
+{id:2,name:"ハイリーチ",cost:15, effect:{rng:10},material:"8*1|26*10|24*5|13*4",comment:["50%","射程+10%"]}
+{id:3,name:"ハイリーチα",cost:10, effect:{shl:-7,rng:10},material:"8*1|26*10|24*5|13*4",comment:["50%","射程+10%、弾数-7%"]}
+{id:4,name:"ハイリーチβ",cost:10, effect:{rng:10,spd:-7},material:"8*1|26*10|24*5|13*4",comment:["50%","射程+10%、速度-7%"]}
+{id:5,name:"グレートリーチ",cost:30, effect:{rng:15},material:"9*1|26*13|24*7|36*6|38*2|13*5",comment:["50%","射程+15%"]}
+{id:6,name:"グレートリーチα",cost:20, effect:{shl:-10,rng:15},material:"9*1|26*13|24*7|36*6|38*2|13*5",comment:["50%","射程+15%、弾数-10%"]}
+{id:7,name:"グレートリーチβ",cost:20, effect:{rng:15,spd:-10},material:"9*1|26*13|24*7|36*6|38*2|13*5",comment:["50%","射程+15%、速度-10%"]}
 {group:"ラピッド系",prefixID:"RP",commonStat:{target:"mwp"}}
-{id:1,name:"ラピッド",cost:5,material:"7*1|30*4",comment:["50%","速度+5%"]}
-{id:2,name:"ハイラピッド",cost:15,material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%"]}
-{id:3,name:"ハイラピッドα",cost:10,material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%、弾数-7%"]}
-{id:4,name:"ハイラピッドβ",cost:10,material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%、射程-7%"]}
-{id:5,name:"グレートラピッド",cost:30,material:"9*1|30*13|25*7|36*6|38*2|14*5",comment:["50%","速度+15%"]}
-{id:6,name:"グレートラピッドα",cost:20,material:"9*1|30*13|25*7|36*6|38*2|14*5",comment:["50%","速度+15%、弾数-10%"]}
-{id:7,name:"グレートラピッドβ",cost:20,material:"9*1|30*13|25*7|36*6|38*2|14*5",comment:["50%","速度+15%、射程-10%"]}
+{id:1,name:"ラピッド",cost:5, effect:{spd:5},material:"7*1|30*4",comment:["50%","速度+5%"]}
+{id:2,name:"ハイラピッド",cost:15, effect:{spd:10},material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%"]}
+{id:3,name:"ハイラピッドα",cost:10, effect:{shl:-7,spd:10},material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%、弾数-7%"]}
+{id:4,name:"ハイラピッドβ",cost:10, effect:{rng:-7,spd:10},material:"8*1|30*10|25*5|14*4",comment:["50%","速度+10%、射程-7%"]}
+{id:5,name:"グレートラピッド",cost:30, effect:{spd:15},material:"9*1|30*13|25*7|36*6|38*2|14*5",comment:["50%","速度+15%"]}
+{id:6,name:"グレートラピッドα",cost:20, effect:{shl:-10,spd:15},material:"9*1|30*13|25*7|36*6|38*2|14*5",comment:["50%","速度+15%、弾数-10%"]}
+{id:7,name:"グレートラピッドβ",cost:20, effect:{rng:-10,spd:15},material:"9*1|30*13|25*7|36*6|38*2|14*5",comment:["50%","速度+15%、射程-10%"]}
 {group:"サプライ系",prefixID:"SL",commonStat:{target:"mwp"}}
-{id:1,name:"サプライ",cost:5,material:"7*1|29*4",comment:["50%","弾数+5%"]}
-{id:2,name:"ハイサプライ",cost:15,material:"8*1|29*10|31*5|15*4",comment:["50%","弾数+10%"]}
-{id:3,name:"ハイサプライα",cost:10,material:"8*1|29*10|31*5|15*4",comment:["50%","弾数+10%、射程-7%"]}
-{id:4,name:"ハイサプライβ",cost:10,material:"8*1|29*10|31*5|15*4",comment:["50%","弾数+10%、速度-7%"]}
-{id:5,name:"グレートサプライ",cost:30,material:"9*1|29*13|31*7|36*6|38*2|15*5",comment:["50%","弾数+15%"]}
-{id:6,name:"グレートサプライα",cost:20,material:"9*1|29*13|31*7|36*6|38*2|15*5",comment:["50%","弾数+15%、射程-10%"]}
-{id:7,name:"グレートサプライβ",cost:20,material:"9*1|29*13|31*7|36*6|38*2|15*5",comment:["50%","弾数+15%、速度-10%"]}
+{id:1,name:"サプライ",cost:5, effect:{shl:5},material:"7*1|29*4",comment:["50%","弾数+5%"]}
+{id:2,name:"ハイサプライ",cost:15, effect:{shl:10},material:"8*1|29*10|31*5|15*4",comment:["50%","弾数+10%"]}
+{id:3,name:"ハイサプライα",cost:10, effect:{shl:10,rng:-7},material:"8*1|29*10|31*5|15*4",comment:["50%","弾数+10%、射程-7%"]}
+{id:4,name:"ハイサプライβ",cost:10, effect:{shl:10,spd:-7},material:"8*1|29*10|31*5|15*4",comment:["50%","弾数+10%、速度-7%"]}
+{id:5,name:"グレートサプライ",cost:30, effect:{shl:15},material:"9*1|29*13|31*7|36*6|38*2|15*5",comment:["50%","弾数+15%"]}
+{id:6,name:"グレートサプライα",cost:20, effect:{shl:15,rng:-10},material:"9*1|29*13|31*7|36*6|38*2|15*5",comment:["50%","弾数+15%、射程-10%"]}
+{id:7,name:"グレートサプライβ",cost:20, effect:{shl:15,spd:-10},material:"9*1|29*13|31*7|36*6|38*2|15*5",comment:["50%","弾数+15%、速度-10%"]}
 {group:"MAIN武器性能複合系",prefixID:"MC",commonStat:{target:"mwp"}}
-{id:1,name:"エアフォース",cost:20,material:"9*1|25*10|31*10|36*4|38*1|16*3",comment:["50%","弾数+5%、速度+5%"]}
-{id:2,name:"ハイエアフォース",cost:45,material:"10*1|25*20|31*20|36*10|38*3|16*4",comment:["50%","弾数+10%、速度+10%"]}
-{id:3,name:"シューター",cost:20,material:"9*1|25*10|24*10|36*4|38*1|16*3",comment:["50%","射程+5%、速度+5%"]}
-{id:4,name:"ハイシューター",cost:45,material:"10*1|25*20|24*20|36*10|38*3|16*4",comment:["50%","射程+10%、速度+10%"]}
+{id:1,name:"エアフォース",cost:20, effect:{shl:5,spd:5},material:"9*1|25*10|31*10|36*4|38*1|16*3",comment:["50%","弾数+5%、速度+5%"]}
+{id:2,name:"ハイエアフォース",cost:45, effect:{shl:10,spd:10},material:"10*1|25*20|31*20|36*10|38*3|16*4",comment:["50%","弾数+10%、速度+10%"]}
+{id:3,name:"シューター",cost:20, effect:{rng:5,spd:5},material:"9*1|25*10|24*10|36*4|38*1|16*3",comment:["50%","射程+5%、速度+5%"]}
+{id:4,name:"ハイシューター",cost:45, effect:{rng:10,spd:10},material:"10*1|25*20|24*20|36*10|38*3|16*4",comment:["50%","射程+10%、速度+10%"]}
 {group:"MAIN武器性能特殊効果系",prefixID:"MS",commonStat:{target:"mwp"}}
 {id:1,name:"パラライズ",cost:25,material:"10*1|27*31|32*10|35*7|37*2|15*3",comment:["50%","スタン係数100%上昇"]}
 {group:"近接SUB武器性能系",prefixID:"PP",commonStat:{target:"pwp"}}
-{id:1,name:"グラップラー",cost:10,material:"7*1|27*4",comment:["50%","威力+3%"]}
-{id:2,name:"ハイグラップラー",cost:25,material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%"]}
-{id:3,name:"ハイグラップラーα",cost:20,material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%、速度-7%"]}
-{id:4,name:"グレートグラップラー",cost:40,material:"9*1|27*13|23*7|35*7|37*2|12*5",comment:["50%","威力+9%"]}
-{id:5,name:"グレートグラップラーα",cost:30,material:"9*1|27*13|23*7|35*7|37*2|12*5",comment:["50%","威力+9%、速度-10%"]}
-{id:6,name:"グラディエーター",cost:20,material:"9*1|23*10|32*10|36*4|38*1|16*3",comment:["50%","射程+5%、速度+5%"]}
-{id:7,name:"ハイグラディエーター",cost:45,material:"10*1|23*20|32*20|36*10|38*3|16*4",comment:["50%","射程+10%、速度+10%"]}
-{group:"近接SUB武器特殊効果系",prefixID:"PS",commonStat:{target:"pwp"}}
-{id:1,name:"バーニング",cost:20,material:"10*1|29*31|32*10|35*7|37*2|15*3",comment:["50%","5%でバーニング効果"]}
-{id:2,name:"ライトスロウ",cost:20,material:"10*1|30*31|32*10|35*7|37*2|15*3",comment:["50%","5%でライトスロウ効果"]}
-{id:3,name:"ディスオーダー",cost:20,material:"10*1|28*31|32*10|35*7|37*2|15*3",comment:["50%","5%でディスオーダー効果"]}
-{id:4,name:"シェルドレイン",cost:20,material:"10*1|26*31|32*10|35*7|37*2|15*3",comment:["50%","5%でシェルドレイン効果"]}
-
+{id:1,name:"グラップラー",cost:10, effect:{pwr:3},material:"7*1|27*4",comment:["50%","威力+3%"]}
+{id:2,name:"ハイグラップラー",cost:25, effect:{pwr:6},material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%"]}
+{id:3,name:"ハイグラップラーα",cost:20, effect:{pwr:6,spd:-7},material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%、速度-7%"]}
+{id:4,name:"グレートグラップラー",cost:40, effect:{pwr:9},material:"9*1|27*13|23*7|35*7|37*2|12*5",comment:["50%","威力+9%"]}
+{id:5,name:"グレートグラップラーα",cost:30, effect:{pwr:9,spd:-10},material:"9*1|27*13|23*7|35*7|37*2|12*5",comment:["50%","威力+9%、速度-10%"]}
+{id:6,name:"グラディエーター",cost:20, effect:{rng:5,spd:5},material:"9*1|23*10|32*10|36*4|38*1|16*3",comment:["50%","射程+5%、速度+5%"]}
+{id:7,name:"ハイグラディエーター",cost:45, effect:{rng:10,spd:10},material:"10*1|23*20|32*20|36*10|38*3|16*4",comment:["50%","射程+10%、速度+10%"]}
+//{group:"近接SUB武器特殊効果系",prefixID:"PS",commonStat:{target:"pwp"}}
+//{id:1,name:"バーニング",cost:20,material:"10*1|29*31|32*10|35*7|37*2|15*3",comment:["50%","5%でバーニング効果"]}
+//{id:2,name:"ライトスロウ",cost:20,material:"10*1|30*31|32*10|35*7|37*2|15*3",comment:["50%","5%でライトスロウ効果"]}
+//{id:3,name:"ディスオーダー",cost:20,material:"10*1|28*31|32*10|35*7|37*2|15*3",comment:["50%","5%でディスオーダー効果"]}
+//{id:4,name:"シェルドレイン",cost:20,material:"10*1|26*31|32*10|35*7|37*2|15*3",comment:["50%","5%でシェルドレイン効果"]}
