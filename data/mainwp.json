@@ -165,8 +165,8 @@
 {id:171,name:"シールドショットガン",size:"LL",type:"lc",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:1170,rng:150,spd:400,itv:680},comment:["盾耐久値不明"]}
 {group:"コンバージョン（メイン・複合）",prefixId:"MCONV",nextId:450}
 {id:179,name:"ソルジャーレールガン",size:"M",type:"c",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:30,shl:180,rng:230,spd:480,itv:520},comment:["ブラディスター初期装備","チューン可否不明"]}
-{id:180,name:"ブラディスターAM@",size:"M",type:"c",cost:25, slot:0, main:{pwr:17,shl:50,rng:250,spd:400,itv:500},comment:["コンバージョンパーツ","ブラディスターAM、AM2専用"]}
 {id:181,name:"セイバーライフル",size:"M",type:"l",cost:170, slot:3,tunable:{mwp:1}, main:{pwr:25,shl:280,rng:250,spd:440,itv:640},comment:["ゼロセイバーNEXT初期装備","チューン可否不明"]}
-{group:"専用コンバージョン（メイン・複合）",prefixId:"MCONV",nextId:450}
-{id:178,name:"ヴォルケンシールド",size:"S",type:"l",cost:70, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:14,shl:100,rng:225,spd:320,itv:500}, sub:{pwr:28,rng:100,spd:250,itv:1000},comment:["コンバージョンパーツ","ナイトジャーAM3専用","チューン可否不明"]}
-{id:176,name:"A・ミラルBS@",size:"S",type:"lc",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:500,rng:250,spd:360,itv:440},comment:["コンバージョンパーツ","A・ミラルBS専用","チューン可否不明"]}
+{group:"専用コンバージョン（メイン・複合）",prefixId:"MEXCONV",nextId:450}
+{id:178,name:"ヴォルケンシールド",size:"S",type:"l",cost:70, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:14,shl:100,rng:225,spd:320,itv:500}, sub:{pwr:28,rng:100,spd:250,itv:1000},comment:["ナイトジャーAM3専用","チューン可否不明"]}
+{id:176,name:"A・ミラルBS@",size:"S",type:"lc",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:500,rng:250,spd:360,itv:440},comment:["A・ミラルBS専用","チューン可否不明"]}
+{id:180,name:"ブラディスターAM@",size:"M",type:"c",cost:25, slot:0, main:{pwr:17,shl:50,rng:250,spd:400,itv:500},comment:["ブラディスターAM、AM2専用"]}

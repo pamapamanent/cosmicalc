@@ -37,8 +37,8 @@
 {id:170,name:"バイパーシールド",size:"L",type:"lacs",cost:40, slot:3,comment:["盾耐久値不明"]}
 {id:173,name:"カタストロフシールド",size:"M",type:"lacs",cost:35, slot:3,comment:["盾耐久値不明","α、βともに同じステータス","プラチナチケット"]}
 {id:174,name:"オネストシールド",size:"M",cost:35, slot:3,comment:["盾耐久値不明","α、βともに同じステータス","プラチナチケット"]}
-{group:"その他（サブ）",prefixId:"SETC",nextId:450}
+{group:"その他",prefixId:"SETC",nextId:450}
 {id:172,name:"スパイクシールド",size:"LL",type:"l",cost:90, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:120,spd:400,itv:500},comment:["盾耐久値不明"]}
-{group:"コンバージョン（サブ）",prefixId:"SCONV",nextId:450}
-{group:"専用コンバージョン（サブ）",prefixId:"SEXCONV",nextId:450}
-{id:177,name:"ヴォルケンランス",size:"S",type:"l",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:90,spd:100,itv:2000},comment:["コンバージョンパーツ","ナイトジャーAM2専用","チューン可否不明"]}
+{group:"コンバージョン",prefixId:"SCONV",nextId:450}
+{group:"専用コンバージョン",prefixId:"SEXCONV",nextId:450}
+{id:177,name:"ヴォルケンランス",size:"S",type:"l",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:90,spd:100,itv:2000},comment:["ナイトジャーAM2専用","チューン可否不明"]}
