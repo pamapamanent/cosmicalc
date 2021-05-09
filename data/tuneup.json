@@ -73,8 +73,8 @@
 {id:13,name:"スピーダー",cost:15,wlk:1,fly:1,material:"3*1|19*23|20*23|14*5|13*5",comment:["60%"]}
 {id:14,name:"ハイスピーダー",cost:35,wlk:2,fly:2,material:"4*1|19*26|20*26|30*12|26*12|14*5|13*5|16*5",comment:["60%"]}
 {group:"特殊",prefixID:"SP"}
-{id:1,name:"エターナル",cost:15,hp:15,material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"]}
-{id:2,name:"ハイエターナル",cost:15,hp:8,material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"]}
+{id:1,name:"エターナル",cost:5,target:"cpt hd am",material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"]}
+{id:2,name:"ハイエターナル",cost:15,hp:8,target:"cpt hd am",material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"]}
 //{group:"キャパ系",prefixID:"C",commonStat:{target:"cpt lg"}}
 //{group:"リベンジ系",prefixID:"RV",commonStat:{target:"cpt lg"}}
 {group:"フォース系",prefixID:"F",commonStat:{target:"mwp"}}
@@ -131,3 +131,4 @@
 //{id:2,name:"ライトスロウ",cost:20,material:"10*1|30*31|32*10|35*7|37*2|15*3",comment:["50%","5%でライトスロウ効果"]}
 //{id:3,name:"ディスオーダー",cost:20,material:"10*1|28*31|32*10|35*7|37*2|15*3",comment:["50%","5%でディスオーダー効果"]}
 //{id:4,name:"シェルドレイン",cost:20,material:"10*1|26*31|32*10|35*7|37*2|15*3",comment:["50%","5%でシェルドレイン効果"]}
+
