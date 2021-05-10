@@ -23,6 +23,7 @@
  {id:70,name:"イヅナカムイαHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
 {id:180,name:"クリムローゼαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,fly:2, slot:3}
  {id:276,name:"ジークンロンαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
+ {id:523,name:"マイティバインガールHD",size:"S",type:"l",cost:40,hp:25,str:2,tec:1,wlk:2, slot:3}
 {group:"ＬＧ",prefixId:"L",nextId:2000}
  {id:106,name:"エイミィLG",size:"S",type:"s",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1, slot:3}
  {id:128,name:"えりざLG",size:"S",type:"s",cost:40,hp:20,str:2,wlk:2,fly:-1,tgh:2, slot:3, sub:{pwr:0,rng:43,spd:63,itv:2500}}
@@ -42,6 +43,7 @@
 {id:345,name:"ゼロセイバーガールLG",size:"S",type:"l",cost:40,hp:20,str:1,tec:2,wlk:1,tgh:1, slot:3}
  {id:86,name:"A.L.E.ウィンベルLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,wlk:3,fly:1,tgh:2, slot:3}
  {id:187,name:"クルールLG",size:"S",type:"lacs",cost:45,hp:25,str:2,wlk:3,fly:1, slot:3}
+ {id:524,name:"マイティバインガールLG",size:"S",type:"l",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1, slot:3}
 {group:"ＢＳ",prefixId:"B",nextId:4000}
  {id:129,name:"デモンBS",size:"S",type:"s",cost:35,hp:20,str:1,tec:1,fly:3, slot:3}
 {id:131,name:"えりざBS",size:"S",type:"s", slot:3}
@@ -80,6 +82,8 @@
 {id:308,name:"シルビアAM2",size:"S",type:"l",cost:60,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},comment:["部位破壊不能"]}
 {id:324,name:"スケアガントAM",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, joint:{wp:0}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["部位破壊不能","手持ち装備不可"]}
 {id:348,name:"ゼロセイバーガールAM",size:"S",type:"l",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
+{id:526,name:"マイティバインガールAM",size:"S",type:"l",cost:120,hp:25,str:3,tec:-1,wlk:2,tgh:1, slot:3, joint:{wp:0}, sub:{pwr:30,rng:74,spd:90,itv:500},comment:["部位破壊不能","手持ち装備不可"]}
+{id:529,name:"マイティバインガールAM2",size:"S",type:"l",cost:90,hp:20,str:2,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:25,rng:120,spd:220,itv:1000},comment:["部位破壊不能","手持ち装備不可"]}
 {group:"ＷＰ",prefixId:"W",nextId:8000}
 {id:88,name:"メモリ・スロット",size:"M",type:"lacs", slot:3,comment:["ロボ共通スロット増設パーツ"]}
 {id:89,name:"A.L.E.ウィンベルBD@",size:"S",type:"s", slot:3,tunable:{pwp:1}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["チューン可否不明"]}
@@ -108,3 +112,8 @@
 {id:505,name:"バクルス",size:"M",type:"s",cost:70, slot:0, main:{pwr:0,shl:80,rng:300,spd:300,itv:500}}
 {id:509,name:"アスクレピオス",size:"M",type:"s",cost:40, slot:0, main:{pwr:0,shl:80,rng:300,spd:300,itv:500}}
 {id:511,name:"リベル",size:"M",type:"s",cost:70, slot:0, sub:{pwr:0,shl:12,rng:0,spd:0,itv:20000}}
+{id:527,name:"バンカースマッシュ",size:"S",type:"l",cost:50, slot:0, main:{pwr:32,shl:30,rng:10,spd:10,itv:500}}
+{id:528,name:"マイティシールドγ",size:"S",type:"l",cost:20, slot:0,comment:["盾耐久値不明","部位破壊不能"]}
+{id:530,name:"ナックルブリット",size:"S",type:"l",cost:30, slot:0, main:{pwr:10,shl:120,rng:200,spd:570,itv:300}}
+{id:531,name:"マイティシールドα",size:"S",type:"l",cost:20, slot:0}
+{id:532,name:"マイティシールドβ",size:"S",type:"l",cost:20, slot:0}

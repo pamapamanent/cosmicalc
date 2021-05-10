@@ -43,6 +43,8 @@
 {id:361,name:"ゼロブレイカーHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:2,wlk:2,tgh:-1, slot:3}
  {id:381,name:"ソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
  {id:502,name:"メディージャーHD",size:"M",type:"lacs",cost:35,hp:20,str:2,tec:2,wlk:-1,fly:1,tgh:1, slot:3}
+ {id:535,name:"マイティバインHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
+{id:536,name:"マイティバインHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
  {id:45,name:"アクイーアHD",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1, slot:3}
 {id:46,name:"アクイーアHD2",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2, slot:3}

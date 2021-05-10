@@ -22,6 +22,7 @@
  {id:114,name:"エースブレイバーBS",size:"S",type:"lacs",cost:40,hp:25,wlk:1,fly:3,tgh:1, slot:3}
 {id:387,name:"ソルボルカノウィングBS",size:"S",type:"lacs",cost:60,hp:25,wlk:1,fly:3,tgh:1, slot:3, sub:{pwr:20,rng:100,spd:120,itv:1000}}
 {id:515,name:"ブルーメBS",size:"S",type:"s",cost:40,hp:25,tec:1,wlk:1,fly:3, slot:3}
+{id:525,name:"マイティバインガールBS",size:"S",type:"l",cost:45,hp:25,wlk:1,fly:2,tgh:2, slot:3}
 {group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
  {id:162,name:"ガンアームズBS",size:"M",type:"c",cost:70,hp:25,str:-1,tec:2,fly:3,tgh:1, slot:3, joint:{wp:1}, fixedParts:{wp : "ガンアームズBS@" }}
  {id:212,name:"ゲンブラBS",size:"M",type:"c",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:2,tgh:2, slot:3}
@@ -53,6 +54,7 @@
 {id:328,name:"スケアガントBS",size:"L",type:"l",cost:45,hp:25,fly:2,tgh:3, slot:3}
 {id:362,name:"ゼロブレイカーBS",size:"L",type:"l",cost:40,hp:25,wlk:2,fly:2,tgh:1, slot:3}
  {id:392,name:"ダイダリオンBS",size:"L",type:"l",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
+ {id:537,name:"マイティバインBS",size:"L",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2, slot:3}
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:8000}
 {id:144,name:"ヘケトケレスBS",size:"LL",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:700,rng:330,spd:290,itv:1000},comment:["チューン可否不明"]}
 
