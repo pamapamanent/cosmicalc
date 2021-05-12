@@ -45,6 +45,9 @@
  {id:502,name:"メディージャーHD",size:"M",type:"lacs",cost:35,hp:20,str:2,tec:2,wlk:-1,fly:1,tgh:1, slot:3}
  {id:535,name:"マイティバインHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
 {id:536,name:"マイティバインHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
+ {id:534,name:"ロッソアスピーデHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2, slot:3}
+ {id:536,name:"レイスタッグHD",size:"M",type:"a",cost:110,hp:25,str:-1,tec:2,wlk:2,fly:2, slot:3,tunable:{mwp:1}, main:{pwr:4,shl:780,rng:275,spd:315,itv:1000},comment:["チューン可否不明"]}
+  {id:535,name:"セバーレイスタッグHD",size:"M",type:"a",cost:180,hp:25,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:900,rng:275,spd:350,itv:1000},comment:["チューン可否不明"]}
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
  {id:45,name:"アクイーアHD",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1, slot:3}
 {id:46,name:"アクイーアHD2",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2, slot:3}

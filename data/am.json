@@ -49,6 +49,8 @@
 {id:506,name:"メディージャーAM",size:"M",type:"s",cost:35,hp:20,tec:1,wlk:2,tgh:2, slot:3}
 {id:508,name:"メディージャーAM4",size:"M",type:"s",cost:35,hp:20,tec:1,wlk:2,tgh:2, slot:3, fixedParts:{wp : "アスクレピオス" },comment:["手持ち装備不可"]}
 {id:510,name:"メディージャーAM3",size:"M",type:"s",cost:35,hp:20,tec:1,wlk:2,tgh:2, slot:3, fixedParts:{wp : "リベル" },comment:["手持ち装備不可"]}
+ {id:512,name:"レイスタッグAM",size:"M",type:"lacs",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1, slot:3}
+ {id:511,name:"セバーレイスタッグAM",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,fly:2,tgh:2, slot:3}
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
 {id:145,name:"ヘケトケレスAM2",size:"L",type:"c",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:26,shl:210,rng:300,spd:320,itv:800},comment:["手持ち装備不可","チューン可否不明"]}
 {id:236,name:"コントラディクトAM",size:"L",type:"c",cost:100,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:22,shl:160,rng:330,spd:290,itv:780},comment:["手持ち装備不可","チューン可否不明"]}
@@ -69,6 +71,8 @@
 {id:364,name:"ゼロブレイカーAM",size:"L",type:"lacs",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2, slot:3, fixedParts:{wp : "5" }}
 {id:538,name:"マイティバインAM",size:"L",type:"l", slot:3,tunable:{pwp:1}, sub:{pwr:35,shl:40,rng:70,spd:85,itv:2000},comment:["盾耐久値不明","チューン可否不明"]}
 {id:539,name:"マイティバインAM2",size:"L",type:"l",cost:80,hp:25,str:1,wlk:1,tgh:3, slot:3,comment:["盾耐久値不明"]}
+{id:540,name:"ロッソアスピーデAM",size:"L",type:"a",cost:70,hp:25,str:-1,tec:3,fly:3, slot:3, joint:{wp:0},tunable:{mwp:1}, sub:{pwr:4,shl:600,rng:275,spd:400,itv:300},comment:["ロッソアスピーデBD専用","装備手持ち不可","チューン可否不明"]}
+{id:541,name:"ロッソアスピーデAM2",size:"L",type:"lacs",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2, slot:3}
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
  {id:393,name:"ダイダリオンAM2",size:"LL",type:"l",cost:205,hp:25,str:4,tec:-1,fly:-1,tgh:3, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:34,rng:70,spd:85,itv:1000},comment:["手持ち装備不可","チューン可否不明"]}
  {id:373,name:"ソア・ラAM2",size:"LL", joint:{wp:0},type:"a",cost:190,hp:25,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:33,shl:190,rng:275,spd:440,itv:600},comment:["手持ち装備不可","チューン可否不明"]}
