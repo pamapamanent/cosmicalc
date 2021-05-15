@@ -61,7 +61,8 @@
  {id:390,name:"ダイダリオンLG",size:"L",type:"lacs",cost:50,hp:35,str:2,tec:-1,wlk:3,fly:1,tgh:1, slot:3}
  {id:534,name:"マイティバインLG",size:"L",type:"l",cost:90,hp:65,str:1,wlk:3,fly:-1,tgh:3, slot:3,comment:["盾耐久値不明"]}
  {id:535,name:"シュトルバンガーLG",size:"L",type:"lacs",cost:45,hp:50,tec:1,wlk:2,fly:1,tgh:2, slot:3}
-  {id:536,name:"ベクターLG",size:"L",type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:100,spd:160,itv:1000},comment:["チューン可否不明"]}
+ {id:536,name:"ベクターLG",size:"L",type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:100,spd:160,itv:1000},comment:["チューン可否不明"]}
+ {id:537,name:"デストラクトLG",size:"L",type:"lacs",cost:45,hp:40,str:1,tec:1,wlk:2,tgh:2, slot:3}
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
  {id:293,name:"シノ・イクスロードLG3",size:"LL",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:1000},comment:["BS接続可能","チューン可否不明"]}
  {id:294,name:"ロッソアスピーデLG",size:"LL",type:"a",cost:115,hp:80,str:-1,tec:2,wlk:2,fly:6,tgh:2, slot:3, builtin:{bs:1}, sub:{pwr:0,shl:60,rng:150,spd:150,itv:1000},comment:["BS内蔵？","チューン可否不明"]}
