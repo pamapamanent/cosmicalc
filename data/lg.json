@@ -43,6 +43,7 @@
  {id:502,name:"セバーレイスタッグLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,tgh:1, slot:3}
 {id:504,name:"トニトルスLG",size:"M",type:"a",cost:75,hp:25,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,shl:60,rng:100,spd:120,itv:1000},comment:["チューン可否不明"]}
  {id:505,name:"ビクトールLG",size:"M",type:"c",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:1, slot:3}
+ {id:506,name:"ブラディスターLG",size:"M",type:"c",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1, slot:3, sub:{pwr:0,shl:25,rng:100,spd:200,itv:600},comment:["チューン可否不明"]}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
 {id:142,name:"ヘケトケレスLG2",size:"L",type:"c",cost:70,hp:65,wlk:3,fly:1,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:0,shl:30,rng:100,spd:260,itv:1000},comment:["チューン可否不明"]}

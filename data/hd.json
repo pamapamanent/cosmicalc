@@ -54,6 +54,7 @@
  {id:542,name:"アントリオンHD",size:"M",type:"c",cost:40,hp:20,tec:2,fly:1,tgh:2, slot:3}
  {id:543,name:"ラグナバレッドHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1, slot:3}
  {id:544,name:"ビクトールHD",size:"M",type:"c",cost:40,hp:25,tec:2,wlk:-1,fly:1,tgh:3, slot:3}
+ {id:545,name:"ブラディスターHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
  {id:45,name:"アクイーアHD",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1, slot:3}

@@ -9,6 +9,7 @@
  {id:210,name:"アントリオンBD",size:"M",type:"c",cost:405,hp:245,str:4,tec:15,wlk:11,fly:6,tgh:9,capa:800, cartridge:{hpup:18,lv1:"8*6@20|21@20|24@20|22@15|31@20|32@20|34@15|37@25|36@30|45@20|35@20|41@10|27@30|47@40|46@40",lv6:"",lv9:""}}
  {id:211,name:"ビクトールBD",size:"M",type:"c",cost:435,hp:245,str:5,tec:12,wlk:9,fly:7,tgh:12,capa:800, cartridge:{hpup:18,lv1:"8*6@20|21@20|24@20|22@15|31@20|32@20|33@20|34@15|37@25|45@20|40@25|41@10|27@30|47@40|46@40",lv6:"",lv9:""}, sub:{pwr:0,shl:30,rng:10,spd:10,itv:1000}}
  {id:212,name:"ビクトールBD2",size:"M",type:"c",cost:435,hp:245,str:5,tec:12,wlk:7,fly:6,tgh:15,capa:800, cartridge:{hpup:18,lv1:"8*6@20|21@20|24@20|22@15|31@20|32@20|33@20|34@15|37@25|45@20|40@25|41@10|27@30|47@40|46@40",lv6:"",lv9:""}, sub:{pwr:0,shl:20,rng:10,spd:10,itv:1000}}
+ {id:213,name:"ブラディスターBD",size:"M",type:"c",cost:445,hp:255,str:3,tec:11,wlk:10,fly:8,tgh:8,capa:905, cartridge:{hpup:14,lv1:"7*6@20|21@20|24@20|22@15|31@15|32@20|33@20|34@15|37@25|45@20|35@20|41@10|27@30|47@40|46@40",lv6:"",lv9:""}}
 
  {group:"Ｌ砲",prefixID:"CL",commonStat:{size:"L",type:"c"},nextID:18}
  {id:116,name:"エスカゴットBD",size:"L",type:"c",cost:460,hp:280,str:5,tec:15,wlk:6,fly:8,tgh:13,capa:730, joint:{bs:0,wp:1}, cartridge:{hpup:22,lv1:"9*5@20|13*2@30|21@20|24@20|22@15|32@20|34@15|37@25|44@15|45@20|35@20|41@10|27@30|47@40|46@40",lv6:"",lv9:""}, sub:{pwr:9,shl:420,rng:350,spd:290,itv:1000}, fixedParts:{wp : "メモリ・スロット" },comment:["内蔵強化値不明","BS接続口なし"]}
