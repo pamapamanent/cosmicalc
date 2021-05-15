@@ -11,6 +11,7 @@
 {id:141,name:"ヘケトケレスBD",size:"L",type:"c",cost:510,hp:305,str:8,tec:15,wlk:8,fly:12,tgh:5,capa:980, cartridge:{hpup:10,lv1:"6*5@20|11*2@30|21@20|24@20|22@15|31@20|32@20|33@20|34@15|45@20|37@25|41@10|27@30|47@40|46@40",lv6:"",lv9:""}}
  {id:232,name:"コントラディクトBD",size:"L",type:"c",cost:525,hp:290,str:5,tec:18,wlk:6,fly:5,tgh:14,capa:870, cartridge:{hpup:14,lv1:"7*5@20|12*2@30|21@20|24@20|22@15|31@20|32@20|34@15|37@25|45@20|35@20|41@10|27@30|47@40|46@40",lv6:"",lv9:""}, sub:{pwr:12,shl:320,rng:350,spd:290,itv:1000}}
  {id:258,name:"サジタルマクシスBD",size:"L",type:"c",cost:490,hp:305,str:5,tec:15,wlk:11,fly:8,tgh:12,capa:945, joint:{wp:1}, cartridge:{hpup:10,lv1:"6*5@20|11*2@30|21@20|24@20|22@15|32@20|34@15|37@25|44@15|45@20|35@20|40@25|27@30|47@40|46@40",lv6:"",lv9:""}, fixedParts:{wp : "サジタルマクシスBD@" }}
-
+ {id:259,name:"シュトルバンガーBD",size:"L",type:"c",cost:445,hp:290,str:4,tec:19,wlk:5,fly:3,tgh:13,capa:945, joint:{wp:1}, cartridge:{hpup:11,lv1:"5*5@15|16*2@30|21@20|24@20|22@15|31@20|32@20|34@15|37@25|45@20|35@20|41@10|27@30|47@40|46@40",lv6:"",lv9:""},comment:["内蔵強化値不明"]}
+ {id:260,name:"シュトルバンガーBD2",size:"L",type:"c",cost:490,hp:305,str:4,tec:15,wlk:7,fly:5,tgh:12,capa:980, joint:{wp:1}, cartridge:{hpup:10,lv1:"6*5@20|16*2@30|21@20|24@20|22@15|31@20|32@20|34@15|37@25|45@20|35@20|41@10|27@30|47@40|46@40",lv6:"",lv9:""}, fixedParts:{wp : "シュトルバンガーBD@" },comment:["内蔵強化値不明"]}
 
  {group:"ＬＬ砲",prefixID:"CLL",commonStat:{size:"LL",type:"c"},nextID:2}

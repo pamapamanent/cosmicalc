@@ -117,3 +117,5 @@
 {id:530,name:"ナックルブリット",size:"S",type:"l",cost:30, slot:0, main:{pwr:10,shl:120,rng:200,spd:570,itv:300}}
 {id:531,name:"マイティシールドα",size:"S",type:"l",cost:20, slot:0}
 {id:532,name:"マイティシールドβ",size:"S",type:"l",cost:20, slot:0}
+ {id:533,name:"シュトルバンガーBD@",size:"L",type:"c",cost:90, slot:0, main:{pwr:9,shl:780,rng:350,spd:290,itv:500}, fixedParts:{wp : "シュトルバンガーBD@" }}
+ {id:534,name:"シュトルバンガーBD2@",size:"L",type:"c",cost:120, slot:0, main:{pwr:9,shl:760,rng:350,spd:330,itv:600}}
