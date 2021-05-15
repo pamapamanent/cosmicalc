@@ -69,7 +69,7 @@
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
  {id:293,name:"シノ・イクスロードLG3",size:"LL",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:1000},comment:["BS接続可能","チューン可否不明"]}
  {id:294,name:"ロッソアスピーデLG",size:"LL",type:"a",cost:115,hp:80,str:-1,tec:2,wlk:2,fly:6,tgh:2, slot:3, builtin:{bs:1}, sub:{pwr:0,shl:60,rng:150,spd:150,itv:1000},comment:["BS内蔵？","チューン可否不明"]}
- {id:295,name:"ラグナバレッドLG",size:"LL",type:"lacs",cost:50,hp:60,wlk:4,tgh:2, slot:3}
+ {id:296,name:"ラグナバレッドLG",size:"LL",type:"lacs",cost:50,hp:60,wlk:4,tgh:2, slot:3}
  {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:519,name:"LGJ",size:"M",type:"lacs", slot:1, jointPart:1,comment:["仮ジョイント","あとでけすかも"]}
  {id:520,name:"ミサイルバレルLGJ",size:"L",type:"c",cost:80,tec:1,wlk:-1,fly:-1,tgh:1, slot:1, sub:{pwr:16,shl:160,rng:350,spd:230,itv:1000}}
