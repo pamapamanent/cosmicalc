@@ -24,6 +24,7 @@
 {id:180,name:"クリムローゼαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,fly:2, slot:3}
  {id:276,name:"ジークンロンαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
  {id:523,name:"マイティバインガールHD",size:"S",type:"l",cost:40,hp:25,str:2,tec:1,wlk:2, slot:3}
+ {id:524,name:"ラグナバレッドHDJ",size:"M",type:"lacs", slot:1, jointPart:1}
 {group:"ＬＧ",prefixId:"L",nextId:2000}
  {id:106,name:"エイミィLG",size:"S",type:"s",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1, slot:3}
  {id:128,name:"えりざLG",size:"S",type:"s",cost:40,hp:20,str:2,wlk:2,fly:-1,tgh:2, slot:3, sub:{pwr:0,rng:43,spd:63,itv:2500}}
@@ -119,3 +120,6 @@
 {id:532,name:"マイティシールドβ",size:"S",type:"l",cost:20, slot:0}
  {id:533,name:"シュトルバンガーBD@",size:"L",type:"c",cost:90, slot:0, main:{pwr:9,shl:780,rng:350,spd:290,itv:500}, fixedParts:{wp : "シュトルバンガーBD@" }}
  {id:534,name:"シュトルバンガーBD2@",size:"L",type:"c",cost:120, slot:0, main:{pwr:9,shl:760,rng:350,spd:330,itv:600}}
+ {id:535,name:"ラグナバレッドAM@",size:"M",type:"c",cost:30, slot:0, main:{pwr:12,shl:200,rng:300,spd:400,itv:600}}
+ {id:536,name:"ラグナバレッドBD@",size:"L",type:"c",cost:110, slot:0, main:{pwr:14,shl:450,rng:350,spd:400,itv:400}}
+

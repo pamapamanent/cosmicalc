@@ -42,6 +42,8 @@
  {id:503,name:"レイスタッグLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:2,wlk:2,fly:-1,tgh:1, slot:3}
  {id:502,name:"セバーレイスタッグLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,tgh:1, slot:3}
 {id:504,name:"トニトルスLG",size:"M",type:"a",cost:75,hp:25,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,shl:60,rng:100,spd:120,itv:1000},comment:["チューン可否不明"]}
+ {id:505,name:"ビクトリーLG",size:"M",type:"c",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:1, slot:3}
+
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
 {id:142,name:"ヘケトケレスLG2",size:"L",type:"c",cost:70,hp:65,wlk:3,fly:1,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:0,shl:30,rng:100,spd:260,itv:1000},comment:["チューン可否不明"]}
  {id:43,name:"アクイーアLG",size:"L",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:1, slot:3, joint:{bs:1}}
@@ -63,8 +65,13 @@
  {id:535,name:"シュトルバンガーLG",size:"L",type:"lacs",cost:45,hp:50,tec:1,wlk:2,fly:1,tgh:2, slot:3}
  {id:536,name:"ベクターLG",size:"L",type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:100,spd:160,itv:1000},comment:["チューン可否不明"]}
  {id:537,name:"デストラクトLG",size:"L",type:"lacs",cost:45,hp:40,str:1,tec:1,wlk:2,tgh:2, slot:3}
+ {id:538,name:"アントリオンLG",size:"L",type:"c",cost:45,hp:60,tec:1,wlk:3,fly:1,tgh:2, slot:3}
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
  {id:293,name:"シノ・イクスロードLG3",size:"LL",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:1000},comment:["BS接続可能","チューン可否不明"]}
  {id:294,name:"ロッソアスピーデLG",size:"LL",type:"a",cost:115,hp:80,str:-1,tec:2,wlk:2,fly:6,tgh:2, slot:3, builtin:{bs:1}, sub:{pwr:0,shl:60,rng:150,spd:150,itv:1000},comment:["BS内蔵？","チューン可否不明"]}
+ {id:295,name:"ラグナバレッドLG",size:"LL",type:"lacs",cost:50,hp:60,wlk:4,tgh:2, slot:3}
  {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:519,name:"LGJ",size:"M",type:"lacs", slot:1, jointPart:1,comment:["仮ジョイント","あとでけすかも"]}
+ {id:520,name:"ミサイルバレルLGJ",size:"L",type:"c",cost:80,tec:1,wlk:-1,fly:-1,tgh:1, slot:1, sub:{pwr:16,shl:160,rng:350,spd:230,itv:1000}}
+ {id:521,name:"スネイルボムLGJ",size:"M",type:"s",cost:80,tec:2,tgh:-1, slot:1, sub:{pwr:20,shl:400,rng:100,spd:100,itv:1000}}
+ {id:522,name:"フォースバリアLGJ",size:"S",type:"lacs",cost:50,tec:2,tgh:-1, slot:1, sub:{pwr:0,shl:35,rng:600,spd:100,itv:1000}}
