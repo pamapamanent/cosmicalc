@@ -29,3 +29,13 @@
 {id:34,name:"CAPA+10,WLK+1(HD)",wlk:1,capa:10,slot:1}
 {id:35,name:"CAPA+10,FLY+1(HD)",fly:1,capa:10,slot:1}
 {id:36,name:"CAPA+10,TGH+1(HD)",tgh:1,capa:10,slot:1}
+{id:37,name:"HP+10,STR+1",hp:10,str:1,slot:1}
+{id:38,name:"HP+10,TEC+1",hp:10,tec:1,slot:1}
+{id:39,name:"HP+10,WLK+1",hp:10,wlk:1,slot:1}
+{id:40,name:"HP+10,FLY+1",hp:10,fly:1,slot:1}
+{id:41,name:"HP+10,TGH+1",hp:10,tgh:1,slot:1}
+{id:42,name:"STR+1",str:1,slot:1}
+{id:43,name:"TEC+1",tec:1,slot:1}
+{id:44,name:"WLK+1",wlk:1,slot:1}
+{id:45,name:"FLY+1",fly:1,slot:1}
+{id:46,name:"TGH+1",tgh:1,slot:1}
