@@ -55,9 +55,9 @@
   {id:514,name:"トニトルスAM2",size:"M",type:"a",cost:110,hp:25,tec:3,wlk:-1,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:14,shl:300,rng:275,spd:440,itv:500},comment:["手持ち装備不可"]}
  {id:515,name:"デストラクトAM",size:"M",type:"c",cost:70,hp:25,str:1,tec:2,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:3,shl:1080,rng:330,spd:480,itv:200},comment:["手持ち装備不可"]}
  {id:516,name:"アントリオンAM2",size:"M",type:"c",cost:55,hp:20,wlk:2,fly:2,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:6,shl:580,rng:200,spd:400,itv:200},comment:["武器手持ち不可","チューン可否不明"]}
- {id:517,name:"ビクトリーAM",size:"M",type:"c",cost:185,hp:20,str:-1,tec:3,wlk:1,fly:2, slot:3}
- {id:518,name:"ビクトリーAM2",size:"M",type:"c",cost:35,hp:20,tec:2,wlk:2,fly:2,tgh:-1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:28,shl:200,rng:330,spd:520,itv:500},comment:["装備手持ち不可","チューン可否不明"]}
- {id:519,name:"ビクトリーAM3",size:"M",type:"c",cost:185,hp:20,str:-1,tec:3,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:32,shl:220,rng:330,spd:360,itv:800},comment:["装備手持ち不可","チューン可否不明"]}
+ {id:517,name:"ビクトールAM",size:"M",type:"c",cost:185,hp:20,str:-1,tec:3,wlk:1,fly:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:28,shl:200,rng:330,spd:520,itv:500},comment:["装備手持ち不可","チューン可否不明"]}
+ {id:518,name:"ビクトールAM2",size:"M",type:"c",cost:35,hp:20,tec:2,wlk:2,fly:2,tgh:-1, slot:3}
+  {id:519,name:"ビクトールAM3",size:"M",type:"c",cost:185,hp:20,str:-1,tec:3,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:32,shl:220,rng:330,spd:360,itv:800},comment:["装備手持ち不可","チューン可否不明"]}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
 {id:145,name:"ヘケトケレスAM2",size:"L",type:"c",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:26,shl:210,rng:300,spd:320,itv:800},comment:["手持ち装備不可","チューン可否不明"]}
