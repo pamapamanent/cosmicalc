@@ -44,7 +44,7 @@
 {id:2002,name:"コスト10手持武器(TEC)",size:"M",type:"lacs",cost:10,tec:1, slot:3,comment:["コスト10手持武器（仮）"]}
 {id:2003,name:"コスト10手持武器(WLK)",size:"M",type:"lacs",cost:10,wlk:1, slot:3,comment:["コスト10手持武器（仮）"]}
 {id:2004,name:"コスト10手持武器(FLY)",size:"M",type:"lacs",cost:10,fly:1, slot:3,comment:["コスト10手持武器（仮）"]}
-{id:2005,name:"コスト10手持武器(TEC)",size:"M",type:"lacs",cost:10,tgh:1, slot:3,comment:["コスト10手持武器（仮）"]}
+{id:2005,name:"コスト10手持武器(TGH)",size:"M",type:"lacs",cost:10,tgh:1, slot:3,comment:["コスト10手持武器（仮）"]}
 {group:"コンバージョン",prefixId:"SCONV",nextId:450}
 {group:"専用コンバージョン",prefixId:"SEXCONV",nextId:450}
 {id:177,name:"ヴォルケンランス",size:"S",type:"l",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:90,spd:100,itv:2000},comment:["ナイトジャーAM2専用","チューン可否不明"]}
