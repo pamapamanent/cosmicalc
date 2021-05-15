@@ -164,6 +164,8 @@
 {id:139,name:"シールドガン",size:"M",type:"l",cost:180, slot:3,tunable:{mwp:1}, main:{pwr:17,shl:430,rng:225,spd:400,itv:340}}
 {id:171,name:"シールドショットガン",size:"LL",type:"lc",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:1170,rng:150,spd:400,itv:680},comment:["盾耐久値不明"]}
 {id:1001,name:"フラクタリスアニマ",size:"M",type:"a",cost:200, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:800,rng:275,spd:400,itv:200},comment:["【結晶】CRYSTAL COIN　景品"]}
+{id:1002,name:"クリスタルビームガン",size:"M",type:"a",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:20,shl:250,rng:275,spd:440,itv:700},comment:["【結晶】CRYSTAL COIN　景品"]}
+{id:1003,name:"クリスタルビームガン",size:"M",type:"a",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:350,rng:275,spd:350,itv:320},comment:["【結晶】CRYSTAL COIN　景品"]}
 {group:"コンバージョン（メイン・複合）",prefixId:"MCONV",nextId:450}
 {id:179,name:"ソルジャーレールガン",size:"M",type:"c",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:30,shl:180,rng:230,spd:480,itv:520},comment:["ブラディスター初期装備","チューン可否不明"]}
 {id:181,name:"セイバーライフル",size:"M",type:"l",cost:170, slot:3,tunable:{mwp:1}, main:{pwr:25,shl:280,rng:250,spd:440,itv:640},comment:["ゼロセイバーNEXT初期装備","チューン可否不明"]}

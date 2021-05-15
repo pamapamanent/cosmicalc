@@ -75,6 +75,7 @@
 {id:539,name:"マイティバインAM2",size:"L",type:"l",cost:80,hp:25,str:1,wlk:1,tgh:3, slot:3,comment:["盾耐久値不明"]}
 {id:540,name:"ロッソアスピーデAM",size:"L",type:"a",cost:70,hp:25,str:-1,tec:3,fly:3, slot:3, joint:{wp:0},tunable:{mwp:1}, sub:{pwr:4,shl:600,rng:275,spd:400,itv:300},comment:["ロッソアスピーデBD専用","装備手持ち不可","チューン可否不明"]}
 {id:541,name:"ロッソアスピーデAM2",size:"L",type:"lacs",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2, slot:3}
+ {id:542,name:"スチールバーンAM3",size:"L",type:"a",cost:120,hp:25,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:540,rng:275,spd:350,itv:300}}
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
  {id:393,name:"ダイダリオンAM2",size:"LL",type:"l",cost:205,hp:25,str:4,tec:-1,fly:-1,tgh:3, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:34,rng:70,spd:85,itv:1000},comment:["手持ち装備不可","チューン可否不明"]}
  {id:373,name:"ソア・ラAM2",size:"LL", joint:{wp:0},type:"a",cost:190,hp:25,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:33,shl:190,rng:275,spd:440,itv:600},comment:["手持ち装備不可","チューン可否不明"]}
