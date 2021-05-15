@@ -1,7 +1,7 @@
 {group:"ＳＳサイズ",prefixId:"SS",commonStat:{size:"SS",type:""},nextId:0}
 
 {group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
-{id:81,name:"ウィンベルαLG",size:"S",type:"s",cost:45,hp:25,tec:3,wlk:1,fly:1, slot:3,comment:["チューン可否不明"]}
+{id:81,name:"ウィンベルαLG",size:"S",type:"s",cost:45,hp:25,wlk:3,fly:1,tgh:1, slot:3,comment:["チューン可否不明"]}
  {id:367,name:"ぜろ子LG",size:"S",type:"s",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
  {id:169,name:"キャノンボールLG",size:"S",type:"c",cost:40,hp:20,tec:1,wlk:3,fly:-1,tgh:2, slot:3}
  {id:181,name:"クリムローゼαLG",size:"S",type:"a",cost:85,hp:50,str:1,tec:2,wlk:3,fly:3,tgh:1, slot:3, joint:{wp:2}, fixedParts:{wp : ["クリムローゼαBS","クリムローゼαBS"] },comment:["クリムローゼαBSは武器パーツとしてます"]}
