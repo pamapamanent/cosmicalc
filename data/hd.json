@@ -19,8 +19,9 @@
  {id:117,name:"エスカゴットHD",size:"M",type:"c",cost:75,hp:25,tec:2,wlk:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:3,shl:1600,rng:160,spd:480,itv:140}}
  {id:211,name:"ゲンブラHD",size:"M",type:"c",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1, slot:3}
  {id:155,name:"ガルラバードHD",size:"M",type:"a",cost:40,hp:25,str:1,tec:2,fly:2, slot:3}
- {id:156,name:"クロスラプターHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,fly:2,tgh:2, slot:3}
- {id:157,name:"クロスラプターBS",size:"S",type:"a",cost:40,hp:25,str:1,wlk:1,fly:3, slot:3} {id:333,name:"セイロンHD",size:"M",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:26,shl:140,rng:275,spd:440,itv:800},comment:["AURA未対応のためデフォルトで武装ありとしています","チューン可否不明"]}
+ {id:156,name:"クロスラプターHD",size:"M",type:"a",cost:40,hp:25,str:-1,tec:2,fly:2,tgh:2, slot:3}
+ {id:157,name:"クロスラプターHD2",size:"M",type:"a",cost:40,hp:25,str:2,tec:-1,fly:2,tgh:2, slot:3}
+ {id:333,name:"セイロンHD",size:"M",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:26,shl:140,rng:275,spd:440,itv:800},comment:["AURA未対応のためデフォルトで武装ありとしています","チューン可否不明"]}
  {id:369,name:"ソア・ラHD",size:"M",type:"a",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
 {id:2,name:"A・ミラルHD",size:"M",type:"l",cost:115,hp:20,tec:3,wlk:2,fly:-1,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:3,shl:1200,rng:250,spd:440,itv:200},comment:["チューン可否不明"]}
  {id:101,name:"ウルメリーHD",size:"M",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2, slot:3}
