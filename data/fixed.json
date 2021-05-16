@@ -123,4 +123,5 @@
  {id:535,name:"ラグナバレッドAM@",size:"M",type:"c",cost:30, slot:0, main:{pwr:12,shl:200,rng:300,spd:400,itv:600}}
  {id:536,name:"ラグナバレッドBD@",size:"L",type:"c",cost:110, slot:0, main:{pwr:14,shl:450,rng:350,spd:400,itv:400}}
  {id:537,name:"ブラディスターBD@",size:"M",type:"c",cost:20, slot:0, sub:{pwr:0,rng:0,spd:0,itv:1000}}
+ {id:538,name:"オーガヒルAM@",size:"M",type:"c",cost:45, slot:0, main:{pwr:8,shl:420,rng:330,spd:290,itv:600}}
 

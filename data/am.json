@@ -25,6 +25,9 @@
 {id:388,name:"ソルボルカノウィングAM",size:"S",type:"lacs",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1, slot:3}
 {id:397,name:"タラントリックAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1, slot:3}
 {id:398,name:"ブルーメAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,wlk:2,fly:1,tgh:-1, slot:3}
+ {id:399,name:"フェアリスAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,fly:2,tgh:1, slot:3}
+ {id:340,name:"フェアリスAM2",size:"S",type:"c",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:420,rng:275,spd:350,itv:300},comment:["チューン可否不明"]}
+
 {group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
  {id:118,name:"エスカゴットAM",size:"M",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:16,shl:200,rng:330,spd:360,itv:500},comment:["手持ち装備不可","チューン可否不明"]}
  {id:164,name:"ガンアームズAM2",size:"M",type:"c",cost:80,hp:20,str:-1,tec:3,fly:1,tgh:2, slot:3, sub:{pwr:11,shl:200,rng:350,spd:290,itv:1000},comment:["チューン可否不明"]}
@@ -59,6 +62,9 @@
  {id:518,name:"ビクトールAM2",size:"M",type:"c",cost:35,hp:20,tec:2,wlk:2,fly:2,tgh:-1, slot:3}
   {id:519,name:"ビクトールAM3",size:"M",type:"c",cost:185,hp:20,str:-1,tec:3,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:32,shl:220,rng:330,spd:360,itv:800},comment:["装備手持ち不可","チューン可否不明"]}
  {id:520,name:"ブラディスターAM",size:"M",type:"c",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3, joint:{wp:2},comment:["１つはコンバーション用"]}
+ {id:521,name:"オーガヒルAM",size:"M",type:"c",cost:90,hp:25,str:-1,tec:3,tgh:3, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:360,rng:33,spd:570,itv:400}, fixedParts:{wp : "オーガヒルAM@" },comment:["装備手持ち不可"]}
+ {id:522,name:"ラムダイバーAM",size:"M",type:"lacs",cost:35,hp:20,str:-1,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,rng:0,spd:0,itv:500}}
+ {id:523,name:"ラムダイバーAM2",size:"M",type:"a",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:25,shl:210,rng:275,spd:485,itv:700},comment:["武器手持ち不可","チューン可否不明"]}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
 {id:145,name:"ヘケトケレスAM2",size:"L",type:"c",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:26,shl:210,rng:300,spd:320,itv:800},comment:["手持ち装備不可","チューン可否不明"]}
