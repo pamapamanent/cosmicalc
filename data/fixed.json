@@ -28,21 +28,6 @@
 
 {id:1101,name:"ラグナバレッドHDJ",size:"M",type:"lacs", slot:1, jointPart:1}
 
-{group:"ＢＳ",prefixId:"B",nextId:4000}
-{id:301,name:"デモンBS",size:"S",type:"s",cost:35,hp:20,str:1,tec:1,fly:3, slot:3}
-{id:302,name:"えりざBS",size:"S",type:"s", slot:3}
-{id:303,name:"アイシーBS",size:"S",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2, slot:3}
-{id:304,name:"S・P・ニッパーヌBS",size:"S",type:"a",cost:70,hp:25,str:1,tec:-1,fly:4,tgh:1, slot:3, sub:{pwr:0,rng:200,spd:350,itv:1000}}
-{id:305,name:"アクイーアガールBS",size:"S",type:"a",cost:80,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1, slot:3,tunable:{pwp:1}, sub:{pwr:0,shl:20,rng:100,spd:180,itv:1000},comment:["チューン可否不明"]}
-{id:306,name:"クリムローゼBS",size:"S",type:"a", slot:0}
-{id:307,name:"クリムローゼαBS",size:"S",type:"a", slot:0}
-{id:308,name:"アイヴィスBS",size:"S",type:"l",cost:40,hp:25,str:1,tec:1,fly:3, slot:3}
-{id:309,name:"エリザロッテBS",size:"S",type:"l",cost:40,hp:25,str:2,wlk:1,fly:2, slot:3}
-{id:310,name:"クルールBS",size:"S",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:2,tgh:1, slot:3}
-{id:311,name:"ジークンロンBS",size:"S",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1, slot:3}
-{id:312,name:"シルビアBS",size:"S",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
-{id:313,name:"ラークピットBS",size:"L",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1, slot:3}
-{id:314,name:"メガトンオーTitanBS",size:"L",type:"l",cost:40,hp:25,str:1,wlk:2,fly:2, slot:3, sub:{pwr:0,rng:0,spd:0,itv:2000}}
 
 {group:"ＡＭ",prefixId:"A",nextId:6000}
 {id:401,name:"エイミィAM2",size:"S",type:"s",cost:100,hp:25,tec:1,fly:2,tgh:2, slot:3, joint:{wp:0}, sub:{pwr:25,rng:0,spd:120,itv:1000},comment:["部位破壊不能"]}
