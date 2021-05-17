@@ -10,7 +10,7 @@
 {id:9,name:"ピースメーカー",size:"M",type:"l",cost:130, slot:3,tunable:{mwp:1}, main:{pwr:13,shl:600,rng:250,spd:570,itv:280}}
 {id:10,name:"ミリタリーガン",size:"S",type:"lacs",cost:60, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:300,rng:225,spd:400,itv:240}}
 {id:11,name:"ドラムガン",size:"M",type:"l",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:15,shl:260,rng:225,spd:400,itv:240}}
-{id:12,name:"インクリーズドラムガン",size:"M",type:"l",cost:130, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:530,rng:225,spd:400,itv:240}}
+{id:12, name:"インクリーズドラムガン",size:"M",type:"l",cost:130, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:530,rng:225,spd:400,itv:240}}
 {id:13,name:"モーターガン",size:"M",type:"l",cost:180, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:760,rng:225,spd:440,itv:140}}
 {id:14,name:"ブーストガン",size:"M",type:"l",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:13,shl:560,rng:250,spd:570,itv:200}}
 {id:15,name:"エスティスマグ",size:"M",type:"l",cost:180, slot:3,tunable:{mwp:1}, main:{pwr:23,shl:380,rng:225,spd:440,itv:500}}

@@ -7,7 +7,7 @@
  {id:319,name:"スクイドルガールαHD",size:"S",type:"s",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2}
 {id:34,name:"アイシーHD",size:"S",type:"c",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
  {id:12,name:"S・P・ニッパーヌHD",size:"S",type:"a",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
- {id:49,name:"アクイーアガールHD",size:"S",type:"a",cost:40,hp:25,tec:2,fly:2,tgh:1, slot:3}
+ {id:49,name:"アクイーアガールHD", size:"S",type:"a",cost:40,hp:25,tec:2,fly:2,tgh:1, slot:3}
  {id:175,name:"クリムローゼHD",size:"S",type:"a",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
 {id:28,name:"アイヴィスHD",size:"S",type:"l",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
  {id:133,name:"エリザロッテHD",size:"S",type:"l",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}

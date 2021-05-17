@@ -2,7 +2,7 @@
 
 
 {group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
-{id:82,name:"ウィンベルαAM",size:"S",type:"s",cost:75,hp:20,tec:2,tgh:3, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:200,rng:200,spd:480,itv:500}}
+{id:82,name:"ウィンベルαAM", size:"S",type:"s",cost:75,hp:20,tec:2,tgh:3, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:200,rng:200,spd:480,itv:500}}
 {id:88,name:"A.L.E.ウィンベルAM",size:"S",type:"s",cost:75,hp:20,tec:3,wlk:1,fly:-1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:2,shl:200,rng:200,spd:480,itv:300},comment:["チューン可否不明"]}
  {id:183,name:"クリムローゼαAM2",size:"S",type:"a",cost:105,hp:20,str:3,fly:1,tgh:1, slot:3, sub:{pwr:30,rng:70,spd:8,itv:5500}}
  {id:205,name:"クロスラプターAM2",size:"S",type:"a",cost:35,hp:20,str:1,tec:-1,fly:3,tgh:2, slot:3, joint:{wp:1}, fixedParts:{wp : "クロスラプターAM2@" }}

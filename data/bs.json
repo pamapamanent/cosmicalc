@@ -9,7 +9,7 @@
 {id:172,name:"キャノンボールHLBS",size:"S",type:"c",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:3,tgh:1, slot:3}
 {id:204,name:"クロスラプターBS",size:"S",type:"a",cost:40,hp:25,str:1,wlk:1,fly:3, slot:3}
  {id:377,name:"ソードウィングBS",size:"S",type:"a",cost:35,hp:20,wlk:1,fly:4, slot:3}
- {id:22,name:"ナイトジャーBS",size:"S",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1, slot:3}
+ {id:22,name:"ナイトジャーBS", size:"S",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1, slot:3}
  {id:151,name:"カメンティスBS",size:"S",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1, slot:3}
  {id:278,name:"ジークンαBS",size:"S",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1, slot:3}
  {id:283,name:"A.L.E.ジークンロンBS",size:"S",type:"l",cost:40,hp:25,str:2,wlk:1,fly:2, slot:3}
