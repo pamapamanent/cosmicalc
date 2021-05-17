@@ -26,7 +26,7 @@
 {id:397,name:"タラントリックAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1, slot:3}
 {id:398,name:"ブルーメAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,wlk:2,fly:1,tgh:-1, slot:3}
  {id:399,name:"フェアリスAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,fly:2,tgh:1, slot:3}
- {id:340,name:"フェアリスAM2",size:"S",type:"c",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:420,rng:275,spd:350,itv:300},comment:["チューン可否不明"]}
+ {id:400,name:"フェアリスAM2",size:"S",type:"c",cost:85,hp:20,str:-1,tec:3,wlk:1,fly:2, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:420,rng:275,spd:350,itv:300},comment:["チューン可否不明"]}
 
 {group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
  {id:118,name:"エスカゴットAM",size:"M",type:"c",cost:70,hp:20,tec:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:16,shl:200,rng:330,spd:360,itv:500},comment:["手持ち装備不可","チューン可否不明"]}
