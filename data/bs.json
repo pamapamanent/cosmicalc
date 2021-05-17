@@ -45,8 +45,8 @@
  {id:504,name:"セバーレイスタッグBS",size:"M",type:"a",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1, slot:3}
  {id:506,name:"ビクトールBS",size:"M",type:"c",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
  {id:507,name:"ブラディスターBS",size:"M",type:"c",cost:40,hp:20,str:1,wlk:2,fly:2, slot:3}
- {id:508,name:"オーガヒルLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3, slot:3, joint:{bs:1},comment:["BS増設可能"]}
-  {id:509,name:"ラムダイバーBS",size:"M",type:"a",cost:70,hp:25,fly:4,tgh:1, slot:3}
+ {id:508,name:"オーガヒルBS",size:"M",type:"c",cost:40,hp:20,str:1,tec:2,fly:2, slot:3}
+ {id:509,name:"ラムダイバーBS",size:"M",type:"a",cost:70,hp:25,fly:4,tgh:1, slot:3}
 
 
  {id:801,name:"スターエッジBS",size:"M",type:"lacs",cost:35,hp:20,tec:1,wlk:2,fly:2, slot:3,comment:["コイン交換品","復数カラーあり"]}
@@ -82,6 +82,8 @@
  {id:541,name:"デストラクトBS",size:"L",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:2,tgh:1, slot:3}
  {id:542,name:"アントリオンBS",size:"L",type:"c",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2, slot:3, sub:{pwr:7,shl:360,rng:350,spd:290,itv:1000},comment:["チューン可否不明"]}
  {id:543,name:"ラグナバレッドBS",size:"L",type:"c",cost:40,hp:25,fly:4,tgh:1, slot:3}
+ {id:544,name:"ワイルドビークBS",size:"L",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:3, slot:3}
+ {id:545,name:"メディックボールBS",size:"L",type:"s",cost:40,hp:25,tec:1,fly:3,tgh:1, slot:3}
 
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:8000}
 {id:144,name:"ヘケトケレスBS",size:"LL",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:700,rng:330,spd:290,itv:1000},comment:["チューン可否不明"]}

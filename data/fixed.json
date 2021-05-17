@@ -24,7 +24,10 @@
 {id:180,name:"クリムローゼαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,fly:2, slot:3}
  {id:276,name:"ジークンロンαHD",size:"S",type:"lacs",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
  {id:523,name:"マイティバインガールHD",size:"S",type:"l",cost:40,hp:25,str:2,tec:1,wlk:2, slot:3}
+ {id:524,name:"メガトンオーTitanHD",size:"L",type:"l",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1, slot:3}
+
  {id:1001,name:"ラグナバレッドHDJ",size:"M",type:"lacs", slot:1, jointPart:1}
+
 {group:"ＬＧ",prefixId:"L",nextId:2000}
  {id:106,name:"エイミィLG",size:"S",type:"s",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1, slot:3}
  {id:128,name:"えりざLG",size:"S",type:"s",cost:40,hp:20,str:2,wlk:2,fly:-1,tgh:2, slot:3, sub:{pwr:0,rng:43,spd:63,itv:2500}}
@@ -58,6 +61,9 @@
 {id:191,name:"クルールBS",size:"S",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:2,tgh:1, slot:3}
  {id:273,name:"ジークンロンBS",size:"S",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1, slot:3}
 {id:310,name:"シルビアBS",size:"S",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
+ {id:311,name:"ラークピットBS",size:"L",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1, slot:3}
+ {id:312,name:"メガトンオーTitanBS",size:"L",type:"l",cost:40,hp:25,str:1,wlk:2,fly:2, slot:3, sub:{pwr:0,rng:0,spd:0,itv:2000}}
+
 {group:"ＡＭ",prefixId:"A",nextId:6000}
 {id:107,name:"エイミィAM2",size:"S",type:"s",cost:100,hp:25,tec:1,fly:2,tgh:2, slot:3, joint:{wp:0}, sub:{pwr:25,rng:0,spd:120,itv:1000},comment:["部位破壊不能"]}
 {id:110,name:"エイミィAM",size:"S",type:"s",cost:40,hp:25,tec:1,fly:2,tgh:2, slot:3,comment:["部位破壊不能"]}
@@ -85,6 +91,11 @@
 {id:348,name:"ゼロセイバーガールAM",size:"S",type:"l",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
 {id:526,name:"マイティバインガールAM",size:"S",type:"l",cost:120,hp:25,str:3,tec:-1,wlk:2,tgh:1, slot:3, joint:{wp:0}, sub:{pwr:30,rng:74,spd:90,itv:500},comment:["部位破壊不能","手持ち装備不可"]}
 {id:529,name:"マイティバインガールAM2",size:"S",type:"l",cost:90,hp:20,str:2,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:25,rng:120,spd:220,itv:1000},comment:["部位破壊不能","手持ち装備不可"]}
+ {id:530,name:"ワイルドビークAM",size:"L",type:"l",cost:95,hp:25,tec:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, sub:{pwr:9,shl:1080,rng:225,spd:440,itv:140},comment:["武器手持ち不可","チューン可否不明"]}
+ {id:531,name:"ラークピットAM",size:"L",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1, slot:3}
+ {id:532,name:"メディックボールAM",size:"L",type:"s",cost:80,hp:20,str:1,tec:2,wlk:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:0,shl:220,rng:300,spd:300,itv:800},comment:["武器手持ち不可","チューン可否不明"]}
+ {id:533,name:"メディックボールAM2",size:"L",type:"s",cost:80,hp:20,str:1,tec:2,wlk:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:6,shl:430,rng:250,spd:325,itv:360},comment:["武器手持ち不可","チューン可否不明"]}
+ {id:534,name:"メガトンオーTitanAM",size:"L",type:"l",cost:35,hp:20,str:1,wlk:1,tgh:3, slot:3}
 {group:"ＷＰ",prefixId:"W",nextId:8000}
 {id:88,name:"メモリ・スロット",size:"M",type:"lacs", slot:3,comment:["ロボ共通スロット増設パーツ"]}
 {id:89,name:"A.L.E.ウィンベルBD@",size:"S",type:"s", slot:3,tunable:{pwp:1}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["チューン可否不明"]}

@@ -12,3 +12,8 @@
 {group:"Ｍ補",prefixId:"SM",commonStat:{size:"M",type:"s"},nextId:0}
 {id:500,name:"メディージャーBD",size:"M",type:"s",cost:360,hp:200,str:7,tec:7,wlk:8,fly:7,tgh:13,capa:710, cartridge:{hpup:22,lv1:"9*6@20|31@20|32@20|34@20|37@25|36@30|33@20|40@25|26@20|43@20|28@10|44@10|27@20|47@30|46@40",lv6:"",lv9:""}}
 {id:507,name:"メディージャーBD2",size:"M",type:"s",cost:360,hp:200,str:5,tec:5,wlk:12,fly:10,tgh:10,capa:710, cartridge:{hpup:22,lv1:"9*6@20|31@20|32@20|34@20|37@25|36@30|33@20|40@25|26@20|43@20|28@10|44@10|27@20|47@30|46@40",lv6:"",lv9:""}}
+{group:"Ｌ補",prefixId:"SL",commonStat:{size:"L",type:"s"},nextId:0}
+ {id:601,name:"メディックボールBD",size:"L",type:"s",cost:485,hp:300,str:4,tec:8,wlk:15,fly:11,tgh:12,capa:800, joint:{hd:0,wp:3,hdac:1,fcac:1}, cartridge:{hpup:18,lv1:"8*6@20|33@20|34@20|37@25|44@10|32@20|30@20|43@20|40@25|28@10|48@40|35@20|27@20|47@30|46@40",lv6:"",lv9:""}, sub:{pwr:0,rng:0,spd:0,itv:2000}, fixedParts:{lg:"メディックボールLG", am : ["メディックボールAM2", "メディックボールAM"], wp : ["メモリ・スロット","メモリ・スロット","メモリ・スロット"] },comment:["HD内蔵"]}
+
+{group:"ＬＬ補",prefixId:"SLL",commonStat:{size:"LL",type:"s"},nextId:0}
+

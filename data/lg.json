@@ -46,7 +46,7 @@
 {id:504,name:"トニトルスLG",size:"M",type:"a",cost:75,hp:25,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,shl:60,rng:100,spd:120,itv:1000},comment:["チューン可否不明"]}
  {id:505,name:"ビクトールLG",size:"M",type:"c",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:1, slot:3}
  {id:506,name:"ブラディスターLG",size:"M",type:"c",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1, slot:3, sub:{pwr:0,shl:25,rng:100,spd:200,itv:600},comment:["チューン可否不明"]}
- {id:507,name:"オーガヒルLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3, slot:3}
+ {id:507,name:"オーガヒルLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3, slot:3, joint:{bs:1},comment:["BS増設可能"]}
  {id:508,name:"ラムダイバーLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:1,tgh:-1, slot:3}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
@@ -71,6 +71,11 @@
  {id:536,name:"ベクターLG",size:"L",type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:100,spd:160,itv:1000},comment:["チューン可否不明"]}
  {id:537,name:"デストラクトLG",size:"L",type:"lacs",cost:45,hp:40,str:1,tec:1,wlk:2,tgh:2, slot:3}
  {id:538,name:"アントリオンLG",size:"L",type:"c",cost:45,hp:60,tec:1,wlk:3,fly:1,tgh:2, slot:3}
+ {id:539,name:"ワイルドビークLG",size:"L",type:"l",cost:75,hp:45,wlk:4,tgh:1, slot:3, sub:{pwr:0,shl:50,rng:80,spd:180,itv:1000},comment:["チューン可否不明"]}
+ {id:540,name:"ラークピットLG",size:"L",type:"a",cost:75,hp:25,str:1,tec:1,wlk:3,fly:1,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:120,spd:220,itv:2500}}
+ {id:541,name:"メディックボールLG",size:"L",type:"s",cost:40,hp:25,str:1,wlk:3,tgh:1, slot:3}
+ {id:542,name:"メガトンオーTitanLG",size:"L",type:"l",cost:45,hp:25,str:-1,tec:1,wlk:2,tgh:3, slot:3}
+
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
  {id:293,name:"シノ・イクスロードLG3",size:"LL",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:1000},comment:["BS接続可能","チューン可否不明"]}
  {id:294,name:"ロッソアスピーデLG",size:"LL",type:"a",cost:115,hp:80,str:-1,tec:2,wlk:2,fly:6,tgh:2, slot:3, builtin:{bs:1}, sub:{pwr:0,shl:60,rng:150,spd:150,itv:1000},comment:["BS内蔵？","チューン可否不明"]}
