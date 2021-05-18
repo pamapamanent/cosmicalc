@@ -75,6 +75,7 @@
  {id:540,name:"ラークピットLG",size:"L",type:"a",cost:75,hp:25,str:1,tec:1,wlk:3,fly:1,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:120,spd:220,itv:2500}}
  {id:541,name:"メディックボールLG",size:"L",type:"s",cost:40,hp:25,str:1,wlk:3,tgh:1, slot:3}
  {id:542,name:"メガトンオーTitanLG",size:"L",type:"l",cost:45,hp:25,str:-1,tec:1,wlk:2,tgh:3, slot:3}
+ {id:543,name:"ディースモークLG",size:"L",type:"lacs",cost:45,hp:25,wlk:3,fly:-1,tgh:3, slot:3}
 
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
  {id:293,name:"シノ・イクスロードLG3",size:"LL",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:1000},comment:["BS接続可能","チューン可否不明"]}
