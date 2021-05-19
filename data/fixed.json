@@ -108,8 +108,8 @@
 {id:433,name:"キリカAM2",size:"S",type:"l",cost:40,hp:25,str:2,wlk:1,tgh:2, slot:3}
 {id:434,name:"サニーAM",size:"S",type:"l",cost:40,hp:25,str:3,wlk:1,tgh:1, slot:3,comment:["部位破壊不能"]}
 {id:435,name:"サニーAM2",size:"S",type:"l",cost:40,hp:25,str:3,wlk:1,tgh:1, slot:3, joint:{wp:2},comment:["部位破壊不能","エフェクトコンバーションスロット省略"]}
-{id:436,name:"コロナAM",size:"S",type:"a",cost:40,hp:25,str:2,wlk:1,tgh:2, slot:3, sub:{pwr:0,rng:0,spd:0,itv:500}}
-{id:437,name:"コロナAM2",size:"S",type:"a",cost:70,hp:25,str:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:20,shl:50,rng:200,spd:570,itv:500},comment:["武器手持ち不可"]}
+{id:436,name:"コロナAM",size:"S",type:"a",cost:40,hp:25,str:2,wlk:1,tgh:2, slot:3, sub:{pwr:0,rng:0,spd:0,itv:500},comment:["部位破壊不能"]}
+{id:437,name:"コロナAM2",size:"S",type:"a",cost:70,hp:25,str:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:20,shl:50,rng:200,spd:570,itv:500},comment:["部位破壊不能","武器手持ち不可"]}
 
 {group:"ＷＰ",prefixId:"W",nextId:8000}
 {id:501,name:"メモリ・スロット",size:"M",type:"lacs", slot:3,comment:["ロボ共通スロット増設パーツ"]}
