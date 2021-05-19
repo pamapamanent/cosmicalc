@@ -27,6 +27,7 @@
 {id:126,name:"メガトンオーTitanHD",size:"L",type:"l",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1, slot:3}
 {id:127,name:"キリカHD",size:"S",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:2,tgh:1, slot:3}
 {id:128,name:"サニーHD",size:"S",type:"l",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3,comment:["部位破壊不能"]}
+{id:129,name:"コロナHD",size:"S",type:"a",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1, slot:3}
 
 {id:1101,name:"ラグナバレッドHDJ",size:"M",type:"lacs", slot:1, jointPart:1}
 
@@ -52,6 +53,7 @@
 {id:221,name:"マイティバインガールLG",size:"S",type:"l",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1, slot:3}
  {id:222,name:"キリカLG",size:"S",type:"l",cost:45,hp:25,str:1,wlk:3,tgh:2, slot:3}
  {id:223,name:"サニーLG",size:"S",type:"l",cost:45,hp:25,wlk:3,fly:1,tgh:2, slot:3,comment:["部位破壊不能"]}
+{id:224,name:"コロナLG",size:"S",type:"a",cost:45,hp:25,str:1,wlk:3,tgh:2, slot:3}
 
 {group:"ＢＳ",prefixId:"B",nextId:4000}
 {id:301,name:"デモンBS",size:"S",type:"s",cost:35,hp:20,str:1,tec:1,fly:3, slot:3}
@@ -106,6 +108,8 @@
 {id:433,name:"キリカAM2",size:"S",type:"l",cost:40,hp:25,str:2,wlk:1,tgh:2, slot:3}
 {id:434,name:"サニーAM",size:"S",type:"l",cost:40,hp:25,str:3,wlk:1,tgh:1, slot:3,comment:["部位破壊不能"]}
 {id:435,name:"サニーAM2",size:"S",type:"l",cost:40,hp:25,str:3,wlk:1,tgh:1, slot:3, joint:{wp:2},comment:["部位破壊不能","エフェクトコンバーションスロット省略"]}
+{id:436,name:"コロナAM",size:"S",type:"a",cost:40,hp:25,str:2,wlk:1,tgh:2, slot:3, sub:{pwr:0,rng:0,spd:0,itv:500}}
+{id:437,name:"コロナAM2",size:"S",type:"a",cost:70,hp:25,str:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:20,shl:50,rng:200,spd:570,itv:500},comment:["武器手持ち不可"]}
 
 {group:"ＷＰ",prefixId:"W",nextId:8000}
 {id:501,name:"メモリ・スロット",size:"M",type:"lacs", slot:3,comment:["ロボ共通スロット増設パーツ"]}
@@ -146,4 +150,6 @@
 {id:536,name:"ラグナバレッドBD@",size:"L",type:"c",cost:110, slot:0, main:{pwr:14,shl:450,rng:350,spd:400,itv:400}}
 {id:537,name:"ブラディスターBD@",size:"M",type:"c",cost:20, slot:0, sub:{pwr:0,rng:0,spd:0,itv:1000}}
 {id:538,name:"オーガヒルAM@",size:"M",type:"c",cost:45, slot:0, main:{pwr:8,shl:420,rng:330,spd:290,itv:600}}
-
+{id:539,name:"コロナLG@",size:"S",type:"a", slot:3}
+{id:540,name:"クリーガーシルト@",size:"S",type:"a",cost:50, slot:0, sub:{pwr:28,rng:120,spd:250,itv:2500}}
+{id:541,name:"クリーガーマフラー",size:"S",type:"a", slot:0,comment:["ステータス影響がないため固定パーツとしています"]}

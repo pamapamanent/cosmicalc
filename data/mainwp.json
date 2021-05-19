@@ -181,4 +181,4 @@
 {id:2183,name:"キャプテンアンカー@",size:"S",type:"l",cost:120, slot:3,tunable:{pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:30,rng:70,spd:85,itv:500},comment:["キャプテンアンカー専用","チューン可否不明"]}
 {id:2184,name:"チェーンブレード",size:"S",type:"l",cost:130, slot:3, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:28,rng:77,spd:102,itv:500},comment:["キリカAM専用"]}
 {id:2185,name:"チェーンブレードの鞘",size:"S",type:"l",cost:60, slot:0,tunable:{pwp:1}, main:{pwr:0,shl:-1,rng:0,spd:150,itv:1000}, sub:{pwr:28,rng:120,spd:250,itv:1000},comment:["キリカBD専用","変形後ステータス記載"]}
-
+{id:2186,name:"クリーガーシルト",size:"S",type:"a",cost:120, slot:3, joint:{wp:1},tunable:{mwp:1,pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:30,rng:70,spd:85,itv:500}, fixedParts:{wp : "クリーガーシルト@" },comment:["コロナAM専用"]}
