@@ -173,7 +173,12 @@
 {id:179,name:"ソルジャーレールガン",size:"M",type:"c",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:30,shl:180,rng:230,spd:480,itv:520},comment:["ブラディスター初期装備","チューン可否不明"]}
 {id:181,name:"セイバーライフル",size:"M",type:"l",cost:170, slot:3,tunable:{mwp:1}, main:{pwr:25,shl:280,rng:250,spd:440,itv:640},comment:["ゼロセイバーNEXT初期装備","チューン可否不明"]}
 {group:"専用コンバージョン（メイン・複合）",prefixId:"MEXCONV",nextId:450}
-{id:178,name:"ヴォルケンシールド",size:"S",type:"l",cost:70, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:14,shl:100,rng:225,spd:320,itv:500}, sub:{pwr:28,rng:100,spd:250,itv:1000},comment:["ナイトジャーAM3専用","チューン可否不明"]}
-{id:176,name:"A・ミラルBS@",size:"S",type:"lc",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:500,rng:250,spd:360,itv:440},comment:["A・ミラルBS専用","チューン可否不明"]}
-{id:180,name:"ブラディスターAM@",size:"M",type:"c",cost:25, slot:0, main:{pwr:17,shl:50,rng:250,spd:400,itv:500},comment:["ブラディスターAM、AM2専用"]}
- {id:,name:"フェアリスBS@",size:"S",type:"c",cost:20, slot:0, sub:{pwr:0,shl:40,rng:0,spd:160,itv:1000},comment:["フェアリスBS専用"]}
+{id:2178,name:"ヴォルケンシールド",size:"S",type:"l",cost:70, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:14,shl:100,rng:225,spd:320,itv:500}, sub:{pwr:28,rng:100,spd:250,itv:1000},comment:["ナイトジャーAM3専用","チューン可否不明"]}
+{id:2176,name:"A・ミラルBS@",size:"S",type:"lc",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:500,rng:250,spd:360,itv:440},comment:["A・ミラルBS専用","チューン可否不明"]}
+{id:2180,name:"ブラディスターAM@",size:"M",type:"c",cost:25, slot:0, main:{pwr:17,shl:50,rng:250,spd:400,itv:500},comment:["ブラディスターAM、AM2専用"]}
+{id:2181,name:"フェアリスBS@",size:"S",type:"c",cost:20, slot:0, sub:{pwr:0,shl:40,rng:0,spd:160,itv:1000},comment:["フェアリスBS専用"]}
+{id:2182,name:"キャプテンアンカー",size:"S",type:"l",cost:110, slot:0, joint:{wp:1},tunable:{mwp:1,pwp:1}, main:{pwr:20,shl:50,rng:200,spd:400,itv:500}, sub:{pwr:28,rng:0,spd:0,itv:1000},comment:["キャプテン・サニーAM2専用","変形後ステータス記載","チューン可否不明"]}
+{id:2183,name:"キャプテンアンカー@",size:"S",type:"l",cost:120, slot:3,tunable:{pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:30,rng:70,spd:85,itv:500},comment:["キャプテンアンカー専用","チューン可否不明"]}
+{id:2184,name:"チェーンブレード",size:"S",type:"l",cost:130, slot:3, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:28,rng:77,spd:102,itv:500},comment:["キリカAM専用"]}
+{id:2185,name:"チェーンブレードの鞘",size:"S",type:"l",cost:60, slot:0,tunable:{pwp:1}, main:{pwr:0,shl:-1,rng:0,spd:150,itv:1000}, sub:{pwr:28,rng:120,spd:250,itv:1000},comment:["キリカBD専用","変形後ステータス記載"]}
+

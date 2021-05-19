@@ -66,6 +66,9 @@
  {id:522,name:"ラムダイバーAM",size:"M",type:"lacs",cost:35,hp:20,str:-1,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,rng:0,spd:0,itv:500}}
  {id:523,name:"ラムダイバーAM2",size:"M",type:"a",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:25,shl:210,rng:275,spd:485,itv:700},comment:["武器手持ち不可","チューン可否不明"]}
  {id:524,name:"ディースモークAM",size:"L",type:"s",cost:105,hp:20,tec:2,tgh:3, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:480,rng:250,spd:325,itv:400}}
+{id:525,name:"スコルタンAM2",size:"M",type:"lacs",cost:35,hp:20,str:2,wlk:1,tgh:2, slot:3}
+{id:526,name:"デジトロイドAM",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,fly:1,tgh:1, slot:3}
+{id:527,name:"ビクトリーAM",size:"M",type:"lacs",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1, slot:3}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
 {id:145,name:"ヘケトケレスAM2",size:"L",type:"c",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:26,shl:210,rng:300,spd:320,itv:800},comment:["手持ち装備不可","チューン可否不明"]}
@@ -94,12 +97,17 @@
   {id:544,name:"ベクターAM",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2, slot:3}
  {id:545,name:"アントリオンAM",size:"L",type:"c",cost:125,hp:20,tec:3,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:42,shl:50,rng:300,spd:360,itv:2000},comment:["武器手持ち不可","チューン可否不明"]}
  {id:546,name:"ラグナバレッドAM",size:"L",type:"c",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3, joint:{wp:2}, fixedParts:{wp : "ラグナバレッドAM@" }}
-
+{id:547,name:"カタロスAM",size:"L",type:"a",cost:40,hp:25,tec:3,fly:1,tgh:1, slot:3}
+{id:548,name:"ギガトンオーAM",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:2,tgh:1, slot:3}
+{id:549,name:"スチールライダーAM2",size:"L",type:"l",cost:135,hp:20,str:-1,tec:3,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:5,shl:1400,rng:225,spd:400,itv:180},comment:["武器手持ち不可","チューン可否不明"]}
+{id:550,name:"メガトンオーAM",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:1,tgh:2, slot:3}
 
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
  {id:393,name:"ダイダリオンAM2",size:"LL",type:"l",cost:205,hp:25,str:4,tec:-1,fly:-1,tgh:3, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:34,rng:70,spd:85,itv:1000},comment:["手持ち装備不可","チューン可否不明"]}
  {id:373,name:"ソア・ラAM2",size:"LL", joint:{wp:0},type:"a",cost:190,hp:25,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:33,shl:190,rng:275,spd:440,itv:600},comment:["手持ち装備不可","チューン可否不明"]}
 {id:374,name:"マイティバインAM3",size:"LL",type:"l",cost:155,hp:25,str:4,wlk:2,fly:-1, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:9,shl:780,rng:150,spd:400,itv:500,str:100}, sub:{pwr:38,shl:30,rng:70,spd:85,itv:500},comment:["盾耐久値不明","手持ち装備不可","チューン可否不明"]}
+{id:375,name:"ギガトンオーAM2",size:"LL",type:"c",cost:200,hp:25,str:-1,tec:4,fly:-1,tgh:3, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:37,shl:220,rng:330,spd:360,itv:800}, sub:{pwr:30,shl:90,rng:350,spd:240,itv:1000,tec:100},comment:["武器手持ち不可"]}
+{id:376,name:"ビッグマンテスAM2",size:"LL",type:"a",cost:135,hp:20,str:-1,tec:3,tgh:3, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:7,shl:1000,rng:275,spd:350,itv:900},comment:["武器手持ち不可"]}
 
  {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:1001,name:"AMJ",size:"M",type:"lacs", slot:1, jointPart:1,comment:["仮ジョイント","あとでけすかも"]}

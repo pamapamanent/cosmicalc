@@ -60,6 +60,14 @@
  {id:546,name:"オーガヒルHD",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1, slot:3}
  {id:547,name:"ラムダイバーHD",size:"M",type:"lacs",cost:40,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2, slot:3}
  {id:548,name:"ディースモークHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1, slot:3}
+{id:549,name:"ビッグマンテスHD2",size:"M",type:"lacs",cost:40,hp:25,tec:2,fly:2,tgh:1, slot:3}
+{id:550,name:"カタロスHD",size:"M",type:"lacs",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
+{id:551,name:"ギガトンオーHD",size:"M",type:"lacs",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
+{id:552,name:"スコルタンHD2",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
+{id:553,name:"スチールライダーHD2",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
+{id:554,name:"デジトロイドHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,fly:1,tgh:1, slot:3}
+{id:555,name:"ビクトリーHD",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
+{id:556,name:"メガトンオーHD",size:"M",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2, slot:3}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
  {id:45,name:"アクイーアHD",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1, slot:3}
