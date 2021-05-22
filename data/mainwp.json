@@ -157,6 +157,7 @@
 {group:"ベイオネット",prefixId:"BAYONET",nextId:450}
 {id:134,name:"ベイオネット",size:"S",type:"ls",cost:130, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:15,shl:360,rng:225,spd:440,itv:340}, sub:{pwr:32,rng:70,spd:85,itv:1000}}
 {id:135,name:"M-9ベイオネット",size:"M",type:"ls",cost:145, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:12,shl:600,rng:250,spd:480,itv:140}, sub:{pwr:32,rng:70,spd:85,itv:1000}}
+
 {group:"その他（メイン）",prefixId:"METC",nextId:450}
 {id:136,name:"シュリケンガン",size:"S",type:"ls",cost:80, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:660,rng:175,spd:400,itv:160}}
 {id:137,name:"ダイシュリケンガン",size:"M",type:"l",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:480,rng:175,spd:400,itv:220}}
@@ -166,19 +167,28 @@
 {id:1001,name:"フラクタリスアニマ",size:"M",type:"a",cost:200, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:800,rng:275,spd:400,itv:200},comment:["【結晶】CRYSTAL COIN　景品"]}
 {id:1002,name:"クリスタルビームガン",size:"M",type:"a",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:20,shl:250,rng:275,spd:440,itv:700},comment:["【結晶】CRYSTAL COIN　景品"]}
 {id:1003,name:"ラピッドパルスミサイル",size:"M",type:"a",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:350,rng:275,spd:350,itv:320},comment:["【結晶】CRYSTAL COIN　景品"]}
+{id:548,name:"スクイドルガン",size:"M",type:"s",cost:50,tunable:{mwp:1}, main:{pwr:4,shl:900,rng:90,spd:480,itv:100},comment:["スクイドルガールα初期装備","チューン可否不明"]}
+{id:549,name:"スクイドルバズーカ",size:"M",type:"s",cost:70,tunable:{mwp:1}, main:{pwr:12,shl:220,rng:275,spd:290,itv:700},comment:["スクイドルガールEV初期装備","チューン可否不明"]}
+{id:580,name:"セイバーライフル",size:"M",type:"l",cost:170, slot:3,tunable:{mwp:1}, main:{pwr:25,shl:280,rng:250,spd:440,itv:640},comment:["ゼロセイバーNEXT初期装備"]}
+{id:660,name:"ソルジャーレールガン",size:"M",type:"c",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:30,shl:180,rng:330,spd:480,itv:520},comment:["ブラディスター初期装備","チューン可否不明"]}
+{id:911,name:"ビートルガン",size:"M",type:"l",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:19,shl:330,rng:225,spd:440,itv:500},comment:["ビートランダー初期装備"]}
+{id:997,name:"ブリンクメイス",size:"M",type:"c",cost:190, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:12,shl:390,rng:330,spd:330,itv:1000}, sub:{pwr:30,rng:75,spd:100,itv:1000,tec:100},comment:["ブリンク初期装備","チューン可否不明"]}
+{id:1058,name:"ヘラクビートルガン",size:"M",type:"l",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:23,shl:340,rng:225,spd:440,itv:500},comment:["ヘラクビートランダー初期装備","チューン可否不明"]}
+{id:996,name:"ブリンクシールド",size:"S",type:"c",cost:30, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},comment:["ブリンク初期装備","チューン可否不明"]}
 
-
-
-{group:"コンバージョン（メイン・複合）",prefixId:"MCONV",nextId:450}
-{id:179,name:"ソルジャーレールガン",size:"M",type:"c",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:30,shl:180,rng:230,spd:480,itv:520},comment:["ブラディスター初期装備","チューン可否不明"]}
-{id:181,name:"セイバーライフル",size:"M",type:"l",cost:170, slot:3,tunable:{mwp:1}, main:{pwr:25,shl:280,rng:250,spd:440,itv:640},comment:["ゼロセイバーNEXT初期装備","チューン可否不明"]}
 {group:"専用コンバージョン（メイン・複合）",prefixId:"MEXCONV",nextId:450}
-{id:2178,name:"ヴォルケンシールド",size:"S",type:"l",cost:70, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:14,shl:100,rng:225,spd:320,itv:500}, sub:{pwr:28,rng:100,spd:250,itv:1000},comment:["ナイトジャーAM3専用","チューン可否不明"]}
-{id:2176,name:"A・ミラルBS@",size:"S",type:"lc",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:500,rng:250,spd:360,itv:440},comment:["A・ミラルBS専用","チューン可否不明"]}
-{id:2180,name:"ブラディスターAM@",size:"M",type:"c",cost:25, slot:0, main:{pwr:17,shl:50,rng:250,spd:400,itv:500},comment:["ブラディスターAM、AM2専用"]}
-{id:2181,name:"フェアリスBS@",size:"S",type:"c",cost:20, slot:0, sub:{pwr:0,shl:40,rng:0,spd:160,itv:1000},comment:["フェアリスBS専用"]}
-{id:2182,name:"キャプテンアンカー",size:"S",type:"l",cost:110, slot:0, joint:{wp:1},tunable:{mwp:1,pwp:1}, main:{pwr:20,shl:50,rng:200,spd:400,itv:500}, sub:{pwr:28,rng:0,spd:0,itv:1000},comment:["キャプテン・サニーAM2専用","変形後ステータス記載","チューン可否不明"]}
-{id:2183,name:"キャプテンアンカー@",size:"S",type:"l",cost:120, slot:3,tunable:{pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:30,rng:70,spd:85,itv:500},comment:["キャプテンアンカー専用","チューン可否不明"]}
-{id:2184,name:"チェーンブレード",size:"S",type:"l",cost:130, slot:3, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:28,rng:77,spd:102,itv:500},comment:["キリカAM専用"]}
-{id:2185,name:"チェーンブレードの鞘",size:"S",type:"l",cost:60, slot:0,tunable:{pwp:1}, main:{pwr:0,shl:-1,rng:0,spd:150,itv:1000}, sub:{pwr:28,rng:120,spd:250,itv:1000},comment:["キリカBD専用","変形後ステータス記載"]}
-{id:2186,name:"クリーガーシルト",size:"S",type:"a",cost:120, slot:3, joint:{wp:1},tunable:{mwp:1,pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:30,rng:70,spd:85,itv:500}, fixedParts:{wp : "クリーガーシルト@" },comment:["コロナAM専用"]}
+{id:968,name:"ブラディスターAM@",size:"M",type:"c",cost:25, slot:0, main:{pwr:17,shl:50,rng:250,spd:400,itv:500},comment:["ブラディスターAM専用"]}
+{id:1051,name:"ペペンガンナーズ",size:"M",type:"c",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:600,rng:330,spd:350,itv:500},comment:["ペペンガールBD専用"]}
+{id:1052,name:"ペペンツインガン",size:"M",type:"c",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:700,rng:330,spd:220,itv:360}, sub:{pwr:0,rng:0,spd:0,itv:500},comment:["ペペンガールAM専用"]}
+{id:1103,name:"A・ミラルBS@",size:"S",type:"lc",cost:100, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:8,shl:500,rng:250,spd:360,itv:440},comment:["A・ミラルBS専用","チューン可否不明"]}
+{id:183,name:"ヴォルケンシールド",size:"S",type:"l",cost:70, slot:3, main:{pwr:14,shl:100,rng:225,spd:320,itv:500}, sub:{pwr:28,rng:100,spd:250,itv:1000},comment:["ナイトジャーAM3専用"]}
+{id:248,name:"オートチャージカセット",size:"S",type:"a",cost:30, slot:0, main:{pwr:28,shl:60,rng:300,spd:480,itv:500},comment:["ステラ用コンバーションパーツ","アウロラキャノン専用"]}
+{id:324,name:"クリーガーシルト",size:"S",type:"a",cost:120, slot:3, joint:{wp:1},tunable:{mwp:1,pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:30,rng:70,spd:85,itv:500}, fixedParts:{wp : "クリーガーシルト@" },comment:["コロナAM専用"]}
+{id:360,name:"グロームロッド",size:"S",type:"a",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:540,rng:275,spd:440,itv:300}, sub:{pwr:26,shl:40,rng:0,spd:150,itv:1000},comment:["マルカAM専用"]}
+{id:465,name:"シヴァリーキャノン",size:"S",type:"c",cost:110, slot:3, joint:{wp:1},tunable:{mwp:1}, main:{pwr:17,shl:350,rng:330,spd:290,itv:600}, fixedParts:{wp : "シヴァリーキャノン@" },comment:["ナターシャAM2専用","チューン可否不明"]}
+{id:912,name:"ビームショットカセット",size:"S",type:"a",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:18,shl:420,rng:275,spd:440,itv:300},comment:["ステラ用コンバーションパーツ","アウロラキャノン専用"]}
+{id:964,name:"プチ桜雷切",size:"S",type:"s",cost:140, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:15,shl:220,rng:225,spd:400,itv:500}, sub:{pwr:28,rng:81,spd:98,itv:500},comment:["桜華・禿BD,BD2専用","変形後のステータスを記載しています","チューン可否不明"]}
+{id:1128,name:"マニモウィング@",size:"S",type:"a",cost:40, slot:3, main:{pwr:3,shl:800,rng:300,spd:400,itv:440},comment:["マニモウィング専用"]}
+{id:1202,name:"メロディコードα",size:"S",type:"s",cost:65, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:380,rng:250,spd:400,itv:500}, sub:{pwr:11,shl:240,rng:250,spd:320,itv:1000},comment:["攻撃用","チューン可否不明"]}
+{id:1203,name:"メロディコードβ",size:"S",type:"s",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:80,rng:300,spd:300,itv:500}, sub:{pwr:0,shl:50,rng:300,spd:300,itv:1000},comment:["サポート用","チューン可否不明"]}
+{id:1204,name:"メロディコードγ",size:"S",type:"s",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:260,rng:250,spd:360,itv:600}, sub:{pwr:10,shl:120,rng:260,spd:300,itv:500},comment:["ジャマー用","チューン可否不明"]}
