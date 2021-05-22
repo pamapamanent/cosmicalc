@@ -1,84 +1,173 @@
 {group:"ＳＳサイズ",prefixId:"SS",commonStat:{size:"SS",type:""},nextId:0}
 
 {group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
- {id:366,name:"ぜろ子HD",size:"S",type:"s",cost:35,hp:20,str:2,tec:2,tgh:1, slot:3}
-{id:167,name:"キャノンボールHD",size:"S",type:"c",cost:35,hp:20,tec:2,wlk:1,tgh:2, slot:3}
- {id:376,name:"ソードウィングHD",size:"S",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:600,rng:200,spd:480,itv:140},comment:["チューン可否不明"]}
- {id:21,name:"ナイトジャーHD2",size:"S",type:"lacs",cost:40,hp:25,str:3,tgh:2, slot:3}
- {id:113,name:"エースブレイバーHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2, slot:3}
- {id:150,name:"カメンティスHD",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,tgh:2, slot:3}
- {id:296,name:"シャインバトラーHD",size:"S",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
- {id:301,name:"シャインバスターHD",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3}
- {id:338, name:"ゼロセイバーHD",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:2,tgh:1, slot:3}
- {id:342,name:"ゼロセイバーHD2",size:"S",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
-{id:351,name:"ゼロファイターHD",size:"S",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
- {id:356,name:"ゼロファイターNEXTHD",size:"S",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
-{id:386,name:"ソルボルカノウィングHD",size:"S",type:"lacs",cost:40,hp:25,str:3,tec:-1,fly:2,tgh:1, slot:3}
-{id:514,name:"ブルーメHD",size:"S",type:"s",cost:70,hp:25,wlk:2,fly:1,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:0,shl:20,rng:43,spd:63,itv:1000},comment:["チューン可否不明"]}
- {id:515,name:"フェアリスHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
+{id:114,name:"アルテリスHD",size:"S",type:"l",cost:80,hp:25,tec:2,wlk:1,fly:2, slot:3, main:{pwr:5,shl:1200,rng:110,spd:400,itv:200}}
+{id:132,name:"アレスターHD",size:"S",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:1, slot:3}
+{id:133,name:"アレスターHD2",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:3,wlk:-1,tgh:2, slot:3}
+{id:214,name:"エースブレイバーHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2, slot:3}
+{id:253,name:"オルフェノスHD",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:2,tgh:1, slot:3}
+{id:280,name:"カメンティスHD",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,tgh:2, slot:3}
+{id:297,name:"キャノンボールHD",size:"S",type:"c",cost:35,hp:20,tec:2,wlk:1,tgh:2, slot:3}
+{id:377,name:"クロタクスHD",size:"S",type:"lacs",cost:40,hp:25,str:2,wlk:2,tgh:1, slot:3}
+{id:512,name:"シャインバスターHD",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3}
+{id:517,name:"シャインバトラーHD",size:"S",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
+{id:606,name:"セラフクリムローゼαHD",size:"S",type:"a",cost:40,hp:25,tec:3,fly:1,tgh:1, slot:3}
+{id:613,name:"ゼロセイバーHD",size:"S",type:"lacs",cost:40,hp:25,str:2,tec:2,tgh:1, slot:3}
+{id:614,name:"ゼロセイバーHD2",size:"S",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
+{id:624,name:"ゼロファイターHD",size:"S",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
+{id:629,name:"ゼロファイターNEXTHD",size:"S",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
+{id:650,name:"ソードウィングHD",size:"S",type:"a",cost:100,hp:20,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:600,rng:200,spd:480,itv:140},comment:["チューン可否不明"]}
+{id:651,name:"ソードウィングHD2",size:"S",type:"lacs",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1, slot:3}
+{id:664,name:"ソルボルカノウィングHD",size:"S",type:"lacs",cost:40,hp:25,str:3,tec:-1,fly:2,tgh:1, slot:3}
+{id:713,name:"ディカロスHD",size:"S",type:"lacs",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1, slot:3}
+{id:777,name:"トノサマランダーHD",size:"S",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
+{id:801,name:"ナイトジャーHD2",size:"S",type:"lcs",cost:40,hp:25,str:3,tgh:2, slot:3}
+{id:929,name:"ビルダームHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1, slot:3}
+{id:941,name:"フェアリスHD",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
+{id:946,name:"フォースドライブHD",size:"S",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
+{id:1007,name:"ブルーメHD",size:"S",type:"s",cost:70,hp:25,wlk:2,fly:1,tgh:2, slot:3, sub:{pwr:0,shl:20,rng:43,spd:63,itv:1000}}
+{id:1029,name:"フログランダーHD",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2, slot:3}
+{id:1075,name:"ポーンジャーHD",size:"S",type:"lacs",cost:35,hp:20,str:2,wlk:1,tgh:2, slot:3}
+{id:1162,name:"ミッサイドHD",size:"S",type:"lacs",cost:40,hp:25,tec:2,wlk:1,tgh:2, slot:3}
+{id:1267,name:"リフィHD",size:"S",type:"lacs",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:2,tgh:1, slot:3}
+{id:1342,name:"ワンダーズHD",size:"S",type:"s",cost:135,hp:20,tec:2,wlk:2,fly:1, slot:3, sub:{pwr:13,shl:420,rng:275,spd:290,itv:1000},comment:["チューン可否不明"]}
+{id:1343,name:"ワンダーズHD2",size:"S",type:"s",cost:75,hp:20,tec:2,fly:2,tgh:1, slot:3, sub:{pwr:30,shl:150,rng:250,spd:250,itv:1000},comment:["チューン可否不明"]}
 
 {group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
- {id:117,name:"エスカゴットHD",size:"M",type:"c",cost:75,hp:25,tec:2,wlk:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:3,shl:1600,rng:160,spd:480,itv:140}}
- {id:211,name:"ゲンブラHD",size:"M",type:"c",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1, slot:3}
- {id:155,name:"ガルラバードHD",size:"M",type:"a",cost:40,hp:25,str:1,tec:2,fly:2, slot:3}
- {id:156,name:"クロスラプターHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,fly:2,tgh:2, slot:3}
- {id:157,name:"クロスラプターHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,fly:2,tgh:2, slot:3}
- {id:333,name:"セイロンHD",size:"M",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:26,shl:140,rng:275,spd:440,itv:800},comment:["AURA未対応のためデフォルトで武装ありとしています","チューン可否不明"]}
- {id:369,name:"ソア・ラHD",size:"M",type:"a",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
-{id:2,name:"A・ミラルHD",size:"M",type:"l",cost:115,hp:20,tec:3,wlk:2,fly:-1,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:3,shl:1200,rng:250,spd:440,itv:200},comment:["チューン可否不明"]}
- {id:101,name:"ウルメリーHD",size:"M",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2, slot:3}
- {id:8,name:"RAMソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
- {id:58,name:"アクシオンHD",size:"M",type:"lacs"}
- {id:76,name:"イニトォンHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3, slot:3}
- {id:97,name:"ウミガメンティスHD",size:"M",type:"lacs",cost:40,hp:20,tec:1,fly:2,tgh:2, slot:3}
-{id:122,name:"エスティスHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:3,wlk:-1,fly:1,tgh:1, slot:3}
- {id:161,name:"ガンアームズHD",size:"M",type:"lacs",cost:40,hp:20,tec:1,wlk:2,tgh:2, slot:3}
-{id:171,name:"キャノンボールHLHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
- {id:194,name:"クレストセイントHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
- {id:216,name:"ゴースレイダーHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:1,tgh:2, slot:3}
- {id:219,name:"ゴースレイダーHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1, slot:3}
- {id:239,name:"サイコクラスターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
-{id:245,name:"サイドロンHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:3,tgh:2, slot:3}
- {id:260,name:"サジタルマクシスHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,tgh:3, slot:3}
- {id:266,name:"ジーウェインHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:2, slot:3}
-{id:327,name:"スケアガントHD",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:2,tgh:-1, slot:3}
-{id:361,name:"ゼロブレイカーHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:2,wlk:2,tgh:-1, slot:3}
- {id:381,name:"ソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
- {id:502,name:"メディージャーHD",size:"M",type:"lacs",cost:35,hp:20,str:2,tec:2,wlk:-1,fly:1,tgh:1, slot:3}
- {id:535,name:"マイティバインHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
-{id:536,name:"マイティバインHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
- {id:534,name:"ロッソアスピーデHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2, slot:3}
- {id:537,name:"レイスタッグHD",size:"M",type:"a",cost:110,hp:25,str:-1,tec:2,wlk:2,fly:2, slot:3,tunable:{mwp:1}, main:{pwr:4,shl:780,rng:275,spd:315,itv:1000},comment:["チューン可否不明"]}
-  {id:538,name:"セバーレイスタッグHD",size:"M",type:"a",cost:180,hp:25,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:900,rng:275,spd:350,itv:1000},comment:["チューン可否不明"]}
-{id:539,name:"トニトルスHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:3,wlk:1,tgh:-1, slot:3}
- {id:540,name:"シュトルバンガーHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,fly:1,tgh:3, slot:3}
- {id:541,name:"デストラクトHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,tgh:2, slot:3}
- {id:542,name:"アントリオンHD",size:"M",type:"c",cost:40,hp:20,tec:2,fly:1,tgh:2, slot:3}
- {id:543,name:"ラグナバレッドHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1, slot:3}
- {id:544,name:"ビクトールHD",size:"M",type:"c",cost:40,hp:25,tec:2,wlk:-1,fly:1,tgh:3, slot:3}
- {id:545,name:"ブラディスターHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
- {id:546,name:"オーガヒルHD",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1, slot:3}
- {id:547,name:"ラムダイバーHD",size:"M",type:"lacs",cost:40,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2, slot:3}
- {id:548,name:"ディースモークHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1, slot:3}
-{id:549,name:"ビッグマンテスHD2",size:"M",type:"lacs",cost:40,hp:25,tec:2,fly:2,tgh:1, slot:3}
-{id:550,name:"カタロスHD",size:"M",type:"lacs",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
-{id:551,name:"ギガトンオーHD",size:"M",type:"lacs",cost:40,hp:25,str:1,wlk:1,fly:1,tgh:2, slot:3}
-{id:552,name:"スコルタンHD2",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
-{id:553,name:"スチールライダーHD2",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
-{id:554,name:"デジトロイドHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,fly:1,tgh:1, slot:3}
-{id:555,name:"ビクトリーHD",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
-{id:556,name:"メガトンオーHD",size:"M",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:1,tgh:2, slot:3}
+{id:4,name:"A・ミラルHD",size:"M",type:"l",cost:115,hp:20,tec:3,wlk:2,fly:-1,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:3,shl:1200,rng:250,spd:440,itv:200},comment:["チューン可否不明"]}
+{id:43,name:"RAMソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
+{id:95,name:"アクシオンHD",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:1,tgh:3, slot:3}
+{id:102,name:"アハトジーベンHD",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1, slot:3}
+{id:108,name:"アマテウスHD",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:2,fly:1, slot:3}
+{id:119,name:"アルバトレオスHD",size:"M",type:"c",cost:80,hp:25,str:-1,tec:3,wlk:1,fly:2, slot:3,tunable:{mwp:1}, main:{pwr:16,shl:160,rng:330,spd:290,itv:600},comment:["チューン可否不明"]}
+{id:124,name:"アルマダHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:3,wlk:1,fly:1,tgh:-1, slot:3}
+{id:140,name:"アントリオンHD",size:"M",type:"c",cost:40,hp:20,tec:2,fly:1,tgh:2, slot:3}
+{id:161,name:"イニトォンHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3, slot:3}
+{id:168,name:"ウィンドリンクスHD",size:"M",type:"lacs",cost:40,hp:20,str:1,tec:-1,fly:2,tgh:3, slot:3}
+{id:189,name:"ヴォルテスHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2, slot:3}
+{id:195,name:"ヴォルフライエHD",size:"M",type:"lacs",cost:40,hp:20,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
+{id:200,name:"ウミガメンティスHD",size:"M",type:"lacs",cost:40,hp:20,tec:1,fly:2,tgh:2, slot:3}
+{id:204,name:"ウルメリーHD",size:"M",type:"l",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2, slot:3}
+{id:218,name:"エスカゴットHD",size:"M",type:"c",cost:75,hp:25,tec:2,wlk:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:3,shl:1600,rng:160,spd:480,itv:140}}
+{id:224,name:"エスティスHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:3,wlk:-1,fly:1,tgh:1, slot:3}
+{id:246,name:"オーガヒルHD",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:2,fly:1,tgh:1, slot:3}
+{id:261,name:"ガシマHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
+{id:264,name:"カタロスHD2",size:"M",type:"lacs",cost:40,hp:25,tec:2,fly:2,tgh:1, slot:3}
+{id:269,name:"ガデロガHD",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:1,tgh:2, slot:3}
+{id:270,name:"ガデロガHD2",size:"M",type:"lacs",cost:35,hp:20,str:2,wlk:1,tgh:2, slot:3}
+{id:286,name:"ガルラバードHD",size:"M",type:"a",cost:40,hp:25,str:1,tec:2,fly:2, slot:3}
+{id:293,name:"ガンアームズHD",size:"M",type:"lacs",cost:40,hp:20,tec:1,wlk:2,tgh:2, slot:3}
+{id:300,name:"キャノンボールHLHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
+{id:307,name:"ギャランバルドHD",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:1,tgh:3}
+{id:358,name:"クレストセイントHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
+{id:370,name:"クロスラプターHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,fly:2,tgh:2, slot:3}
+{id:371,name:"クロスラプターHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,fly:2,tgh:2, slot:3}
+{id:378,name:"クロタクスHD2",size:"M",type:"lacs",cost:40,hp:25,wlk:2,fly:2,tgh:1, slot:3}
+{id:383,name:"ゲンブラHD",size:"M",type:"c",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1, slot:3}
+{id:388,name:"ゴースレイダーHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1, slot:3}
+{id:389,name:"ゴースレイダーHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:-1,fly:1,tgh:2, slot:3}
+{id:396,name:"ゴートランHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1, slot:3}
+{id:424,name:"サイコクラスターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
+{id:431,name:"サイドロンHD",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:-1,fly:2,tgh:2, slot:3}
+{id:432,name:"サイドロンHD2",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:3,tgh:2, slot:3}
+{id:446,name:"サジタルマクシスHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,tgh:3, slot:3}
+{id:452,name:"ジーウェインHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:2, slot:3}
+{id:490,name:"シグマクロックHD",size:"M",type:"lacs",cost:40,hp:25,wlk:1,fly:1,tgh:3, slot:3}
+{id:525,name:"シュトルバンガーHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,fly:1,tgh:3, slot:3}
+{id:526,name:"シュトルバンガーHD2",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
+{id:537,name:"シンビジウムHD",size:"M",type:"lacs",cost:40,hp:25,str:3,tec:2, slot:3}
+{id:555,name:"スケアガントHD",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:2,tgh:-1, slot:3}
+{id:563,name:"スゼクHD",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:-1,fly:2,tgh:2, slot:3}
+{id:571,name:"スチールバーンHD",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:2,fly:-1,tgh:3, slot:3}
+{id:584,name:"セイロンHD",size:"M",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:26,shl:140,rng:275,spd:440,itv:800},comment:["AURA未対応のためデフォルトで武装ありとしています","チューン可否不明"]}
+{id:590,name:"セバーレイスタッグHD",size:"M",type:"a",cost:180,hp:25,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:900,rng:275,spd:350,itv:1000},comment:["チューン可否不明"]}
+{id:635,name:"ゼロブレイカーHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:2,wlk:2,tgh:-1, slot:3}
+{id:658,name:"ソルジェッターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
+{id:677,name:"ダイモンHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1, slot:3}
+{id:678,name:"ダイモンHD2",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:2,fly:1,tgh:1, slot:3}
+{id:707,name:"ディースモークHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:1,fly:2,tgh:-1, slot:3}
+{id:730,name:"デストラクトHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,tgh:2, slot:3}
+{id:735,name:"デストラクトMAXHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,fly:1,tgh:3, slot:3}
+{id:745,name:"テツジンガーHD",size:"M",type:"l",cost:35,hp:20,str:1,wlk:1,tgh:3, slot:3}
+{id:752,name:"テントリオンHD",size:"M",type:"a",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:440,rng:275,spd:350,itv:760}}
+{id:758,name:"トイボックスHD",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1, slot:3}
+{id:772,name:"トニトルスHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:3,wlk:1,tgh:-1, slot:3}
+{id:782,name:"ドラゴネイルHD",size:"M",type:"lacs",cost:40,hp:25,str:2,fly:1,tgh:2, slot:3}
+{id:814,name:"ナッツ・ボムリスHD",size:"M",type:"lacs",cost:35,hp:20,str:2,tec:-1,wlk:2,tgh:2, slot:3}
+{id:837,name:"ハイガクゥーンHD",size:"M",type:"lacs",cost:40,hp:20,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
+{id:843,name:"ハイバリオンHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:3,fly:1,tgh:-1, slot:3}
+{id:851,name:"バグジーケットHD",size:"M",type:"lacs",cost:40,hp:20,str:-1,tec:3,wlk:1,fly:2, slot:3}
+{id:852,name:"バグジーケットHD",size:"M",type:"lacs",cost:40,hp:20,str:2,tec:-1,wlk:3,fly:1, slot:3}
+{id:861,name:"パシファールHD",size:"M",type:"a",cost:40,hp:20,str:1,tec:2,wlk:2, slot:3}
+{id:866,name:"バタフレアHD",size:"M",type:"a",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1, slot:3}
+{id:872,name:"ハティガルムHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,fly:2, slot:3}
+{id:873,name:"ハティガルムHD2",size:"M",type:"l",cost:40,hp:25,str:2,wlk:2,tgh:1, slot:3}
+{id:880,name:"バフデバスターHD",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:-1,wlk:2,tgh:3, slot:3}
+{id:884,name:"バルーダHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:540,rng:0,spd:0,itv:300},comment:["メインは変形後使用可能","チューン可否不明"]}
+{id:890,name:"パルサーディオHD",size:"M",type:"lacs",cost:40,hp:25,tec:3,wlk:1,tgh:1, slot:3}
+{id:891,name:"パルサーディオHD2",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2, slot:3}
+{id:898,name:"バルテオンHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3}
+{id:904,name:"バンガードHD",size:"M",type:"l",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2, slot:3}
+{id:909,name:"ビートランダーHD",size:"M",type:"l",cost:140,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3, sub:{pwr:32,rng:0,spd:250,itv:1000}}
+{id:919,name:"ビクトールHD",size:"M",type:"c",cost:40,hp:25,tec:2,wlk:-1,fly:1,tgh:3, slot:3}
+{id:924,name:"ビャッコウHD",size:"M",type:"s",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3}
+{id:934,name:"フィザリバンHD",size:"M",type:"l",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3, main:{pwr:20,shl:210,rng:225,spd:440,itv:800},comment:["チューン可否不明"]}
+{id:972,name:"ブラディスターHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
+{id:978,name:"ブリガバロンHD",size:"M",type:"lacs",cost:30,hp:15,str:1,tec:2,wlk:1,fly:-1,tgh:1, slot:3}
+{id:987,name:"ブリッツェルトHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1, slot:3}
+{id:988,name:"ブリッツェルトHD2",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
+{id:994,name:"ブリンクHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:3,fly:-1,tgh:2, slot:3}
+{id:1017,name:"ブレイズバロンHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3}
+{id:1018,name:"ブレイズバロンHD2",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:3,wlk:1,tgh:2, slot:3}
+{id:1023,name:"プレデトバイツHD",size:"M",type:"lacs",cost:40,hp:20,str:1,tec:2,tgh:2, slot:3}
+{id:1056,name:"ヘラクビートランダーHD",size:"M",type:"l",cost:200,hp:25,str:3,tec:-1,wlk:1,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:34,rng:0,spd:320,itv:4500},comment:["チューン可否不明"]}
+{id:1067,name:"ペルセシウスHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1, slot:3}
+{id:1082,name:"ホバリオンHD",size:"M",type:"lacs",cost:30,hp:15,str:1,tec:2,tgh:1, slot:3}
+{id:1088,name:"ホプリテスHD",size:"M",type:"lacs",cost:40,hp:20,str:2,tec:3,wlk:-1,fly:1, slot:3}
+{id:1099,name:"マイティバインHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
+{id:1100,name:"マイティバインHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
+{id:1113,name:"マイトボンバーHD",size:"M",type:"lacs",cost:40,hp:25,str:1,fly:2,tgh:3, slot:3}
+{id:1114,name:"マイトボンバーHD2",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2, slot:3}
+{id:1119,name:"マシンドレッドHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
+{id:1123,name:"マッハナイトHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1, slot:3}
+{id:1143,name:"マンティサイスHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,fly:-1,tgh:3, slot:3,comment:["武器手持ち不可"]}
+{id:1148,name:"ミカドマックスHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:1,tgh:2, slot:3}
+{id:1167,name:"メカジェッターHD",size:"M",type:"lacs",cost:35,hp:20,tec:2,fly:2,tgh:1, slot:3}
+{id:1186,name:"メディージャーHD",size:"M",type:"lacs",cost:35,hp:20,str:2,tec:2,wlk:-1,fly:1,tgh:1, slot:3}
+{id:1207,name:"モールニードスHD",size:"M",type:"lacs",cost:40,hp:25,wlk:2,fly:2,tgh:1, slot:3}
+{id:1211,name:"モグニードHD",size:"M",type:"lacs",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1, slot:3}
+{id:1220,name:"ライオスHD",size:"M",type:"a",cost:35,hp:20,str:1,tec:1,wlk:1,fly:1,tgh:1, slot:3}
+{id:1234,name:"ラグナバレッドHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1, slot:3}
+{id:1248,name:"ラムダイバーHD",size:"M",type:"lacs",cost:40,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2, slot:3}
+{id:1256,name:"ランサーロットHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,tgh:3, slot:3}
+{id:1257,name:"ランサーロットHD2",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:1,tgh:3, slot:3}
+{id:1262,name:"ランドスHD",size:"M",type:"l",cost:40,hp:25,tec:1,wlk:2,tgh:2, slot:3}
+{id:1297,name:"ルクスHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:1,tgh:3, slot:3}
+{id:1303,name:"ルッカ・デーコHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,fly:2,tgh:2, slot:3}
+{id:1317,name:"レイスタッグHD",size:"M",type:"a",cost:110,hp:25,str:-1,tec:2,wlk:2,fly:2, slot:3,tunable:{mwp:1}, main:{pwr:4,shl:780,rng:275,spd:315,itv:1000},comment:["チューン可否不明"]}
+{id:1322,name:"ロッソアスピーデHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2, slot:3}
+{id:1327,name:"ロトンレムレスHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1, slot:3}
+{id:1336,name:"ワニガメンティスHD",size:"M",type:"lacs",cost:40,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
- {id:45,name:"アクイーアHD",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1, slot:3}
-{id:46,name:"アクイーアHD2",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2, slot:3}
-{id:92,name:"ウォーダスHD2",size:"L",type:"lacs",cost:40,hp:25,tec:3,wlk:1,fly:-1,tgh:2, slot:3}
-{id:143,name:"ヘケトケレスHD",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:1,wlk:1,fly:-1,tgh:2, slot:3}
- {id:223,name:"コスモカイザーHD2",size:"L",type:"lacs",cost:40,hp:25,tec:2,wlk:2,tgh:1, slot:3}
- {id:228,name:"コスモカイザーHD",size:"L",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
-{id:234,name:"コントラディクトHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1, slot:3}
-{id:287,name:"ジオグラシスHD",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
- {id:391,name:"ダイダリオンHD",size:"L",type:"lacs",cost:40,hp:25,str:1,wlk:1,tgh:3, slot:3}
- {id:392,name:"ベクターHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:3,fly:2,tgh:-1, slot:3}
+{id:57,name:"アーティラスHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
+{id:81,name:"アクイーアHD",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1, slot:3}
+{id:82,name:"アクイーアHD2",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2, slot:3}
+{id:180,name:"ウォーダスHD",size:"L",type:"lacs",cost:40,hp:25,str:3,wlk:-1,tgh:3, slot:3}
+{id:181,name:"ウォーダスHD2",size:"L",type:"lacs",cost:40,hp:25,tec:3,wlk:1,fly:-1,tgh:2, slot:3}
+{id:275,name:"ガナハウンドHD",size:"L",type:"lacs",cost:40,hp:20,str:1,tec:2,wlk:1,fly:1, slot:3}
+{id:316,name:"クシュルブHD",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:-1,fly:2,tgh:2, slot:3}
+{id:405,name:"コスモカイザーHD",size:"L",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3}
+{id:406,name:"コスモカイザーHD2",size:"L",type:"lacs",cost:40,hp:25,tec:2,wlk:2,tgh:1, slot:3}
+{id:418,name:"コントラディクトHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1, slot:3}
+{id:471,name:"シェイデンHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2, slot:3}
+{id:482,name:"ジオグラシスHD",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
+{id:483,name:"ジオグラシスHD",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1, slot:3}
+{id:670,name:"ダイダリオンHD",size:"L",type:"lacs",cost:40,hp:25,str:1,wlk:1,tgh:3, slot:3}
+{id:689,name:"ダゴミュールHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1, slot:3}
+{id:787,name:"ドラッケンHD",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3,comment:["神官ボイス"]}
+{id:1034,name:"ベクターHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:3,fly:2,tgh:-1, slot:3}
+{id:1040,name:"ヘケトケレスHD",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:1,wlk:1,fly:-1,tgh:2, slot:3}
+
  {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:520,name:"HDJ",size:"M",type:"lacs", slot:1, jointPart:1,comment:["仮ジョイント","あとでけすかも"]}
