@@ -97,7 +97,7 @@
 {id:837,name:"ハイガクゥーンHD",size:"M",type:"lacs",cost:40,hp:20,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
 {id:843,name:"ハイバリオンHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:3,fly:1,tgh:-1, slot:3}
 {id:851,name:"バグジーケットHD",size:"M",type:"lacs",cost:40,hp:20,str:-1,tec:3,wlk:1,fly:2, slot:3}
-{id:852,name:"バグジーケットHD",size:"M",type:"lacs",cost:40,hp:20,str:2,tec:-1,wlk:3,fly:1, slot:3}
+{id:852,name:"バグジーケットHD2",size:"M",type:"lacs",cost:40,hp:20,str:2,tec:-1,wlk:3,fly:1, slot:3}
 {id:861,name:"パシファールHD",size:"M",type:"a",cost:40,hp:20,str:1,tec:2,wlk:2, slot:3}
 {id:866,name:"バタフレアHD",size:"M",type:"a",cost:40,hp:25,str:1,wlk:2,fly:1,tgh:1, slot:3}
 {id:872,name:"ハティガルムHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,fly:2, slot:3}
@@ -161,13 +161,13 @@
 {id:406,name:"コスモカイザーHD2",size:"L",type:"lacs",cost:40,hp:25,tec:2,wlk:2,tgh:1, slot:3}
 {id:418,name:"コントラディクトHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:2,fly:1,tgh:-1, slot:3}
 {id:471,name:"シェイデンHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,tgh:2, slot:3}
-{id:482,name:"ジオグラシスHD",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
-{id:483,name:"ジオグラシスHD",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1, slot:3}
 {id:670,name:"ダイダリオンHD",size:"L",type:"lacs",cost:40,hp:25,str:1,wlk:1,tgh:3, slot:3}
 {id:689,name:"ダゴミュールHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1, slot:3}
 {id:787,name:"ドラッケンHD",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3,comment:["神官ボイス"]}
 {id:1034,name:"ベクターHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:3,fly:2,tgh:-1, slot:3}
 {id:1040,name:"ヘケトケレスHD",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:1,wlk:1,fly:-1,tgh:2, slot:3}
+{id:482,name:"ジオグラシスHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,fly:1,tgh:1, slot:3}
+{id:483,name:"ジオグラシスHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
 
  {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:520,name:"HDJ",size:"M",type:"lacs", slot:1, jointPart:1,comment:["仮ジョイント","あとでけすかも"]}

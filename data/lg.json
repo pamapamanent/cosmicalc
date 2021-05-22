@@ -127,8 +127,8 @@
 {id:447,name:"サジタルマクシスLG",size:"L",type:"lacs",cost:50,hp:60,tec:1,wlk:4,tgh:1, slot:3}
 {id:453,name:"ジーウェインLG",size:"L",type:"lacs",cost:50,hp:40,str:1,tec:1,wlk:3,tgh:1, slot:3}
 {id:472,name:"シェイデンLG",size:"L",type:"lacs",cost:45,hp:45,str:1,tec:2,wlk:2,tgh:1, slot:3}
-{id:484,name:"ジオグラシスLG",size:"L",type:"a",cost:45,hp:25,tec:2,wlk:1,fly:3, slot:3}
 {id:485,name:"ジオグラシスLG",size:"L",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:4, slot:3}
+{id:484,name:"ジオグラシスLG2",size:"L",type:"a",cost:45,hp:25,tec:2,wlk:1,fly:3, slot:3}
 {id:527,name:"シュトルバンガーLG",size:"L",type:"lacs",cost:45,hp:50,tec:1,wlk:2,fly:1,tgh:2, slot:3}
 {id:556,name:"スケアガントLG",size:"L",type:"lacs",cost:45,hp:25,wlk:2,fly:1,tgh:3, slot:3}
 {id:572,name:"スチールバーンLG",size:"L",type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3, slot:3, joint:{wp:1}, fixedParts:{wp : "スチールバーンLG@" },comment:["BS増設可能"]}

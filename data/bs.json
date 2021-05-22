@@ -30,7 +30,6 @@
 {id:623,name:"ゼロファイターBS",size:"S",type:"l",cost:35,hp:20,str:1,fly:3,tgh:1, slot:3}
 {id:628,name:"ゼロファイターNEXTBS",size:"S",type:"l",cost:70,hp:25,str:1,tec:-1,wlk:2,fly:3, slot:3, sub:{pwr:0,shl:30,rng:120,spd:250,itv:1000}}
 {id:649,name:"ソードウィングBS",size:"S",type:"a",cost:35,hp:20,wlk:1,fly:4, slot:3}
-{id:662,name:"ソルボルカノウィングBS",size:"S",type:"a",cost:405,hp:210,str:8,tec:8,wlk:6,fly:15,tgh:8,capa:780, cartridge:{hpup:18,lv1:"8*6@25|21@30|23@15|22@20|33@15|35@20|37@25|36@30|56@20|45@20|28@20|41@20|27@30|47@50|46@40",lv6:"",lv9:""}}
 {id:663,name:"ソルボルカノウィングBS",size:"S",type:"lacs",cost:60,hp:25,wlk:1,fly:3,tgh:1, slot:3, sub:{pwr:20,rng:100,spd:120,itv:1000}}
 {id:693,name:"タラントリックBS",size:"S",type:"s",cost:35,hp:20,wlk:1,fly:3,tgh:1, slot:3}
 {id:697,name:"ダルマスターBS",size:"S",type:"s",cost:35,hp:20,str:1,fly:3,tgh:1, slot:3}
@@ -59,7 +58,6 @@
 {id:1266,name:"リフィBS",size:"S",type:"s",cost:110,hp:25,str:-1,wlk:1,fly:3,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:80,rng:300,spd:300,itv:500}}
 {id:1290,name:"ルーシェαBS",size:"S",type:"c",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1, slot:3}
 {id:1341,name:"ワンダーズBS",size:"S",type:"s",cost:40,hp:25,str:1,tec:1,wlk:1,fly:3,tgh:-1, slot:3}
-
 
 {group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
 {id:42,name:"RAMソルジェッターBS",size:"M",type:"a",cost:40,hp:20,tec:2,wlk:1,fly:2, slot:3}
@@ -149,9 +147,8 @@
 {id:445,name:"サジタルマクシスBS",size:"L",type:"c",cost:40,hp:25,str:2,fly:3, slot:3}
 {id:451,name:"ジーウェインBS",size:"L",type:"a",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1, slot:3}
 {id:470,name:"シェイデンBS",size:"L",type:"c",cost:125,hp:25,fly:5, slot:3, sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
-{id:480,name:"ジオグラシスBS",size:"L",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1, slot:3}
 {id:481,name:"ジオグラシスBS",size:"L",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3, slot:3}
-{id:495,name:"シノ・イクスロードBS",size:"L",type:"l",cost:490,hp:305,str:7,tec:7,wlk:16,fly:9,tgh:12,capa:945, cartridge:{hpup:10,lv1:"6*6@20|21@20|23@20|24@15|31@15|32@15|34@15|37@25|30@30|44@15|35@20|29@15|27@30|47@50|46@40",lv6:"",lv9:""}, fixedParts:{hd:"シノ・イクスロードHD" }}
+{id:480,name:"ジオグラシスBS2",size:"L",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1, slot:3}
 {id:524,name:"シュトルバンガーBS",size:"L",type:"c",cost:40,hp:20,str:2,wlk:1,fly:2, slot:3}
 {id:554,name:"スケアガントBS",size:"L",type:"l",cost:45,hp:25,fly:2,tgh:3, slot:3}
 {id:569,name:"スチールバーンBS",size:"L",type:"a",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
