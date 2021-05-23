@@ -84,6 +84,7 @@
 {id:1013,name:"ハクメンスクナLG＠",size:"L",type:"a", slot:0}
 {id:1036,name:"ハティガルムLG",size:"L",type:"l",cost:150,hp:70,str:2,wlk:3,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:24,rng:150,spd:400,itv:1000}}
 {id:1037,name:"ハティガルムLG2",size:"L",type:"l",cost:150,hp:70,str:2,tec:-1,wlk:4,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:24,rng:150,spd:420,itv:1000},comment:["チューン可否不明"]}
+{id:1140,name:"フラクタリスLG",size:"L",type:"a",cost:145,hp:70,str:-1,tec:2,wlk:3,fly:1, slot:3, sub:{pwr:10,rng:280,spd:380,itv:1000}}
 {id:1380,name:"メガトンオーTitanLG",size:"L",type:"l",cost:45,hp:25,str:-1,tec:1,wlk:2,tgh:3, slot:3}
 {id:1397,name:"メディックボールLG",size:"L",type:"s",cost:40,hp:25,str:1,wlk:3,tgh:1, slot:3}
 {id:1532,name:"ワイルドビークLG",size:"L",type:"l",cost:75,hp:45,wlk:4,tgh:1, slot:3, sub:{pwr:0,shl:50,rng:80,spd:180,itv:1000},comment:["チューン可否不明"]}

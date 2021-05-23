@@ -156,7 +156,6 @@
 {id:1054,name:"パルサーディオLG",size:"L",type:"lacs",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:2, slot:3}
 {id:1061,name:"バルテオンLG",size:"L",type:"lacs",cost:50,hp:80,str:-1,tec:1,wlk:2,fly:2,tgh:2, slot:3}
 {id:1091,name:"ビッグマンテスLG2",size:"L",type:"a",cost:90,hp:70,tec:1,wlk:3,fly:2, slot:3, sub:{pwr:0,shl:100,rng:0,spd:60,itv:1000},comment:["チューン可否不明"]}
-{id:1140,name:"フラクタリスLG",size:"L",type:"c",cost:145,hp:70,str:-1,tec:2,wlk:3,fly:1, slot:3, sub:{pwr:10,rng:280,spd:380,itv:1000}}
 {id:1201,name:"ブレイズバロンLG",size:"L",type:"lacs",cost:45,hp:65,str:1,tec:1,wlk:3,fly:1, slot:3}
 {id:1206,name:"プレデトバイツLG",size:"L",type:"lacs",cost:45,hp:70,wlk:3,fly:2,tgh:1, slot:3}
 {id:1218,name:"ベクターLG",size:"L",type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:100,spd:160,itv:1000},comment:["チューン可否不明"]}
