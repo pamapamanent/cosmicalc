@@ -53,27 +53,27 @@
 {id:8,name:"グレートスタミナβ",cost:10,str:-1,tec:-1,wlk:-1,fly:-1,tgh:3,material:"3*1|21*16|29*11|31*6|33*5|15*8",comment:["60%"]}
 //{group:"Exスタミナ系",prefixID:"ES",commonStat:{target:"excpt"}}
 {group:"ライフ系",prefixID:"L",commonStat:{target:"cpt"}}
-{id:1,name:"ライフ",cost:10,hp:15,material:"1*1|22*1",comment:["60%"]}
+{id:1,name:"ライフ",cost:10,hp:15,material:"1*1|22*14",comment:["60%"]}
 {id:2,name:"ハイライフ",cost:20,hp:25,material:"2*1|22*18|34*5",comment:["60%"]}
-{id:3,name:"グレートライフ",cost:35,hp:45,material:"3*1|22*17|34*8|16*4",comment:["60%"]}
+{id:3,name:"グレートライフ",cost:35,hp:40,material:"3*1|22*17|34*8|16*4",comment:["60%"]}
 //{group:"タイプ別条件系",prefixID:"TC",commonStat:{target:"cpt"}}
 {group:"ステータス複合系",prefixID:"SC",commonStat:{target:"cpt"}}
-{id:1,name:"ビースト",cost:15,hp:15,str:1,material:"3*1|17*15|22*6|34*3|35*10|36*10|12*5",comment:["60%"]}
-{id:2,name:"ハイビースト",cost:35,hp:25,str:2,tec:-1,material:"4*1|17*25|22*8|34*5|35*12|36*12|37*7|38*7|12*10|16*5",comment:["60%"]}
-{id:3,name:"レンジャー",cost:15,hp:15,tec:1,material:"3*1|18*15|22*6|34*3|35*10|36*10|11*5",comment:["60%"]}
-{id:4,name:"ハイレンジャー",cost:35,hp:25,str:-1,tec:2,material:"4*1|18*25|22*8|34*5|35*12|36*12|37*7|38*7|11*10|16*5",comment:["60%"]}
-{id:5,name:"タンク",cost:15,hp:15,wlk:1,material:"3*1|19*15|22*6|34*3|35*10|36*10|14*5",comment:["60%"]}
-{id:6,name:"ハイタンク",cost:35,hp:25,wlk:2,fly:-1,material:"4*1|19*25|22*8|34*5|35*12|36*12|37*7|38*7|14*10|16*5",comment:["60%"]}
-{id:7,name:"イーグル",cost:15,hp:15,fly:1,material:"3*1|20*15|22*6|34*3|35*10|36*10|13*5",comment:["60%"]}
-{id:8,name:"ハイイーグル",cost:35,hp:25,wlk:-1,fly:2,material:"4*1|20*25|22*8|34*5|35*12|36*12|37*7|38*7|13*10|16*5",comment:["60%"]}
-{id:9,name:"センチネル",cost:15,hp:15,tgh:1,material:"3*1|21*15|22*6|34*3|35*10|36*10|15*5",comment:["60%"]}
-{id:10,name:"ハイセンチネル",cost:35,hp:30,wlk:-1,fly:-1,tgh:2,material:"4*1|21*25|22*8|34*5|35*12|36*12|37*7|38*7|15*10|16*5",comment:["60%"]}
+{id:1,name:"ビースト",cost:15,hp:8,str:1,material:"3*1|17*15|22*6|34*3|35*10|36*10|12*5",comment:["60%"]}
+{id:2,name:"ハイビースト",cost:35,hp:20,str:2,tec:-1,material:"4*1|17*25|22*8|34*5|35*12|36*12|37*7|38*7|12*10|16*5",comment:["60%"]}
+{id:3,name:"レンジャー",cost:15,hp:8,tec:1,material:"3*1|18*15|22*6|34*3|35*10|36*10|11*5",comment:["60%"]}
+{id:4,name:"ハイレンジャー",cost:35,hp:20,str:-1,tec:2,material:"4*1|18*25|22*8|34*5|35*12|36*12|37*7|38*7|11*10|16*5",comment:["60%"]}
+{id:5,name:"タンク",cost:15,hp:8,wlk:1,material:"3*1|19*15|22*6|34*3|35*10|36*10|14*5",comment:["60%"]}
+{id:6,name:"ハイタンク",cost:35,hp:20,wlk:2,fly:-1,material:"4*1|19*25|22*8|34*5|35*12|36*12|37*7|38*7|14*10|16*5",comment:["60%"]}
+{id:7,name:"イーグル",cost:15,hp:8,fly:1,material:"3*1|20*15|22*6|34*3|35*10|36*10|13*5",comment:["60%"]}
+{id:8,name:"ハイイーグル",cost:35,hp:20,wlk:-1,fly:2,material:"4*1|20*25|22*8|34*5|35*12|36*12|37*7|38*7|13*10|16*5",comment:["60%"]}
+{id:9,name:"センチネル",cost:15,hp:8,tgh:1,material:"3*1|21*15|22*6|34*3|35*10|36*10|15*5",comment:["60%"]}
+{id:10,name:"ハイセンチネル",cost:40,hp:25,tgh:2,material:"4*1|21*25|22*8|34*5|35*12|36*12|37*7|38*7|15*10|16*5",comment:["60%"]}
 {id:11,name:"アサルト",cost:15,str:1,tec:1,material:"3*1|17*23|18*23|12*5|11*5",comment:["60%"]}
 {id:12,name:"ハイアサルト",cost:35,str:2,tec:2,material:"4*1|17*26|18*26|27*12|28*12|12*5|11*5|16*5",comment:["60%"]}
 {id:13,name:"スピーダー",cost:15,wlk:1,fly:1,material:"3*1|19*23|20*23|14*5|13*5",comment:["60%"]}
 {id:14,name:"ハイスピーダー",cost:35,wlk:2,fly:2,material:"4*1|19*26|20*26|30*12|26*12|14*5|13*5|16*5",comment:["60%"]}
 {group:"特殊",prefixID:"SP"}
-{id:1,name:"エターナル",cost:5,target:"cpt hd am",material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"]}
+{id:1,name:"エターナル",cost:5,target:"cpt hd am",material:"10*1|22*4",comment:["60%","適用パーツの部位破壊を防ぐ"]}
 {id:2,name:"ハイエターナル",cost:15,hp:8,target:"cpt hd am",material:"10*1|22*15|33*12|34*8|35*20|36*20|37*10|38*10|16*5",comment:["60%","適用パーツの部位破壊を防ぐ"]}
 //{group:"キャパ系",prefixID:"C",commonStat:{target:"cpt lg"}}
 //{group:"リベンジ系",prefixID:"RV",commonStat:{target:"cpt lg"}}
@@ -122,8 +122,8 @@
 {id:1,name:"グラップラー",cost:10, effect:{pwr:3},material:"7*1|27*4",comment:["50%","威力+3%"]}
 {id:2,name:"ハイグラップラー",cost:25, effect:{pwr:6},material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%"]}
 {id:3,name:"ハイグラップラーα",cost:20, effect:{pwr:6,spd:-7},material:"8*1|27*10|23*5|12*4",comment:["50%","威力+6%、速度-7%"]}
-{id:4,name:"グレートグラップラー",cost:40, effect:{pwr:9},material:"9*1|27*13|23*7|35*7|37*2|12*5",comment:["50%","威力+9%"]}
-{id:5,name:"グレートグラップラーα",cost:30, effect:{pwr:9,spd:-10},material:"9*1|27*13|23*7|35*7|37*2|12*5",comment:["50%","威力+9%、速度-10%"]}
+{id:4,name:"グレートグラップラー",cost:40, effect:{pwr:9},material:"9*1|27*13|23*7|35*5|37*2|12*5",comment:["50%","威力+9%"]}
+{id:5,name:"グレートグラップラーα",cost:30, effect:{pwr:9,spd:-10},material:"9*1|27*13|23*7|35*5|37*2|12*5",comment:["50%","威力+9%、速度-10%"]}
 {id:6,name:"グラディエーター",cost:20, effect:{rng:5,spd:5},material:"9*1|23*10|32*10|36*4|38*1|16*3",comment:["50%","射程+5%、速度+5%"]}
 {id:7,name:"ハイグラディエーター",cost:45, effect:{rng:10,spd:10},material:"10*1|23*20|32*20|36*10|38*3|16*4",comment:["50%","射程+10%、速度+10%"]}
 //{group:"近接SUB武器特殊効果系",prefixID:"PS",commonStat:{target:"pwp"}}
@@ -131,4 +131,3 @@
 //{id:2,name:"ライトスロウ",cost:20,material:"10*1|30*31|32*10|35*7|37*2|15*3",comment:["50%","5%でライトスロウ効果"]}
 //{id:3,name:"ディスオーダー",cost:20,material:"10*1|28*31|32*10|35*7|37*2|15*3",comment:["50%","5%でディスオーダー効果"]}
 //{id:4,name:"シェルドレイン",cost:20,material:"10*1|26*31|32*10|35*7|37*2|15*3",comment:["50%","5%でシェルドレイン効果"]}
-
