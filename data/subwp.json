@@ -12,56 +12,72 @@
 {id:150,name:"ソニックブレード",size:"M",type:"a",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:70,spd:85,itv:500}}
 {id:151,name:"スラッシュブレード",size:"M",type:"a",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:70,spd:85,itv:500}}
 {id:152,name:"ディバインブレード",size:"M",type:"a",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:70,spd:85,itv:500}}
+
 {group:"ナイフ",prefixId:"KNIFE",nextId:450}
 {id:153,name:"カッター",size:"SS",type:"lacs",cost:25, slot:3,tunable:{pwp:1}, sub:{pwr:26,rng:105,spd:128,itv:500}}
 {id:154,name:"サバイバルアイフ",size:"S",type:"lacs",cost:55, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:105,spd:128,itv:500}}
-{id:155,name:"インテグラルナイフ",size:"M",type:"l",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:31,rng:105,spd:125,itv:500}}
+{id:155,name:"インテグラルナイフ",size:"M",type:"l",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:31,rng:105,spd:128,itv:500}}
+
 {group:"スピア・ランス",prefixId:"LANCE",nextId:450}
 {id:156,name:"スピア",size:"M",type:"ls",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:84,spd:102,itv:1000}}
 {id:157,name:"ランス",size:"M",type:"l",cost:130, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:100,spd:200,itv:2000}}
 {id:158,name:"レイピア",size:"S",type:"a",cost:40, slot:3,tunable:{pwp:1}, sub:{pwr:23,rng:100,spd:200,itv:1000}}
 {id:159,name:"デュエルレイピア",size:"M",type:"a",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:27,rng:100,spd:200,itv:1000}}
 {id:160,name:"アサルトビームランス",size:"M",type:"a",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:27,rng:120,spd:200,itv:500}}
+
 {group:"アクス",prefixId:"AXE",nextId:450}
 {id:161,name:"ハンドアクス",size:"S",type:"lcs",cost:40, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:56,spd:68,itv:1000}}
 {id:162,name:"バトルアクス",size:"M",type:"ls",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:56,spd:68,itv:1000}}
 {id:163,name:"バイキングアクス",size:"L",type:"l",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:34,rng:56,spd:68,itv:1000}}
 {id:164,name:"ギガントアクス",size:"LL",type:"l",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:37,rng:56,spd:68,itv:1000}}
 {id:165,name:"ブレイズアクス",size:"L",type:"l",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:33,rng:70,spd:85,itv:500}}
+
 {group:"メイス・ハンマー",prefixId:"MACE",nextId:450}
 {id:166,name:"クラブ",size:"M",type:"lcs",cost:40, slot:3,tunable:{pwp:1}, sub:{pwr:31,rng:49,spd:60,itv:1000}}
 {id:167,name:"ハンマー",size:"L",type:"ls",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:33,rng:49,spd:60,itv:1000}}
 {id:168,name:"ウォーハンマー",size:"L",type:"l",cost:110, slot:3,tunable:{pwp:1}, sub:{pwr:36,rng:49,spd:60,itv:1000}}
 {id:169,name:"ジェットハンマー",size:"L",type:"l",cost:130, slot:3,tunable:{pwp:1}, sub:{pwr:39,shl:30,rng:70,spd:85,itv:1000}}
+
 {group:"シールド",prefixId:"SHIELD",nextId:450}
 {id:170,name:"バイパーシールド",size:"L",type:"lacs",cost:40, slot:3,comment:["盾耐久値不明"]}
-{id:173,name:"カタストロフシールド",size:"M",type:"lacs",cost:35, slot:3,comment:["盾耐久値不明","α、βともに同じステータス","プラチナチケット"]}
-{id:174,name:"オネストシールド",size:"M",cost:35, slot:3,comment:["盾耐久値不明","α、βともに同じステータス","プラチナチケット"]}
-{group:"その他",prefixId:"SETC",nextId:450}
+{id:171,name:"シールドショットガン",size:"LL",type:"lc",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:1170,rng:150,spd:400,itv:680},comment:["盾耐久値不明"]}
 {id:172,name:"スパイクシールド",size:"LL",type:"l",cost:90, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:120,spd:400,itv:500},comment:["盾耐久値不明"]}
-{id:680,name:"ダイモンメイス",size:"LL",type:"l",cost:155, slot:3,tunable:{pwp:1}, sub:{pwr:34,rng:100,spd:85,itv:500},comment:["ダイモン初期装備"]}
-{id:980,name:"ブリガンドアクス",size:"LL",type:"l",cost:180, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:49,spd:60,itv:2000},comment:["ブリガバロン初期装備","チューン可否不明"]}
-{id:434,name:"サイドロンナイフ",size:"M",type:"l",cost:80, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:84,spd:102,itv:2000},comment:["サイドロン初期装備","チューン可否不明"]}
-{id:565,name:"スタッグクロー",size:"M",type:"a",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:26,rng:100,spd:200,itv:500},comment:["チューン可否不明"]}
-{id:586,name:"セバースタッグシザー",size:"M",type:"a",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:28,shl:100,rng:75,spd:90,itv:2000}}
-{id:330,name:"クリムエッジ",size:"S",type:"a",cost:100, sub:{pwr:28,rng:70,spd:85,itv:1000}}
-{id:379,name:"ゲソウィップ",size:"S",type:"s",cost:80,tunable:{pwp:1}, sub:{pwr:26,rng:70,spd:85,itv:500},comment:["スクイドルガールα初期装備","チューン可否不明"]}
 
-{id:2001,name:"コスト10手持武器(STR)",size:"M",type:"lacs",cost:10,str:1, slot:3,comment:["コスト10手持武器（仮）"]}
-{id:2002,name:"コスト10手持武器(TEC)",size:"M",type:"lacs",cost:10,tec:1, slot:3,comment:["コスト10手持武器（仮）"]}
-{id:2003,name:"コスト10手持武器(WLK)",size:"M",type:"lacs",cost:10,wlk:1, slot:3,comment:["コスト10手持武器（仮）"]}
-{id:2004,name:"コスト10手持武器(FLY)",size:"M",type:"lacs",cost:10,fly:1, slot:3,comment:["コスト10手持武器（仮）"]}
-{id:2005,name:"コスト10手持武器(TGH)",size:"M",type:"lacs",cost:10,tgh:1, slot:3,comment:["コスト10手持武器（仮）"]}
+{group:"その他（ショップ以外）",prefixId:"SETC",nextId:450}
+{id:1003,name:"ゲルニアハンマー",size:"L",type:"l",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:100,spd:85,itv:100},comment:["クエストコイン景品"]}
+{id:1004,name:"デゴアックス",size:"L",type:"a",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:100,spd:180,itv:1000},comment:["クエストコイン景品"]}
+{id:1008,name:"クリスタルパイルバンカー",size:"L",type:"l",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:100,spd:200,itv:1000,tec:100},comment:["ミッションコイン景品"]}
+{id:1012,name:"ダイモンメイス",size:"LL",type:"l",cost:155, slot:3,tunable:{pwp:1}, sub:{pwr:34,rng:100,spd:85,itv:500},comment:["ダイモン初期装備"]}
+{id:1014,name:"ブリガンドアクス",size:"LL",type:"l",cost:180, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:49,spd:60,itv:2000},comment:["ブリガバロン初期装備","チューン可否不明"]}
+{id:1018,name:"イビルハルバード",size:"M",type:"la",cost:180, slot:3,tunable:{pwp:1}, sub:{pwr:33,rng:91,spd:110,itv:500},comment:["エンジェルコイン景品","チューン可否不明"]}
+{id:1019,name:"ウッデンソード",size:"M",type:"lacs",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:70,spd:85,itv:600},comment:["エンジェルコイン景品","チューン可否不明"]}
+{id:1021,name:"ライトニングエッジ",size:"M",type:"l",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:21,rng:70,spd:85,itv:500},comment:["エンジェルコイン景品","チューン可否不明"]}
+{id:1022,name:"SBトリックミサイル",size:"M",type:"a",cost:60, slot:3, sub:{pwr:9,shl:270,rng:275,spd:280,itv:1000,tec:100},comment:["クエストコイン景品"]}
+{id:1024,name:"ポイーンブレード",size:"M",type:"a",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:33,rng:70,spd:85,itv:500},comment:["クエストコイン景品"]}
+{id:1026,name:"サイドロンナイフ",size:"M",type:"l",cost:80, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:84,spd:102,itv:2000},comment:["サイドロン初期装備","チューン可否不明"]}
+{id:1029,name:"セバースタッグシザー",size:"M",type:"a",cost:160, slot:3,tunable:{pwp:1}, sub:{pwr:28,shl:100,rng:75,spd:90,itv:2000}}
+{id:1032,name:"カムイスタッフ",size:"M",type:"lacs",cost:160, slot:3, sub:{pwr:32,rng:91,spd:110,itv:500},comment:["【因果】コイン景品"]}
+{id:1033,name:"ダマスクスナイフ",size:"M",type:"l",cost:140, slot:3, sub:{pwr:31,rng:105,spd:128,itv:1000},comment:["【因果】コイン景品"]}
+{id:1034,name:"ハクメンスクナアニマ",size:"M",type:"l",cost:150, slot:3, sub:{pwr:34,rng:70,spd:85,itv:500},comment:["【因果】コイン景品"]}
+{id:1035,name:"ホムラスタッフ",size:"M",type:"lacs",cost:90, slot:3, sub:{pwr:25,shl:180,rng:250,spd:290,itv:1000},comment:["【因果】コイン景品"]}
+{id:1060,name:"スタッグクロー",size:"M",type:"a",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:26,rng:100,spd:200,itv:500},comment:["チューン可否不明"]}
+{id:1062,name:"クリムエッジ",size:"S",type:"a",cost:100, sub:{pwr:28,rng:70,spd:85,itv:1000}}
+{id:1069,name:"ガルドダガー",size:"S",type:"l",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:100,spd:250,itv:500},comment:["クエストコイン景品"]}
+{id:1070,name:"コンビネーションダガー",size:"S",type:"la",cost:120, slot:3, sub:{pwr:24,rng:80,spd:180,itv:1000},comment:["クエストコイン景品"]}
+{id:1086,name:"ゲソウィップ",size:"S",type:"s",cost:80,tunable:{pwp:1}, sub:{pwr:26,rng:70,spd:85,itv:500},comment:["スクイドルガールα初期装備","チューン可否不明"]}
+{id:1101,name:"ミスティサイスR",size:"S",type:"l",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:10,itv:500},comment:["ミッションコイン景品"]}
+{id:1102,name:"影打・桜雷切",size:"S",type:"lacs",cost:100, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:81,spd:98,itv:500},comment:["ミッションコイン景品"]}
 
 {group:"専用コンバージョン",prefixId:"SEXCONV",nextId:450}
-{id:1076,name:"アウロラキャノン",size:"S",type:"a", slot:0, joint:{wp:2}, sub:{pwr:0,rng:0,spd:0,itv:500},comment:["ステラAM専用"]}
-{id:184,name:"ヴォルケンランス",size:"S",type:"l",cost:160, slot:3, sub:{pwr:32,rng:90,spd:180,itv:2000},comment:["ナイトジャーAM2専用","チューン可否不明"]}
-{id:322,name:"グラッドチェーンソー",size:"S",type:"l",cost:60, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["部位破壊不能","クルールAM、AM2専用","チューン可否不明"]}
-{id:464,name:"シヴァリーガード",size:"S",type:"c",cost:50, slot:0, sub:{pwr:0,rng:10,spd:0,itv:500},comment:["ナターシャAM専用"]}
-{id:940,name:"フェアリスBS@",size:"S",type:"c",cost:20, slot:0, sub:{pwr:0,shl:40,rng:0,spd:160,itv:1000},comment:["フェアリスBS専用"]}
-{id:1127,name:"マニモウィング",size:"S",type:"a",cost:70,hp:25,str:1,fly:2,tgh:2, slot:0, joint:{wp:1}, sub:{pwr:0,shl:60,rng:0,spd:160,itv:1000},comment:["マニモガールBD専用"]}
-{id:1345,name:"獄卒の勾玉",size:"S",type:"l", slot:0, joint:{wp:4},comment:["コンバーションパーツ","サクラAM2専用"]}
-{id:559,name:"すけだちの刀",size:"S",type:"l",cost:50, slot:3, sub:{pwr:28,rng:70,spd:95,itv:2000},comment:["コンバーションパーツ","獄卒の勾玉専用","チューン可否不明"]}
-{id:1352,name:"杉の一本槍",size:"S",type:"l",cost:50, slot:3, sub:{pwr:25,rng:90,spd:110,itv:2000},comment:["コンバーションパーツ","獄卒の勾玉専用","チューン可否不明"]}
-{id:1353,name:"雀子弓",size:"S",type:"l",cost:50, slot:3, main:{pwr:20,shl:50,rng:200,spd:570,itv:500}, sub:{pwr:10,rng:150,spd:85,itv:2000},comment:["コンバーションパーツ","獄卒の勾玉専用","チューン可否不明"]}
-{id:1354,name:"文殊の守り",size:"S",type:"l",cost:50, slot:3, sub:{pwr:25,rng:150,spd:85,itv:2000},comment:["コンバーションパーツ","獄卒の勾玉専用","チューン可否不明"]}
+{id:1071,name:"グラッドチェーンソー",size:"S",type:"l",cost:60, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["部位破壊不能","クルールAM、AM2専用","チューン可否不明"]}
+{id:1073,name:"すけだちの刀",size:"S",type:"l",cost:50, slot:3, sub:{pwr:28,rng:70,spd:95,itv:2000},comment:["コンバーションパーツ","獄卒の勾玉専用","チューン可否不明"]}
+{id:1074,name:"御手杵",size:"S",type:"l",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:25,rng:90,spd:110,itv:2000},comment:["【混沌】コイン景品","獄卒の勾玉専用","チューン可否不明"]}
+{id:1077,name:"杉の一本槍",size:"S",type:"l",cost:50, slot:3, sub:{pwr:25,rng:90,spd:110,itv:2000},comment:["コンバーションパーツ","獄卒の勾玉専用","チューン可否不明"]}
+{id:1080,name:"日光の守り",size:"S",type:"l",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:22,rng:150,spd:85,itv:2000},comment:["【混沌】コイン景品","獄卒の勾玉専用","チューン可否不明"]}
+{id:1081,name:"文殊の守り",size:"S",type:"l",cost:50, slot:3, sub:{pwr:25,rng:150,spd:85,itv:2000},comment:["コンバーションパーツ","獄卒の勾玉専用","チューン可否不明"]}
+{id:1082,name:"名刀金光",size:"S",type:"l",cost:70, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:70,spd:85,itv:2000},comment:["【混沌】コイン景品","獄卒の勾玉専用","チューン可否不明"]}
+{id:1087,name:"アウロラキャノン",size:"S",type:"a", slot:0, joint:{wp:2}, sub:{pwr:0,rng:0,spd:0,itv:500},comment:["ステラAM専用"]}
+{id:1092,name:"ヴォルケンランス",size:"S",type:"l",cost:160, slot:3, sub:{pwr:32,rng:90,spd:180,itv:2000},comment:["ナイトジャーAM2専用","チューン可否不明"]}
+{id:1093,name:"シヴァリーガード",size:"S",type:"c",cost:50, slot:0, sub:{pwr:0,rng:10,spd:0,itv:500},comment:["ナターシャAM専用"]}
+{id:1095,name:"フェアリスBS@",size:"S",type:"c",cost:20, slot:0, sub:{pwr:0,shl:40,rng:0,spd:160,itv:1000},comment:["フェアリスBS専用"]}
+{id:1098,name:"マニモウィング",size:"S",type:"a",cost:70,hp:25,str:1,fly:2,tgh:2, slot:0, joint:{wp:1}, sub:{pwr:0,shl:60,rng:0,spd:160,itv:1000},comment:["マニモガールBD専用"]}

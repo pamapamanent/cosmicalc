@@ -1,170 +1,187 @@
 {group:"ＳＳサイズ",prefixId:"SS",commonStat:{size:"SS",type:""},nextId:0}
 
-{group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:2000}
+{group:"Ｓサイズ",prefixId:"S",commonStat:{size:"S",type:""},nextId:0}
 {id:5,name:"A・ミラルLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:1, slot:3}
 {id:17,name:"A.L.E.クリムローゼLG",size:"S",type:"a",cost:85,hp:50,str:1,tec:2,fly:4,tgh:3, joint:{bs:0,wp:2}, fixedParts:{wp : ["A.L.E.クリムローゼBS2","A.L.E.クリムローゼBS2"] }}
-{id:29,name:"A.L.E.ラズフラムLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:1, slot:3, joint:{bs:1},comment:["BS増設可能","専用コンバあり"]}
-{id:115,name:"アルテリスLG",size:"S",type:"l",cost:45,hp:25,str:2,wlk:3,tgh:1, slot:3}
-{id:134,name:"アレスターLG",size:"S",type:"s",cost:95,hp:25,str:1,tec:-1,wlk:3,tgh:2, slot:3, sub:{pwr:18,shl:80,rng:300,spd:100,itv:1000},comment:["チューン可否不明"]}
-{id:174,name:"ウィンベルαLG",size:"S",type:"s",cost:45,hp:25,wlk:3,fly:1,tgh:1, slot:3,comment:["チューン可否不明"]}
-{id:205,name:"ウルメリーLG",size:"S",type:"lacs",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
-{id:215,name:"エースブレイバーLG",size:"S",type:"lacs",cost:45,hp:25,wlk:2,fly:1,tgh:2, slot:3}
-{id:241,name:"オウカLG",size:"S",type:"l",cost:45,hp:25,str:1,wlk:3,tgh:2, slot:3, joint:{bs:1},comment:["BS増設可能"]}
-{id:254,name:"オルフェノスLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3, slot:3}
-{id:281,name:"カメンティスLG",size:"S",type:"lacs",cost:40,hp:20,str:2,wlk:2,tgh:1, slot:3}
-{id:301,name:"キャノンボールHLLG",size:"S",type:"lacs",cost:45,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
-{id:302,name:"キャノンボールLG",size:"S",type:"c",cost:40,hp:20,tec:1,wlk:3,fly:-1,tgh:2, slot:3}
-{id:341,name:"クリムローゼαLG",size:"S",type:"a",cost:85,hp:50,str:1,tec:2,wlk:3,fly:3,tgh:1, slot:3, joint:{wp:2}, fixedParts:{wp : ["クリムローゼαBS","クリムローゼαBS"] },comment:["クリムローゼαBSは武器パーツとしてます"]}
-{id:372,name:"クロスラプターLG",size:"S",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1, slot:3}
-{id:461,name:"ジークンロンαLG",size:"S",type:"l",cost:145,hp:25,str:2,tec:-1,wlk:3,tgh:1, slot:3,comment:["チューン可否不明"]}
-{id:513,name:"シャインバスターLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1, slot:3}
-{id:518,name:"シャインバトラーLG",size:"S",type:"lacs",cost:45,hp:25,wlk:3,fly:1,tgh:2, slot:3}
-{id:607,name:"セラフクリムローゼαLG",size:"S",type:"a",cost:135,hp:50,str:1,tec:2,wlk:3,fly:4, slot:3, joint:{wp:2}, sub:{pwr:22,shl:100,rng:275,spd:350,itv:1000,tec:100}, fixedParts:{wp : ["セラフクリムローゼαBS","セラフクリムローゼαBS"] },comment:["チューン可否不明"]}
-{id:615,name:"ゼロセイバーLG",size:"S",type:"lacs",cost:45,hp:25,tec:1,wlk:2,tgh:2, slot:3}
-{id:625,name:"ゼロファイターLG",size:"S",type:"lacs",cost:40,hp:20,tec:1,wlk:3,tgh:1, slot:3}
-{id:630,name:"ゼロファイターNEXTLG",size:"S",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2, slot:3}
-{id:652,name:"ソードウィングLG",size:"S",type:"lacs",cost:40,hp:20,wlk:3,fly:1,tgh:1, slot:3}
-{id:653,name:"ソードウィングLG2",size:"S",type:"lacs",cost:40,hp:20,tec:2,wlk:2,tgh:1, slot:3}
-{id:665,name:"ソルボルカノウィングLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:1, slot:3}
-{id:694,name:"タラントリックLG",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:3,fly:1,tgh:1, slot:3}
-{id:698,name:"ダルマスターLG",size:"S",type:"lacs",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
-{id:714,name:"ディカロスLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:2,fly:1, slot:3}
-{id:753,name:"テントリオンLG",size:"S",type:"lacs",cost:40,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1, slot:3}
-{id:778,name:"トノサマランダーLG",size:"S",type:"lacs",cost:45,hp:25,tec:-1,wlk:3,fly:2,tgh:1, slot:3}
-{id:815,name:"ナッツ・ボムリスLG",size:"S",type:"lacs",cost:40,hp:20,tec:2,wlk:3,fly:1,tgh:-1, slot:3}
-{id:867,name:"バタフレアLG",size:"S",type:"a",cost:45,hp:25,tec:-1,wlk:3,fly:1,tgh:2, slot:3}
-{id:885,name:"バルーダLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:2,wlk:2,tgh:1, slot:3,tunable:{pwp:1},comment:["サブは変形後使用可能"]}
-{id:930,name:"ビルダームLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:1, slot:3}
-{id:942,name:"フェアリスLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1, slot:3}
-{id:947,name:"フォースドライブLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:-1,wlk:3,fly:2, slot:3}
-{id:1009,name:"ブルーメLG",size:"S",type:"s",cost:95,hp:25,str:2,tec:-1,wlk:3,tgh:1, slot:3,tunable:{pwp:1}, builtin:{bs:1}, sub:{pwr:28,shl:30,rng:80,spd:70,itv:1000},comment:["BS内蔵","チューン可否不明"]}
-{id:1030,name:"フログランダーLG",size:"S",type:"lacs",cost:40,hp:20,tec:1,wlk:3,fly:1, slot:3}
-{id:1077,name:"ポーンジャーLG",size:"S",type:"lacs",cost:40,hp:20,wlk:3,tgh:2, slot:3}
-{id:1158,name:"ミスティホロウαLG",size:"S",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:1, slot:3}
-{id:1163,name:"ミッサイドLG",size:"S",type:"lacs",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:1, slot:3}
-{id:1208,name:"モールニードスLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,fly:-1,tgh:1, slot:3}
-{id:1212,name:"モグニードLG",size:"S",type:"lacs",cost:40,hp:20,tec:1,wlk:3,tgh:1, slot:3}
-{id:1241,name:"ラズフラムαLG",size:"S",type:"lacs",cost:45,hp:25,tec:1,wlk:3,fly:-1,tgh:2, slot:3, joint:{wp:1},comment:["BS増設可能"]}
-{id:1268,name:"リフィLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:-1,wlk:3,fly:2,tgh:2, slot:3}
-{id:1344,name:"ワンダーズLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2, slot:3}
+{id:30,name:"A.L.E.ラズフラムLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:4,tgh:1, slot:3, joint:{bs:1},comment:["BS増設可能","専用コンバあり"]}
+{id:66,name:"アイシーLG",size:"S",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:2,tgh:-1}
+{id:118,name:"アルテリスLG",size:"S",type:"l",cost:45,hp:25,str:2,wlk:3,tgh:1, slot:3}
+{id:137,name:"アレスターLG",size:"S",type:"s",cost:95,hp:25,str:1,tec:-1,wlk:3,tgh:2, slot:3, sub:{pwr:18,shl:80,rng:300,spd:100,itv:1000},comment:["チューン可否不明"]}
+{id:177,name:"ウィンベルαLG",size:"S",type:"s",cost:45,hp:25,wlk:3,fly:1,tgh:1, slot:3,comment:["チューン可否不明"]}
+{id:206,name:"ウルメリーLG",size:"S",type:"lacs",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
+{id:218,name:"エースブレイバーLG",size:"S",type:"lacs",cost:45,hp:25,wlk:2,fly:1,tgh:2, slot:3}
+{id:253,name:"オウカLG",size:"S",type:"l",cost:45,hp:25,str:1,wlk:3,tgh:2, slot:3, joint:{bs:1},comment:["BS増設可能"]}
+{id:266,name:"オルフェノスLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3, slot:3}
+{id:302,name:"カメンティスLG",size:"S",type:"lacs",cost:40,hp:20,str:2,wlk:2,tgh:1, slot:3}
+{id:325,name:"キャノンボールLG",size:"S",type:"c",cost:40,hp:20,tec:1,wlk:3,fly:-1,tgh:2, slot:3}
+{id:329,name:"キャノンボールHLLG",size:"S",type:"lacs",cost:45,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
+{id:381,name:"クリムローゼαLG",size:"S",type:"a",cost:85,hp:50,str:1,tec:2,wlk:3,fly:3,tgh:1, slot:3, joint:{wp:2}, fixedParts:{wp : ["クリムローゼαBS","クリムローゼαBS"] },comment:["クリムローゼαBSは武器パーツとしてます"]}
+{id:407,name:"クロスラプターLG",size:"S",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1, slot:3}
+{id:522,name:"ジークンロンαLG",size:"S",type:"l",cost:145,hp:25,str:2,tec:-1,wlk:3,tgh:1, slot:3,comment:["チューン可否不明"]}
+{id:569,name:"シャインバスターLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1, slot:3}
+{id:574,name:"シャインバトラーLG",size:"S",type:"lacs",cost:45,hp:25,wlk:3,fly:1,tgh:2, slot:3}
+{id:698,name:"セラフクリムローゼαLG",size:"S",type:"a",cost:135,hp:50,str:1,tec:2,wlk:3,fly:4, slot:3, joint:{wp:2}, sub:{pwr:22,shl:100,rng:275,spd:350,itv:1000,tec:100}, fixedParts:{wp : ["セラフクリムローゼαBS","セラフクリムローゼαBS"] },comment:["チューン可否不明"]}
+{id:706,name:"ゼロセイバーLG",size:"S",type:"lacs",cost:45,hp:25,tec:1,wlk:2,tgh:2, slot:3}
+{id:716,name:"ゼロファイターLG",size:"S",type:"lacs",cost:40,hp:20,tec:1,wlk:3,tgh:1, slot:3}
+{id:722,name:"ゼロファイターNEXTLG",size:"S",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:2, slot:3}
+{id:741,name:"ソードウィングLG",size:"S",type:"lacs",cost:40,hp:20,wlk:3,fly:1,tgh:1, slot:3}
+{id:742,name:"ソードウィングLG2",size:"S",type:"lacs",cost:40,hp:20,tec:2,wlk:2,tgh:1, slot:3}
+{id:763,name:"ソルボルカノウィングLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:1, slot:3}
+{id:792,name:"タラントリックLG",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:3,fly:1,tgh:1, slot:3}
+{id:796,name:"ダルマスターLG",size:"S",type:"lacs",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
+{id:863,name:"ディカロスLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:2,fly:1, slot:3}
+{id:902,name:"テントリオンLG",size:"S",type:"lacs",cost:40,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1, slot:3}
+{id:925,name:"トノサマランダーLG",size:"S",type:"lacs",cost:45,hp:25,tec:-1,wlk:3,fly:2,tgh:1, slot:3}
+{id:967,name:"ナッツ・ボムリスLG",size:"S",type:"lacs",cost:40,hp:20,tec:2,wlk:3,fly:1,tgh:-1, slot:3}
+{id:1029,name:"バタフレアLG",size:"S",type:"a",cost:45,hp:25,tec:-1,wlk:3,fly:1,tgh:2, slot:3}
+{id:1047,name:"バルーダLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:2,wlk:2,tgh:1, slot:3,tunable:{pwp:1},comment:["サブは変形後使用可能"]}
+{id:1101,name:"ビルダームLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:1, slot:3}
+{id:1113,name:"フェアリスLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1, slot:3}
+{id:1118,name:"フォースドライブLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:-1,wlk:3,fly:2, slot:3}
+{id:1192,name:"ブルーメLG",size:"S",type:"s",cost:95,hp:25,str:2,tec:-1,wlk:3,tgh:1, slot:3,tunable:{pwp:1}, builtin:{bs:1}, sub:{pwr:28,shl:30,rng:80,spd:70,itv:1000},comment:["BS内蔵","チューン可否不明"]}
+{id:1211,name:"フログランダーLG",size:"S",type:"lacs",cost:40,hp:20,tec:1,wlk:3,fly:1, slot:3}
+{id:1266,name:"ポーンジャーLG",size:"S",type:"lacs",cost:40,hp:20,wlk:3,tgh:2, slot:3}
+{id:1347,name:"ミスティホロウαLG",size:"S",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:1, slot:3}
+{id:1352,name:"ミッサイドLG",size:"S",type:"lacs",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:1, slot:3}
+{id:1408,name:"モールニードスLG",size:"S",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,fly:-1,tgh:1, slot:3}
+{id:1412,name:"モグニードLG",size:"S",type:"lacs",cost:40,hp:20,tec:1,wlk:3,tgh:1, slot:3}
+{id:1445,name:"ラズフラムαLG",size:"S",type:"lacs",cost:45,hp:25,tec:1,wlk:3,fly:-1,tgh:2, slot:3, joint:{wp:1},comment:["BS増設可能"]}
+{id:1470,name:"リフィLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:-1,wlk:3,fly:2,tgh:2, slot:3}
+{id:1544,name:"ワンダーズLG",size:"S",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:2,fly:1,tgh:2, slot:3}
 
-{group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:4000}
-{id:44,name:"RAMソルジェッターLG",size:"M",type:"a",cost:105,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:26,shl:50,rng:120,spd:250,itv:1000},comment:["チューン可否不明"]}
-{id:96,name:"アクシオンLG",size:"M",type:"l",cost:45,hp:25,str:1,tec:1,wlk:3,fly:2,tgh:-1, slot:3}
-{id:109,name:"アマテウスLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:2,tgh:2, slot:3}
-{id:120,name:"アルバトレオスLG",size:"M",type:"lacs",cost:50,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1, slot:3}
-{id:153,name:"イヅナカムイαLG2",size:"M",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1, slot:3, joint:{bs:1}}
-{id:162,name:"イニトォンLG",size:"M",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1, slot:3}
-{id:169,name:"ウィンドリンクスLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:2,wlk:2,fly:2,tgh:-1, slot:3}
-{id:190,name:"ヴォルテスLG",size:"M",type:"lacs",cost:45,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1, slot:3}
-{id:201,name:"ウミガメンティスLG",size:"M",type:"a",cost:45,hp:25,str:2,tec:1,wlk:3,fly:1,tgh:-1, slot:3}
-{id:225,name:"エスティスLG",size:"M",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1, slot:3}
-{id:247,name:"オーガヒルLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3, slot:3, joint:{bs:1},comment:["BS増設可能"]}
-{id:262,name:"ガシマLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1, slot:3}
-{id:294,name:"ガンアームズLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:3,tgh:1, slot:3}
-{id:359,name:"クレストセイントLG",size:"M",type:"lacs",cost:45,hp:30,wlk:3,fly:1,tgh:2, slot:3}
-{id:384,name:"ゲンブラLG",size:"M",type:"c",cost:45,hp:25,str:1,tec:2,wlk:3,fly:-1,tgh:1, slot:3}
-{id:390,name:"ゴースレイダーLG",size:"M",type:"a",cost:45,hp:25,str:1,wlk:3,tgh:1, slot:3}
-{id:391,name:"ゴースレイダーLG2",size:"M",type:"a",cost:45,hp:25,tec:1,wlk:2,fly:2, slot:3, builtin:{bs:1},comment:["BS内蔵"]}
-{id:397,name:"ゴートランLG",size:"M",type:"l",cost:65,hp:25,str:1,tec:-1,wlk:3,fly:2,tgh:1, slot:3, sub:{pwr:0,rng:120,spd:200,itv:1000}}
-{id:425,name:"サイコクラスターLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:-1,wlk:2,fly:1,tgh:2, slot:3}
-{id:433,name:"サイドロンLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:2,fly:-1,tgh:2, slot:3}
-{id:491,name:"シグマクロックLG",size:"M",type:"s",cost:45,hp:25,str:2,wlk:3, slot:3}
-{id:538,name:"シンビジウムLG",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:3,fly:1, slot:3}
-{id:564,name:"スゼクLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:2,fly:1,tgh:1, slot:3}
-{id:585,name:"セイロンLG",size:"M",type:"a",cost:95,hp:30,str:1,tec:2,wlk:3,fly:2, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:70,spd:85,itv:500},comment:["AURA未対応のためデフォルトで武装ありとしています","チューン可否不明"]}
-{id:591,name:"セバーレイスタッグLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,tgh:1, slot:3}
-{id:659,name:"ソルジェッターLG",size:"M",type:"a",cost:95,hp:25,str:3,tec:-1,wlk:2,fly:1, slot:3,tunable:{pwp:1}, sub:{pwr:34,shl:30,rng:120,spd:220,itv:1000},comment:["チューン可否不明"]}
-{id:746,name:"テツジンガーLG",size:"M",type:"l",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:2, slot:3}
-{id:773,name:"トニトルスLG",size:"M",type:"a",cost:75,hp:25,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,shl:60,rng:100,spd:120,itv:1000},comment:["チューン可否不明"]}
-{id:802,name:"ナイトジャーLG",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1, slot:3}
-{id:838,name:"ハイガクゥーンLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1, slot:3}
-{id:853,name:"バグジーケットLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:2,wlk:3, slot:3}
-{id:905,name:"バンガードLG",size:"M",type:"l",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:1, slot:3}
-{id:910,name:"ビートランダーLG",size:"M",type:"lacs",cost:45,hp:25,str:2,tec:1,wlk:2, slot:3}
-{id:920,name:"ビクトールLG",size:"M",type:"c",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:1, slot:3}
-{id:925,name:"ビャッコウLG",size:"M",type:"s",cost:45,hp:25,str:1,wlk:4,tgh:1, slot:3}
-{id:935,name:"フィザリバンLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3, slot:3}
-{id:973,name:"ブラディスターLG",size:"M",type:"c",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1, slot:3, sub:{pwr:0,shl:25,rng:100,spd:200,itv:600},comment:["チューン可否不明"]}
-{id:989,name:"ブリッツェルトLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:3,fly:1,tgh:-1, slot:3}
-{id:990,name:"ブリッツェルトLG2",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:1, slot:3}
-{id:995,name:"ブリンクLG",size:"M",type:"c",cost:45,hp:25,tec:2,wlk:3,fly:1, slot:3}
-{id:1057,name:"ヘラクビートランダーLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:2, slot:3}
-{id:1083,name:"ホバリオンLG",size:"M",type:"lacs",cost:45,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:1, slot:3}
-{id:1089,name:"ホプリテスLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:2,fly:1, slot:3}
-{id:1124,name:"マッハナイトLG",size:"M",type:"lacs",cost:45,hp:25,wlk:3,fly:1,tgh:1, slot:3}
-{id:1144,name:"マンティサイスLG",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:2,tgh:-1, slot:3, joint:{bs:1},comment:["BS増設可能"]}
-{id:1149,name:"ミカドマックスLG",size:"M",type:"lacs",cost:45,hp:25,tec:1,wlk:3,fly:1, slot:3}
-{id:1168,name:"メカジェッターLG",size:"M",type:"a",cost:85,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1, slot:3, sub:{pwr:24,shl:60,rng:120,spd:220,itv:1000}}
-{id:1187,name:"メディージャーLG",size:"M",type:"lacs",cost:40,hp:20,str:1,wlk:2,fly:-1,tgh:3, slot:3}
-{id:1221,name:"ライオスLG",size:"M",type:"a",cost:25,hp:1,tec:3,fly:2, slot:3}
-{id:1249,name:"ラムダイバーLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:1,tgh:-1, slot:3}
-{id:1263,name:"ランドスLG",size:"M",type:"l",cost:45,hp:30,tec:2,wlk:4,fly:-1,tgh:1, slot:3}
-{id:1279,name:"リリレインαLG",size:"M",type:"c",cost:45,hp:25,tec:1,wlk:2,fly:1,tgh:1, slot:3}
-{id:1298,name:"ルクスLG",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:2,fly:2,tgh:1, slot:3}
-{id:1304,name:"ルッカ・デーコLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:3,tgh:3, slot:3}
-{id:1318,name:"レイスタッグLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:2,wlk:2,fly:-1,tgh:1, slot:3}
-{id:1337,name:"ワニガメンティスLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2, slot:3}
+{group:"Ｍサイズ",prefixId:"M",commonStat:{size:"M",type:""},nextId:0}
+{id:41,name:"RAMソルジェッターLG",size:"M",type:"a",cost:105,hp:25,str:2,tec:-1,wlk:2,fly:2,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:26,shl:50,rng:120,spd:250,itv:1000},comment:["チューン可否不明"]}
+{id:95,name:"アクシオンLG",size:"M",type:"l",cost:45,hp:25,str:1,tec:1,wlk:3,fly:2,tgh:-1, slot:3}
+{id:107,name:"アマテウスLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:2,tgh:2, slot:3}
+{id:123,name:"アルバトレオスLG",size:"M",type:"lacs",cost:50,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1, slot:3}
+{id:158,name:"イヅナカムイαLG2",size:"M",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1,tgh:1, slot:3, joint:{bs:1}}
+{id:167,name:"イニトォンLG",size:"M",type:"a",cost:45,hp:25,tec:1,wlk:3,fly:1, slot:3}
+{id:172,name:"ウィンドリンクスLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:2,wlk:2,fly:2,tgh:-1, slot:3}
+{id:191,name:"ヴォルテスLG",size:"M",type:"lacs",cost:45,hp:30,str:1,tec:1,wlk:3,fly:2,tgh:-1, slot:3}
+{id:202,name:"ウミガメンティスLG",size:"M",type:"a",cost:45,hp:25,str:2,tec:1,wlk:3,fly:1,tgh:-1, slot:3}
+{id:228,name:"エスティスLG",size:"M",type:"l",cost:45,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1, slot:3}
+{id:261,name:"オーガヒルLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,wlk:2,fly:2,tgh:3, slot:3, joint:{bs:1},comment:["BS増設可能"]}
+{id:278,name:"ガシマLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1, slot:3}
+{id:315,name:"ガンアームズLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:3,tgh:1, slot:3}
+{id:393,name:"クレストセイントLG",size:"M",type:"lacs",cost:45,hp:30,wlk:3,fly:1,tgh:2, slot:3}
+{id:420,name:"ゲンブラLG",size:"M",type:"c",cost:45,hp:25,str:1,tec:2,wlk:3,fly:-1,tgh:1, slot:3}
+{id:431,name:"ゴースレイダーLG",size:"M",type:"a",cost:45,hp:25,str:1,wlk:3,tgh:1, slot:3}
+{id:432,name:"ゴースレイダーLG2",size:"M",type:"a",cost:45,hp:25,tec:1,wlk:2,fly:2, slot:3, builtin:{bs:1},comment:["BS内蔵"]}
+{id:438,name:"ゴートランLG",size:"M",type:"l",cost:65,hp:25,str:1,tec:-1,wlk:3,fly:2,tgh:1, slot:3, sub:{pwr:0,rng:120,spd:200,itv:1000}}
+{id:469,name:"サイコクラスターLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:-1,wlk:2,fly:1,tgh:2, slot:3}
+{id:477,name:"サイドロンLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:2,fly:-1,tgh:2, slot:3}
+{id:547,name:"シグマクロックLG",size:"M",type:"s",cost:45,hp:25,str:2,wlk:3, slot:3}
+{id:623,name:"シンビジウムLG",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:3,fly:1, slot:3}
+{id:648,name:"スコルタンLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3, slot:3}
+{id:653,name:"スゼクLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:2,fly:1,tgh:1, slot:3}
+{id:681,name:"セイロンLG",size:"M",type:"a",cost:95,hp:30,str:1,tec:2,wlk:3,fly:2, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:70,spd:85,itv:500},comment:["AURA未対応のためデフォルトで武装ありとしています","チューン可否不明"]}
+{id:687,name:"セバーレイスタッグLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,tgh:1, slot:3}
+{id:758,name:"ソルジェッターLG",size:"M",type:"a",cost:95,hp:25,str:3,tec:-1,wlk:2,fly:1, slot:3,tunable:{pwp:1}, sub:{pwr:34,shl:30,rng:120,spd:220,itv:1000},comment:["チューン可否不明"]}
+{id:875,name:"デジトロイドLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:3,tgh:1, slot:3}
+{id:897,name:"テツジンガーLG",size:"M",type:"l",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:2, slot:3}
+{id:920,name:"トニトルスLG",size:"M",type:"a",cost:75,hp:25,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,shl:60,rng:100,spd:120,itv:1000},comment:["チューン可否不明"]}
+{id:952,name:"ナイトジャーLG",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1, slot:3}
+{id:990,name:"ハイガクゥーンLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1, slot:3}
+{id:1005,name:"バグジーケットLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:2,wlk:3, slot:3}
+{id:1067,name:"バンガードLG",size:"M",type:"l",cost:45,hp:25,str:2,tec:-1,wlk:3,tgh:1, slot:3}
+{id:1072,name:"ビートランダーLG",size:"M",type:"lacs",cost:45,hp:25,str:2,tec:1,wlk:2, slot:3}
+{id:1081,name:"ビクトールLG",size:"M",type:"c",cost:45,hp:25,str:-1,tec:2,wlk:3,tgh:1, slot:3}
+{id:1086,name:"ビクトリーLG",size:"M",type:"lacs",cost:40,hp:20,str:1,wlk:3,tgh:1, slot:3}
+{id:1096,name:"ビャッコウLG",size:"M",type:"s",cost:45,hp:25,str:1,wlk:4,tgh:1, slot:3}
+{id:1106,name:"フィザリバンLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3, slot:3}
+{id:1163,name:"ブラディスターLG",size:"M",type:"c",cost:70,hp:25,tec:2,wlk:2,fly:1,tgh:1, slot:3, sub:{pwr:0,shl:25,rng:100,spd:200,itv:600},comment:["チューン可否不明"]}
+{id:1179,name:"ブリッツェルトLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:3,fly:1,tgh:-1, slot:3}
+{id:1180,name:"ブリッツェルトLG2",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:-1,tgh:1, slot:3}
+{id:1185,name:"ブリンクLG",size:"M",type:"c",cost:45,hp:25,tec:2,wlk:3,fly:1, slot:3}
+{id:1240,name:"ヘラクビートランダーLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:2,tgh:2, slot:3}
+{id:1271,name:"ホバリオンLG",size:"M",type:"lacs",cost:45,hp:30,str:-1,tec:1,wlk:3,fly:1,tgh:1, slot:3}
+{id:1277,name:"ホプリテスLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:2,fly:1, slot:3}
+{id:1313,name:"マッハナイトLG",size:"M",type:"lacs",cost:45,hp:25,wlk:3,fly:1,tgh:1, slot:3}
+{id:1335,name:"マンティサイスLG",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:2,tgh:-1, slot:3, joint:{bs:1},comment:["BS増設可能"]}
+{id:1340,name:"ミカドマックスLG",size:"M",type:"lacs",cost:45,hp:25,tec:1,wlk:3,fly:1, slot:3}
+{id:1365,name:"メカジェッターLG",size:"M",type:"a",cost:85,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1, slot:3, sub:{pwr:24,shl:60,rng:120,spd:220,itv:1000}}
+{id:1391,name:"メディージャーLG",size:"M",type:"lacs",cost:40,hp:20,str:1,wlk:2,fly:-1,tgh:3, slot:3}
+{id:1424,name:"ライオスLG",size:"M",type:"a",cost:25,hp:1,tec:3,fly:2, slot:3}
+{id:1451,name:"ラムダイバーLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,fly:1,tgh:-1, slot:3}
+{id:1465,name:"ランドスLG",size:"M",type:"l",cost:45,hp:30,tec:2,wlk:4,fly:-1,tgh:1, slot:3}
+{id:1480,name:"リリレインαLG",size:"M",type:"c",cost:45,hp:25,tec:1,wlk:2,fly:1,tgh:1, slot:3}
+{id:1497,name:"ルクスLG",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:2,fly:2,tgh:1, slot:3}
+{id:1503,name:"ルッカ・デーコLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:3,tgh:3, slot:3}
+{id:1518,name:"レイスタッグLG",size:"M",type:"lacs",cost:45,hp:25,str:1,tec:2,wlk:2,fly:-1,tgh:1, slot:3}
+{id:1537,name:"ワニガメンティスLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2, slot:3}
 
-{group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:6000}
-{id:58,name:"アーティラスLG",size:"L",type:"c",cost:90,hp:25,str:-1,tec:3,wlk:3,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},comment:["チューン可否不明"]}
-{id:83,name:"アクイーアLG",size:"L",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:1, slot:3, joint:{bs:1}}
-{id:103,name:"アハトジーベンLG",size:"L",type:"lacs",cost:45,hp:70,tec:1,wlk:5,fly:-2,tgh:1, slot:3}
-{id:125,name:"アルマダLG",size:"L",type:"a",cost:125,hp:70,str:-1,tec:1,wlk:3,fly:2, slot:3, joint:{wp:1}, fixedParts:{wp : "アルマダLG@" }}
-{id:141,name:"アントリオンLG",size:"L",type:"c",cost:45,hp:60,tec:1,wlk:3,fly:1,tgh:2, slot:3}
-{id:142,name:"アントリオンLG2",size:"L",type:"lc",cost:95,hp:60,str:-1,wlk:4,fly:1,tgh:1, slot:3, sub:{pwr:20,rng:100,spd:100,itv:1000},comment:["チューン可否不明"]}
-{id:182,name:"ウォーダスLG",size:"L",type:"lacs",cost:45,hp:25,str:2,tec:1,wlk:3,fly:-1, slot:3}
-{id:196,name:"ヴォルフライエLG",size:"L",type:"lacs",cost:45,hp:45,str:1,tec:-1,wlk:3,fly:1,tgh:2, slot:3}
-{id:219,name:"エスカゴットLG",size:"L",type:"lacs",cost:40,hp:70,wlk:3,fly:2, slot:3, builtin:{bs:1},comment:["BS内蔵"]}
-{id:276,name:"ガナハウンドLG",size:"L",type:"lacs",cost:45,hp:50,str:1,wlk:3,tgh:1, slot:3}
-{id:287,name:"ガルラバードLG",size:"L",type:"a",cost:100,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:120,spd:250,itv:1000}}
-{id:308,name:"ギャランバルドLG",size:"L",type:"lacs",cost:50,hp:55,wlk:2,tgh:4}
-{id:317,name:"クシュルブLG",size:"L",type:"l",cost:145,hp:50,str:1,wlk:4,fly:-1,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:84,spd:102,itv:1000},comment:["チューン可否不明"]}
-{id:364,name:"クロコダガーLG",size:"L",type:"lacs",cost:45,hp:45,tec:-1,wlk:3,fly:2,tgh:1, slot:3}
-{id:407,name:"コスモカイザーLG",size:"L",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1, slot:3}
-{id:408,name:"コスモカイザーLG2",size:"L",type:"lacs",cost:50,hp:35,str:-1,tec:1,wlk:3,fly:1,tgh:2, slot:3}
-{id:419,name:"コントラディクトLG",size:"L",type:"lacs",cost:50,hp:30,str:1,tec:-1,wlk:3,fly:1,tgh:2, slot:3}
-{id:447,name:"サジタルマクシスLG",size:"L",type:"lacs",cost:50,hp:60,tec:1,wlk:4,tgh:1, slot:3}
-{id:453,name:"ジーウェインLG",size:"L",type:"lacs",cost:50,hp:40,str:1,tec:1,wlk:3,tgh:1, slot:3}
-{id:472,name:"シェイデンLG",size:"L",type:"lacs",cost:45,hp:45,str:1,tec:2,wlk:2,tgh:1, slot:3}
-{id:485,name:"ジオグラシスLG",size:"L",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:4, slot:3}
-{id:484,name:"ジオグラシスLG2",size:"L",type:"a",cost:45,hp:25,tec:2,wlk:1,fly:3, slot:3}
-{id:527,name:"シュトルバンガーLG",size:"L",type:"lacs",cost:45,hp:50,tec:1,wlk:2,fly:1,tgh:2, slot:3}
-{id:556,name:"スケアガントLG",size:"L",type:"lacs",cost:45,hp:25,wlk:2,fly:1,tgh:3, slot:3}
-{id:572,name:"スチールバーンLG",size:"L",type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3, slot:3, joint:{wp:1}, fixedParts:{wp : "スチールバーンLG@" },comment:["BS増設可能"]}
-{id:636,name:"ゼロブレイカーLG",size:"L",type:"lacs",cost:45,hp:30,tec:-1,wlk:4,fly:1,tgh:2, slot:3}
-{id:645,name:"ソア・ラLG",size:"L",type:"a",cost:40,hp:30,tec:1,wlk:1,fly:1,tgh:3, slot:3, joint:{lg:1},comment:["BS増設可能"]}
-{id:671,name:"ダイダリオンLG",size:"L",type:"lacs",cost:50,hp:35,str:2,tec:-1,wlk:3,fly:1,tgh:1, slot:3}
-{id:679,name:"ダイモンLG",size:"L",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:2,tgh:-1, slot:3}
-{id:690,name:"ダゴミュールLG",size:"L",type:"lacs",cost:45,hp:25,wlk:4,fly:-1,tgh:2, slot:3}
-{id:708,name:"ディースモークLG",size:"L",type:"lacs",cost:45,hp:25,wlk:3,fly:-1,tgh:3, slot:3}
-{id:731,name:"デストラクトLG",size:"L",type:"lacs",cost:45,hp:40,str:1,tec:1,wlk:2,tgh:2, slot:3}
-{id:736,name:"デストラクトMAXLG",size:"L",type:"lacs",cost:50,hp:45,str:1,tec:1,wlk:2,fly:-1,tgh:3, slot:3}
-{id:759,name:"トイボックスLG",size:"L",type:"lacs",cost:50,hp:60,wlk:3,tgh:3, slot:3}
-{id:783,name:"ドラゴネイルLG",size:"L",type:"lacs",cost:45,hp:25,str:2,wlk:3,fly:-1,tgh:2, slot:3}
-{id:788,name:"ドラッケンLG",size:"L",type:"lacs",cost:45,hp:25,str:2,wlk:3,tgh:1, slot:3}
-{id:862,name:"パシファールLG",size:"L",type:"a",cost:45,hp:25,tec:1,wlk:1,fly:4, slot:3}
-{id:881,name:"バフデバスターLG",size:"L",type:"s",cost:45,hp:30,str:-1,tec:1,wlk:3,tgh:3, slot:3}
-{id:892,name:"パルサーディオLG",size:"L",type:"lacs",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:2, slot:3}
-{id:899,name:"バルテオンLG",size:"L",type:"lacs",cost:50,hp:80,str:-1,tec:1,wlk:2,fly:2,tgh:2, slot:3}
-{id:966,name:"フラクタリスLG",size:"L",type:"c",cost:145,hp:70,str:-1,tec:2,wlk:3,fly:1, slot:3, sub:{pwr:10,rng:280,spd:380,itv:1000}}
-{id:1019,name:"ブレイズバロンLG",size:"L",type:"lacs",cost:45,hp:65,str:1,tec:1,wlk:3,fly:1, slot:3}
-{id:1024,name:"プレデトバイツLG",size:"L",type:"lacs",cost:45,hp:70,wlk:3,fly:2,tgh:1, slot:3}
-{id:1035,name:"ベクターLG",size:"L",type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:100,spd:160,itv:1000},comment:["チューン可否不明"]}
-{id:1041,name:"ヘケトケレスLG",size:"L",type:"c",cost:70,hp:55,tec:1,wlk:2,fly:2,tgh:1, slot:3, sub:{pwr:0,shl:30,rng:100,spd:150,itv:1000}}
-{id:1042,name:"ヘケトケレスLG2",size:"L",type:"c",cost:70,hp:65,wlk:3,fly:1,tgh:2, slot:3, sub:{pwr:0,shl:30,rng:100,spd:260,itv:1000},comment:["チューン可否不明"]}
-{id:1068,name:"ペルセシウスLG",size:"L",type:"a",cost:70,hp:65,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,shl:50,rng:100,spd:135,itv:1000}}
-{id:1101,name:"マイティバインLG",size:"L",type:"l",cost:90,hp:65,str:1,wlk:3,fly:-1,tgh:3, slot:3,comment:["盾耐久値不明"]}
-{id:1115,name:"マイトボンバーLG",size:"L",type:"lacs",cost:45,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
-{id:1216,name:"ラークピットLG",size:"L",type:"a",cost:75,hp:25,str:1,tec:1,wlk:3,fly:1,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:120,spd:220,itv:2500}}
-{id:1258,name:"ランサーロットLG",size:"L",type:"lacs",cost:50,hp:50,str:1,tec:1,wlk:4, slot:3}
-{id:1328,name:"ロトンレムレスLG",size:"L",type:"lacs",cost:45,hp:25,str:2,tec:2,wlk:2,fly:-1, slot:3}
+{group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:0}
+{id:55,name:"アーティラスLG",size:"L",type:"c",cost:90,hp:25,str:-1,tec:3,wlk:3,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},comment:["チューン可否不明"]}
+{id:81,name:"アクイーアLG",size:"L",type:"a",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:1, slot:3, joint:{bs:1}}
+{id:101,name:"アハトジーベンLG",size:"L",type:"lacs",cost:45,hp:70,tec:1,wlk:5,fly:-2,tgh:1, slot:3}
+{id:128,name:"アルマダLG",size:"L",type:"a",cost:125,hp:70,str:-1,tec:1,wlk:3,fly:2, slot:3, joint:{wp:1}, fixedParts:{wp : "アルマダLG@" }}
+{id:146,name:"アントリオンLG",size:"L",type:"c",cost:45,hp:60,tec:1,wlk:3,fly:1,tgh:2, slot:3}
+{id:147,name:"アントリオンLG2",size:"L",type:"lc",cost:95,hp:60,str:-1,wlk:4,fly:1,tgh:1, slot:3, sub:{pwr:20,rng:100,spd:100,itv:1000},comment:["チューン可否不明"]}
+{id:185,name:"ウォーダスLG",size:"L",type:"lacs",cost:45,hp:25,str:2,tec:1,wlk:3,fly:-1, slot:3}
+{id:197,name:"ヴォルフライエLG",size:"L",type:"lacs",cost:45,hp:45,str:1,tec:-1,wlk:3,fly:1,tgh:2, slot:3}
+{id:222,name:"エスカゴットLG",size:"L",type:"lacs",cost:40,hp:70,wlk:3,fly:2, slot:3, builtin:{bs:1},comment:["BS内蔵"]}
+{id:285,name:"カタロスLG",size:"L",type:"a",cost:75,hp:70,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,shl:30,rng:0,spd:0,itv:1000}}
+{id:297,name:"ガナハウンドLG",size:"L",type:"lacs",cost:45,hp:50,str:1,wlk:3,tgh:1, slot:3}
+{id:308,name:"ガルラバードLG",size:"L",type:"a",cost:100,hp:25,str:-1,tec:2,wlk:3,fly:1,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:120,spd:250,itv:1000}}
+{id:321,name:"ギガトンオーLG",size:"L",type:"lacs",cost:45,hp:25,str:2,wlk:3,fly:-1,tgh:2, slot:3}
+{id:335,name:"ギャランバルドLG",size:"L",type:"lacs",cost:50,hp:55,wlk:2,tgh:4}
+{id:362,name:"クシュルブLG",size:"L",type:"l",cost:145,hp:50,str:1,wlk:4,fly:-1,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:84,spd:102,itv:1000},comment:["チューン可否不明"]}
+{id:397,name:"クロコダガーLG",size:"L",type:"lacs",cost:45,hp:45,tec:-1,wlk:3,fly:2,tgh:1, slot:3}
+{id:448,name:"コスモカイザーLG",size:"L",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:3,tgh:1, slot:3}
+{id:449,name:"コスモカイザーLG2",size:"L",type:"lacs",cost:50,hp:35,str:-1,tec:1,wlk:3,fly:1,tgh:2, slot:3}
+{id:463,name:"コントラディクトLG",size:"L",type:"lacs",cost:50,hp:30,str:1,tec:-1,wlk:3,fly:1,tgh:2, slot:3}
+{id:501,name:"サジタルマクシスLG",size:"L",type:"lacs",cost:50,hp:60,tec:1,wlk:4,tgh:1, slot:3}
+{id:514,name:"ジーウェインLG",size:"L",type:"lacs",cost:50,hp:40,str:1,tec:1,wlk:3,tgh:1, slot:3}
+{id:529,name:"シェイデンLG",size:"L",type:"lacs",cost:45,hp:45,str:1,tec:2,wlk:2,tgh:1, slot:3}
+{id:540,name:"ジオグラシスLG",size:"L",type:"lacs",cost:45,hp:25,str:1,tec:1,wlk:4, slot:3}
+{id:541,name:"ジオグラシスLG2",size:"L",type:"a",cost:45,hp:25,tec:2,wlk:1,fly:3, slot:3}
+{id:583,name:"シュトルバンガーLG",size:"L",type:"lacs",cost:45,hp:50,tec:1,wlk:2,fly:1,tgh:2, slot:3}
+{id:641,name:"スケアガントLG",size:"L",type:"lacs",cost:45,hp:25,wlk:2,fly:1,tgh:3, slot:3}
+{id:660,name:"スチールバーンLG",size:"L",type:"a",cost:45,hp:40,str:-1,tec:1,wlk:2,fly:1,tgh:3, slot:3, joint:{wp:1}, fixedParts:{wp : "スチールバーンLG@" },comment:["BS増設可能"]}
+{id:666,name:"スチールライダーLG2",size:"L",type:"lacs",cost:45,hp:45,tec:1,wlk:5,fly:-1, slot:3}
+{id:728,name:"ゼロブレイカーLG",size:"L",type:"lacs",cost:45,hp:30,tec:-1,wlk:4,fly:1,tgh:2, slot:3}
+{id:734,name:"ソア・ラLG",size:"L",type:"a",cost:40,hp:30,tec:1,wlk:1,fly:1,tgh:3, slot:3, joint:{lg:1},comment:["BS増設可能"]}
+{id:769,name:"ダイダリオンLG",size:"L",type:"lacs",cost:50,hp:35,str:2,tec:-1,wlk:3,fly:1,tgh:1, slot:3}
+{id:777,name:"ダイモンLG",size:"L",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:2,tgh:-1, slot:3}
+{id:788,name:"ダゴミュールLG",size:"L",type:"lacs",cost:45,hp:25,wlk:4,fly:-1,tgh:2, slot:3}
+{id:857,name:"ディースモークLG",size:"L",type:"lacs",cost:45,hp:25,wlk:3,fly:-1,tgh:3, slot:3}
+{id:882,name:"デストラクトLG",size:"L",type:"lacs",cost:45,hp:40,str:1,tec:1,wlk:2,tgh:2, slot:3}
+{id:887,name:"デストラクトMAXLG",size:"L",type:"lacs",cost:50,hp:45,str:1,tec:1,wlk:2,fly:-1,tgh:3, slot:3}
+{id:908,name:"トイボックスLG",size:"L",type:"lacs",cost:50,hp:60,wlk:3,tgh:3, slot:3}
+{id:930,name:"ドラゴネイルLG",size:"L",type:"lacs",cost:45,hp:25,str:2,wlk:3,fly:-1,tgh:2, slot:3}
+{id:935,name:"ドラッケンLG",size:"L",type:"lacs",cost:45,hp:25,str:2,wlk:3,tgh:1, slot:3}
+{id:1012,name:"ハクメンスクナLG",size:"L",type:"a",cost:105,hp:50,wlk:2,fly:3,tgh:1, slot:3, joint:{wp:2}, builtin:{bs:1}, sub:{pwr:0,shl:40,rng:0,spd:150,itv:1000}, fixedParts:{wp : ["ハクメンスクナLG@","ハクメンスクナLG@"] },comment:["【因果】コイン景品","BS内蔵"]}
+{id:1024,name:"パシファールLG",size:"L",type:"a",cost:45,hp:25,tec:1,wlk:1,fly:4, slot:3}
+{id:1043,name:"バフデバスターLG",size:"L",type:"s",cost:45,hp:30,str:-1,tec:1,wlk:3,tgh:3, slot:3}
+{id:1054,name:"パルサーディオLG",size:"L",type:"lacs",cost:50,hp:60,tec:1,wlk:2,fly:1,tgh:2, slot:3}
+{id:1061,name:"バルテオンLG",size:"L",type:"lacs",cost:50,hp:80,str:-1,tec:1,wlk:2,fly:2,tgh:2, slot:3}
+{id:1091,name:"ビッグマンテスLG2",size:"L",type:"a",cost:90,hp:70,tec:1,wlk:3,fly:2, slot:3, sub:{pwr:0,shl:100,rng:0,spd:60,itv:1000},comment:["チューン可否不明"]}
+{id:1140,name:"フラクタリスLG",size:"L",type:"c",cost:145,hp:70,str:-1,tec:2,wlk:3,fly:1, slot:3, sub:{pwr:10,rng:280,spd:380,itv:1000}}
+{id:1201,name:"ブレイズバロンLG",size:"L",type:"lacs",cost:45,hp:65,str:1,tec:1,wlk:3,fly:1, slot:3}
+{id:1206,name:"プレデトバイツLG",size:"L",type:"lacs",cost:45,hp:70,wlk:3,fly:2,tgh:1, slot:3}
+{id:1218,name:"ベクターLG",size:"L",type:"a",cost:85,hp:45,tec:2,wlk:3,fly:2,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:100,spd:160,itv:1000},comment:["チューン可否不明"]}
+{id:1224,name:"ヘケトケレスLG",size:"L",type:"c",cost:70,hp:55,tec:1,wlk:2,fly:2,tgh:1, slot:3, sub:{pwr:0,shl:30,rng:100,spd:150,itv:1000}}
+{id:1225,name:"ヘケトケレスLG2",size:"L",type:"c",cost:70,hp:65,wlk:3,fly:1,tgh:2, slot:3, sub:{pwr:0,shl:30,rng:100,spd:260,itv:1000},comment:["チューン可否不明"]}
+{id:1261,name:"ペルセシウスLG",size:"L",type:"a",cost:70,hp:65,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,shl:50,rng:100,spd:135,itv:1000}}
+{id:1285,name:"マイティバインLG",size:"L",type:"l",cost:90,hp:65,str:1,wlk:3,fly:-1,tgh:3, slot:3,comment:["盾耐久値不明"]}
+{id:1304,name:"マイトボンバーLG",size:"L",type:"lacs",cost:45,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
+{id:1375,name:"メガトンオーLG",size:"L",type:"lacs",cost:40,hp:20,str:1,wlk:2,tgh:2, slot:3}
+{id:1419,name:"ラークピットLG",size:"L",type:"a",cost:75,hp:25,str:1,tec:1,wlk:3,fly:1,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:120,spd:220,itv:2500}}
+{id:1460,name:"ランサーロットLG",size:"L",type:"lacs",cost:50,hp:50,str:1,tec:1,wlk:4, slot:3}
+{id:1528,name:"ロトンレムレスLG",size:"L",type:"lacs",cost:45,hp:25,str:2,tec:2,wlk:2,fly:-1, slot:3}
 
-{group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:6000}
-{id:271,name:"ガデロガLG",size:"LL",type:"lacs",cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3, slot:3, joint:{bs:1},comment:["BS増設可能"]}
-{id:498,name:"シノ・イクスロードLG",size:"LL",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:150,spd:150,itv:1000},comment:["BS増設可能"]}
-{id:499,name:"シノ・イクスロードLG3",size:"LL",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:1000},comment:["BS接続可能","チューン可否不明"]}
-{id:979,name:"ブリガバロンLG",size:"LL",type:"lacs",cost:50,hp:70,str:1,tec:-1,wlk:3,tgh:3, slot:3}
-{id:1120,name:"マシンドレッドLG",size:"LL",type:"l",cost:50,hp:70,str:2,wlk:3,fly:-1,tgh:2, slot:3}
-{id:1236,name:"ラグナバレッドLG",size:"LL",type:"lacs",cost:50,hp:60,wlk:4,tgh:2, slot:3}
-{id:1323,name:"ロッソアスピーデLG",size:"LL",type:"a",cost:115,hp:80,str:-1,tec:2,wlk:2,fly:6,tgh:2, slot:3, builtin:{bs:1}, sub:{pwr:0,shl:60,rng:150,spd:150,itv:1000},comment:["BS内蔵？","チューン可否不明"]}
+{group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:0}
+{id:292,name:"ガデロガLG",size:"LL",type:"lacs",cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3, slot:3, joint:{bs:1},comment:["BS増設可能"]}
+{id:552,name:"シノ・イクスロードLG",size:"LL",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:150,spd:150,itv:1000},comment:["BS増設可能"]}
+{id:555,name:"シノ・イクスロードLG3",size:"LL",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:1000},comment:["BS接続可能","チューン可否不明"]}
+{id:1169,name:"ブリガバロンLG",size:"LL",type:"lacs",cost:50,hp:70,str:1,tec:-1,wlk:3,tgh:3, slot:3}
+{id:1309,name:"マシンドレッドLG",size:"LL",type:"l",cost:50,hp:70,str:2,wlk:3,fly:-1,tgh:2, slot:3}
+{id:1440,name:"ラグナバレッドLG",size:"LL",type:"lacs",cost:50,hp:60,wlk:4,tgh:2, slot:3}
+{id:1523,name:"ロッソアスピーデLG",size:"LL",type:"a",cost:115,hp:80,str:-1,tec:2,wlk:2,fly:6,tgh:2, slot:3, builtin:{bs:1}, sub:{pwr:0,shl:60,rng:150,spd:150,itv:1000},comment:["BS内蔵？","チューン可否不明"]}
+
+{group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:0}
+{id:747,name:"LGJ",size:"M",type:"lacs", slot:1, jointPart:1,comment:["仮ジョイント","あとでけすかも"]}
+{id:1007,name:"キュウビLGJ",size:"M",type:"lacs",cost:10,hp:5, slot:1,comment:["【因果】コイン景品","α、βステータス同じ"]}
+{id:593,name:"スネイルボムLGJ",size:"M",type:"s",cost:80,tec:2,tgh:-1, slot:1, sub:{pwr:20,shl:400,rng:100,spd:100,itv:1000},comment:["ショップ販売"]}
+{id:605,name:"ミサイルバレルLGJ",size:"L",type:"c",cost:80,tec:1,wlk:-1,fly:-1,tgh:1, slot:1, sub:{pwr:16,shl:160,rng:350,spd:230,itv:1000},comment:["ショップ販売"]}
+{id:608,name:"ラテラルレーザーLGJ",size:"M",type:"s",cost:90,tec:2,fly:-1, slot:1,tunable:{mwp:1}, main:{pwr:3,shl:1560,rng:225,spd:480,itv:100},comment:["ショップ販売"]}
