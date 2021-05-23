@@ -18,8 +18,8 @@
 {id:277,name:"カメンティスAM",size:"S",type:"lacs",cost:35,hp:20,tec:1,wlk:2,tgh:2, slot:3}
 {id:336,name:"クリムローゼαAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1, slot:3}
 {id:337,name:"クリムローゼαAM2",size:"S",type:"a",cost:105,hp:20,str:3,fly:1,tgh:1, slot:3, sub:{pwr:30,rng:70,spd:8,itv:5500}}
-{id:365,name:"クロスラプターAM2",size:"S",type:"a",cost:35,hp:20,str:1,tec:-1,fly:3,tgh:2, slot:3, joint:{wp:1}, fixedParts:{wp : "クロスラプターAM2@" }}
-{id:462,name:"ジークンαAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1, slot:3}
+{id:1355,name:"クロスラプターAM",size:"S",type:"a",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2, slot:3, joint:{wp:2}, fixedParts:{wp : "クロスラプターAM@" }}
+{id:365,name:"クロスラプターAM2",size:"S",type:"a",cost:35,hp:20,str:1,tec:-1,fly:3,tgh:2, slot:3, joint:{wp:2}, fixedParts:{wp : "クロスラプターAM2@" }}{id:462,name:"ジークンαAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1, slot:3}
 {id:509,name:"シャインバスターAM",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
 {id:514,name:"シャインバトラーAM",size:"S",type:"lacs",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1, slot:3}
 {id:608,name:"ゼロセイバーAM",size:"S",type:"lacs",cost:35,hp:20,str:2,tec:1,wlk:1,fly:1, slot:3}

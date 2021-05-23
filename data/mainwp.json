@@ -183,7 +183,7 @@
 {id:1103,name:"A・ミラルBS@",size:"S",type:"lc",cost:100, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:8,shl:500,rng:250,spd:360,itv:440},comment:["A・ミラルBS専用","チューン可否不明"]}
 {id:183,name:"ヴォルケンシールド",size:"S",type:"l",cost:70, slot:3, main:{pwr:14,shl:100,rng:225,spd:320,itv:500}, sub:{pwr:28,rng:100,spd:250,itv:1000},comment:["ナイトジャーAM3専用"]}
 {id:248,name:"オートチャージカセット",size:"S",type:"a",cost:30, slot:0, main:{pwr:28,shl:60,rng:300,spd:480,itv:500},comment:["ステラ用コンバーションパーツ","アウロラキャノン専用"]}
-{id:324,name:"クリーガーシルト",size:"S",type:"a",cost:120, slot:3, joint:{wp:1},tunable:{mwp:1,pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:30,rng:70,spd:85,itv:500}, fixedParts:{wp : "クリーガーシルト@" },comment:["コロナAM専用"]}
+{id:324,name:"クリーガーシルト",size:"S",type:"l",cost:120, slot:3, joint:{wp:1},tunable:{mwp:1,pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:30,rng:70,spd:85,itv:500}, fixedParts:{wp : "クリーガーシルト@" },comment:["コロナAM専用"]}
 {id:360,name:"グロームロッド",size:"S",type:"a",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:540,rng:275,spd:440,itv:300}, sub:{pwr:26,shl:40,rng:0,spd:150,itv:1000},comment:["マルカAM専用"]}
 {id:465,name:"シヴァリーキャノン",size:"S",type:"c",cost:110, slot:3, joint:{wp:1},tunable:{mwp:1}, main:{pwr:17,shl:350,rng:330,spd:290,itv:600}, fixedParts:{wp : "シヴァリーキャノン@" },comment:["ナターシャAM2専用","チューン可否不明"]}
 {id:912,name:"ビームショットカセット",size:"S",type:"a",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:18,shl:420,rng:275,spd:440,itv:300},comment:["ステラ用コンバーションパーツ","アウロラキャノン専用"]}
