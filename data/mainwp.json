@@ -42,7 +42,7 @@
 {id:39,name:"バルカン",size:"L",type:"lcs",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:18,shl:840,rng:110,spd:400,itv:200}}
 {id:40,name:"チェインバルカン",size:"L",type:"lcs",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:960,rng:110,spd:400,itv:200}}
 {id:41,name:"デルタバルカン",size:"LL",type:"l",cost:180, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:1670,rng:90,spd:400,itv:200}}
-{id:42,name:"コンパクトがrとリング",size:"M",type:"lc",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:1080,rng:200,spd:400,itv:140}}
+{id:42,name:"コンパクトガトリング",size:"M",type:"lc",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:1080,rng:200,spd:400,itv:140}}
 {id:43,name:"バスターガトリング",size:"L",type:"l",cost:170, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:1100,rng:200,spd:400,itv:140}}
 {id:44,name:"ヒュージガトリング",size:"LL",type:"l",cost:180, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:1560,rng:225,spd:400,itv:140}}
 {id:45,name:"レイジマシンガン",size:"M",type:"l",cost:120, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:440,rng:160,spd:480,itv:140}}

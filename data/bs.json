@@ -38,7 +38,7 @@
 {id:751,name:"テントリオンBS",size:"S",type:"lacs",cost:35,hp:20,tec:1,wlk:-1,fly:3,tgh:2, slot:3}
 {id:776,name:"トノサマランダーBS",size:"S",type:"l",cost:40,hp:25,wlk:1,fly:3,tgh:1, slot:3}
 {id:800,name:"ナイトジャーBS",size:"S",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1, slot:3}
-{id:807,name:"ナターシャBS",size:"S",type:"c",cost:40,hp:25,tec:-1,wlk:3,fly:3, slot:3}
+{id:807,name:"ナターシャBS",size:"S",type:"c",cost:40,hp:25,wlk:-1,fly:3,tgh:3, slot:3}
 {id:813,name:"ナッツ・ボムリスBS",size:"S",type:"s",cost:105,hp:20,str:-1,tec:2,fly:3,tgh:1, slot:3, sub:{pwr:20,shl:180,rng:275,spd:290,itv:1000},comment:["チューン可否不明"]}
 {id:865,name:"バタフレアBS",size:"S",type:"a",cost:100,hp:25,str:-1,tec:2,wlk:1,fly:3, slot:3,tunable:{pwp:1}, sub:{pwr:26,rng:120,spd:10,itv:1000},comment:["チューン可否不明"]}
 {id:939,name:"フェアリスBS",size:"S",type:"c",cost:40,hp:25,wlk:2,fly:3, slot:3, joint:{wp:1},comment:["コンバーションパーツのみ装備可能"]}
