@@ -2233,7 +2233,7 @@ function autoSetup(ccd){
 	Result.lv = 0;
 	var cStack = [], j=0;
 	$.each(ccd.cartridge, function(){
-		/([^×*]+)([×*]([0-9]))?/(this+"");
+		(this+"").match(/([^×*]+)([×*]([0-9]))?/);
 		var cname = RegExp.$1, num = (RegExp.$3-0) || 1;
 		j += num;
 		if(typeof Master.cartridge[cname] == "object") cname = Master.cartridge[cname].name;
