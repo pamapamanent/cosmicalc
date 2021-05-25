@@ -288,7 +288,7 @@
 {id:187,name:"ヴォルテスAM@",size:"M",type:"a", slot:0, joint:{wp:1}}
 {id:257,name:"オーガヒルAM@",size:"M",type:"c",cost:45, slot:0, main:{pwr:8,shl:420,rng:330,spd:290,itv:600}}
 {id:313,name:"ガンアームズBS@",size:"M",type:"c", slot:0, main:{pwr:16,shl:200,rng:350,spd:520,itv:900}}
-{id:466,name:"サイコクラスターBD@",size:"M",type:"a",cost:120, slot:0, main:{pwr:3,shl:1020,rng:275,spd:315,itv:1000}, sub:{pwr:26,shl:90,rng:275,spd:350,itv:1000}}
+{id:466,name:"サイコクラスターBD@",size:"M",type:"a",cost:120, slot:0, main:{pwr:[3,4,5],shl:1020,rng:[275,285,300],spd:[315,315,375],itv:1000}, sub:{pwr:[26,30,34],shl:90,rng:275,spd:350,itv:1000}}
 {id:642,name:"スケアドラムガン",size:"M",type:"l",cost:80, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:1100,rng:225,spd:440,itv:300},comment:["チューン可否不明"]}
 {id:643,name:"スケアナイフ＆ボム",size:"M",type:"l",cost:90, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
 {id:870,name:"でかマニモBD@",size:"M",type:"l",cost:100, slot:3, sub:{pwr:30,rng:56,spd:68,itv:1500},comment:["チューン可否不明"]}

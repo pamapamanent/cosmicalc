@@ -127,7 +127,7 @@
 {id:1075,name:"ビクトールAM2",size:"M",type:"c",cost:35,hp:20,tec:2,wlk:2,fly:2,tgh:-1, slot:3}
 {id:1076,name:"ビクトールAM3",size:"M",type:"c",cost:185,hp:20,str:-1,tec:3,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:32,shl:220,rng:330,spd:360,itv:800},comment:["武器手持ち不可","チューン可否不明"]}
 {id:1082,name:"ビクトリーAM",size:"M",type:"lacs",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1, slot:3}
-{id:1092,name:"ビャッコウAM",size:"M",type:"s",cost:140,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
+{id:1092,name:"ビャッコウAM",size:"M",type:"l",cost:140,hp:25,str:3,tec:-1,wlk:1,fly:1,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
 {id:1102,name:"フィザリバンAM",size:"M",type:"lacs",cost:35,hp:20,str:2,wlk:1,tgh:2, slot:3}
 {id:1157,name:"ブラディスターAM",size:"M",type:"c",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3, joint:{wp:2},comment:["１つはコンバーション用"]}
 {id:1172,name:"ブリッツェルトAM",size:"M",type:"lacs",cost:35,hp:20,tec:2,fly:1,tgh:2, slot:3}

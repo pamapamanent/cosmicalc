@@ -120,7 +120,7 @@
 {id:1080,name:"ビクトールHD",size:"M",type:"c",cost:40,hp:25,tec:2,wlk:-1,fly:1,tgh:3, slot:3}
 {id:1085,name:"ビクトリーHD",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
 {id:1090,name:"ビッグマンテスHD2",size:"M",type:"lacs",cost:40,hp:25,tec:2,fly:2,tgh:1, slot:3}
-{id:1095,name:"ビャッコウHD",size:"M",type:"s",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3}
+{id:1095,name:"ビャッコウHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3}
 {id:1105,name:"フィザリバンHD",size:"M",type:"l",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3, main:{pwr:20,shl:210,rng:225,spd:440,itv:800},comment:["チューン可否不明"]}
 {id:1162,name:"ブラディスターHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
 {id:1168,name:"ブリガバロンHD",size:"M",type:"lacs",cost:30,hp:15,str:1,tec:2,wlk:1,fly:-1,tgh:1, slot:3}
@@ -136,7 +136,7 @@
 {id:1276,name:"ホプリテスHD",size:"M",type:"lacs",cost:40,hp:20,str:2,tec:3,wlk:-1,fly:1, slot:3}
 {id:1283,name:"マイティバインHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
 {id:1284,name:"マイティバインHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:1, slot:3}
-{id:1302,name:"マイトボンバーHD",size:"M",type:"lacs",cost:40,hp:25,str:1,fly:2,tgh:3, slot:3}
+{id:1302,name:"マイトボンバーHD",size:"M",type:"lacs",cost:40,hp:25,str:1,fly:2,tgh:2, slot:3}
 {id:1303,name:"マイトボンバーHD2",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2, slot:3}
 {id:1308,name:"マシンドレッドHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
 {id:1312,name:"マッハナイトHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1, slot:3}

@@ -110,7 +110,7 @@
 {id:1070,name:"ビートランダーBS",size:"M",type:"l",cost:40,hp:20,str:1,tec:2,fly:2, slot:3}
 {id:1079,name:"ビクトールBS",size:"M",type:"c",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
 {id:1084,name:"ビクトリーBS",size:"M",type:"c",cost:35,hp:20,tec:1,wlk:1,fly:2,tgh:1, slot:3}
-{id:1094,name:"ビャッコウBS",size:"M",type:"s",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2, slot:3}
+{id:1094,name:"ビャッコウBS",size:"M",type:"l",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:2,tgh:2, slot:3}
 {id:1104,name:"フィザリバンBS",size:"M",type:"l",cost:40,hp:25,wlk:1,fly:3,tgh:1, slot:3}
 {id:1141,name:"イービルギアウィングBS",size:"M",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1, slot:3,comment:["プラチナチケット景品"]}
 {id:1142,name:"ヴァルキリーシールドBS",size:"M",type:"lacs",cost:35,hp:20,wlk:2,fly:3, slot:3,comment:["プラチナチケット景品","α、βステータス同じ"]}
@@ -192,7 +192,7 @@
 {id:906,name:"トイボックスBS",size:"L",type:"c",cost:40,hp:20,str:1,fly:3,tgh:1, slot:3}
 {id:928,name:"ドラゴネイルBS",size:"L",type:"l",cost:40,hp:20,str:2,tec:1,wlk:1,fly:2,tgh:-1, slot:3}
 {id:933,name:"ドラッケンBS",size:"L",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2, slot:3}
-{id:1041,name:"バフデバスターBS",size:"L",type:"lacs",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2, slot:3}
+{id:1041,name:"バフデバスターBS",size:"L",type:"s",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2, slot:3}
 {id:1051,name:"パルサーディオBS",size:"L",type:"s",cost:40,hp:25,wlk:2,fly:2,tgh:1, slot:3}
 {id:1089,name:"ビッグマンテスBS",size:"L",type:"a",cost:40,hp:25,tec:1,fly:2,tgh:2, slot:3}
 {id:1176,name:"ブリッツェルトBS",size:"L",type:"a",cost:55,hp:25,str:1,tec:1,fly:4,tgh:-1, slot:3, sub:{pwr:0,rng:150,spd:200,itv:1000}}
