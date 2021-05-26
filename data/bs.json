@@ -184,7 +184,7 @@
 {id:732,name:"ソア・ラBS",size:"L",type:"a",cost:40,hp:25,wlk:1,fly:2,tgh:2, slot:3}
 {id:767,name:"ダイダリオンBS",size:"L",type:"l",cost:40,hp:25,str:1,tec:1,fly:2,tgh:1, slot:3}
 {id:774,name:"ダイモンBS",size:"L",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3, slot:3}
-{id:782,name:"ダゴミュールBS",size:"L",type:"c",cost:40,hp:25,str:-1,tec:3,fly:3, slot:3, joint:{wp:1}, sub:{pwr:13,shl:300,rng:350,spd:500,itv:800}, fixedParts:{wp : "ダゴミュールBS@" }}
+{id:782,name:"ダゴミュールBS",size:"L",type:"c",cost:40,hp:25,str:-1,tec:3,fly:3, slot:3, joint:{wp:1}, fixedParts:{wp : "ダゴミュールBS@" }}
 {id:784,name:"ダゴミュールBS2",size:"L",type:"c",cost:40,hp:25,str:-1,tec:3,fly:2,tgh:1, slot:3, joint:{wp:2}, fixedParts:{wp : ["ダゴミュールBS2@1","ダゴミュールBS2@2"] },comment:["総コスト160"]}
 {id:855,name:"ディースモークBS",size:"L",type:"s",cost:40,hp:25,tec:-1,wlk:2,fly:2,tgh:2, slot:3}
 {id:880,name:"デストラクトBS",size:"L",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:2,tgh:1, slot:3}
