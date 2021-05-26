@@ -138,7 +138,7 @@
 {id:1267,name:"ホバリオンAM",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1, slot:3}
 {id:1272,name:"ホプリテスAM",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:2,fly:1, slot:3}
 {id:1310,name:"マッハナイトAM",size:"M",type:"lacs",cost:35,hp:20,tec:2,fly:2,tgh:1, slot:3}
-{id:1331,name:"マンティサイスAM",size:"M",type:"lacs",cost:135,hp:20,str:3,tec:-1,wlk:2,fly:1, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:26,rng:91,spd:60,itv:500},comment:["武器手持ち不可","チューン可否不明"]}
+{id:1331,name:"マンティサイスAM",size:"M",type:"las",cost:135,hp:20,str:3,tec:-1,wlk:2,fly:1, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:26,rng:91,spd:60,itv:500},comment:["武器手持ち不可","チューン可否不明"]}
 {id:1336,name:"ミカドマックスAM",size:"M",type:"l",cost:35,hp:20,str:3,tec:-1,wlk:1,tgh:2, slot:3}
 {id:1348,name:"ミッサイドAM",size:"M",type:"c",cost:135,hp:20,tec:3,wlk:1,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:19,shl:240,rng:330,spd:400,itv:800}}
 {id:1361,name:"メカジェッターAM",size:"M",type:"lacs",cost:35,hp:20,str:1,tec:2,fly:1,tgh:1, slot:3}
