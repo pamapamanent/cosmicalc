@@ -15,7 +15,7 @@
 {id:940,name:"ドラッケンαHD",size:"M",type:"l",cost:40,hp:25,str:2,tec:2,wlk:-1,tgh:2, slot:3}
 {id:983,name:"ニパ子デストラクトHD",size:"M",type:"c",cost:40,hp:25,str:1,tec:2,tgh:2, slot:3}
 {id:1430,name:"ライオスαHD",size:"M",type:"a",cost:40,hp:25,str:2,tec:-2,wlk:1,fly:2,tgh:2, slot:3}
-{id:1439,name:"ラグナバレッドHDJ",size:"M",type:"lacs", slot:1, jointPart:1}
+{id:1439,name:"ラグナバレットHDJ",size:"M",type:"lacs", slot:1, jointPart:1}
 {id:1444,name:"ラズフラムαHD",size:"M",type:"l",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
 {id:1511,name:"ルペットHD",size:"M",type:"l",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:2,tgh:1, slot:3, cartridge:{hpup:14,lv1:"7*6@20|21@20|23@20|24@15|31@15|32@15|34@15|37@25|36@30|30@20|43@30|41@20|27@30|47@50|46@40",lv6:"",lv9:""}}
 {id:10,name:"A.L.E.ウィンベルHD",size:"S",type:"s",cost:40,hp:25,str:1,tec:2,wlk:1,tgh:1, slot:3}
@@ -278,7 +278,7 @@
 {id:786,name:"ダゴミュールBS2@2",size:"L",type:"c",cost:60, slot:0, main:{pwr:10,shl:300,rng:380,spd:500,itv:300}}
 {id:844,name:"グレート・ロイBD@",size:"L",type:"c", slot:0, main:{pwr:12,shl:580,rng:350,spd:440,itv:600}, sub:{pwr:0,shl:30,rng:10,spd:10,itv:1000}}
 {id:1040,name:"バフデバスターBD@",size:"L",type:"s", slot:0, main:{pwr:7,shl:500,rng:330,spd:290,itv:600}}
-{id:1436,name:"ラグナバレッドBD@",size:"L",type:"c",cost:110, slot:0, main:{pwr:14,shl:450,rng:350,spd:400,itv:400}}
+{id:1436,name:"ラグナバレットBD@",size:"L",type:"c",cost:110, slot:0, main:{pwr:14,shl:450,rng:350,spd:400,itv:400}}
 {id:936,name:"ドストレックスソウル",size:"LL",type:"l",cost:170, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:20,shl:50,rng:200,spd:570,itv:500}, sub:{pwr:32,rng:70,spd:85,itv:2000},comment:["チューン可否不明"]}
 {id:1171,name:"ブリガンドシールド",size:"LL",type:"l",cost:30, slot:0, sub:{pwr:0,shl:10,rng:0,spd:0,itv:1000},comment:["盾耐久値不明"]}
 {id:73,name:"ウィズダムソウルP",size:"M",type:"c",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:15,shl:540,rng:330,spd:400,itv:460},comment:["チューン可否不明"]}
@@ -304,7 +304,7 @@
 {id:1382,name:"バクルス",size:"M",type:"s",cost:70, slot:0, main:{pwr:0,shl:80,rng:300,spd:300,itv:500}}
 {id:1392,name:"リベル",size:"M",type:"s",cost:70, slot:0, sub:{pwr:0,shl:12,rng:0,spd:0,itv:20000}}
 {id:1425,name:"ブレンダインソウル",size:"M",type:"a",cost:180, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:8,shl:600,rng:275,spd:350,itv:1000}, sub:{pwr:28,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
-{id:1433,name:"ラグナバレッドAM@",size:"M",type:"c",cost:30, slot:0, main:{pwr:12,shl:200,rng:300,spd:400,itv:600}}
+{id:1433,name:"ラグナバレットAM@",size:"M",type:"c",cost:30, slot:0, main:{pwr:12,shl:200,rng:300,spd:400,itv:600}}
 {id:1491,name:"スクトゥーム",size:"M",type:"a",cost:60, slot:3, sub:{pwr:0,shl:10,rng:0,spd:0,itv:1000}}
 {id:1492,name:"ソリスオルトゥス",size:"M",type:"a",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:31,rng:70,spd:85,itv:500}}
 {id:1500,name:"ルッカ・デーコBD@",size:"M",type:"l",cost:20, slot:0, sub:{pwr:0,rng:250,spd:10,itv:1000}}

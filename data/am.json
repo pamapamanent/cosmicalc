@@ -217,7 +217,7 @@
 {id:1299,name:"マイトボンバーAM3",size:"L",type:"a",cost:115,hp:20,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:500,rng:275,spd:350,itv:680},comment:["手持ち装備不可","チューン可否不明"]}
 {id:1371,name:"メガトンオーAM",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:1,tgh:2, slot:3}
 {id:1416,name:"ラークピットAM",size:"L",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1, slot:3}
-{id:1432,name:"ラグナバレッドAM",size:"L",type:"c",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3, joint:{wp:2}, fixedParts:{wp : "ラグナバレッドAM@" }}
+{id:1432,name:"ラグナバレットAM",size:"L",type:"c",cost:40,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3, joint:{wp:2}, fixedParts:{wp : "ラグナバレットAM@" }}
 {id:1452,name:"ランサーロットAM",size:"L",type:"l",cost:190,hp:25,str:3,tec:-1,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1,pwp:1}, main:{pwr:13,shl:210,rng:250,spd:440,itv:160,str:100}, sub:{pwr:28,rng:120,spd:250,itv:1000},comment:["武器手持ち不可","チューン可否不明"]}
 {id:1454,name:"ランサーロットAM3",size:"L",type:"l",cost:110,hp:25,str:4,tec:-1,tgh:2, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:34,rng:63,spd:76,itv:500},comment:["武器手持ち不可","チューン可否不明"]}
 {id:1455,name:"ランサーロットAM4",size:"L",type:"l",cost:190,hp:25,str:2,tec:-1,wlk:2,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1,pwp:1}, main:{pwr:14,shl:240,rng:225,spd:400,itv:520}, sub:{pwr:30,rng:84,spd:102,itv:500},comment:["武器手持ち不可","チューン可否不明"]}

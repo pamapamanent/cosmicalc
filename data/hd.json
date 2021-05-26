@@ -149,7 +149,7 @@
 {id:1407,name:"モールニードスHD",size:"M",type:"lacs",cost:40,hp:25,wlk:2,fly:2,tgh:1, slot:3}
 {id:1411,name:"モグニードHD",size:"M",type:"lacs",cost:35,hp:20,str:1,wlk:2,fly:1,tgh:1, slot:3}
 {id:1423,name:"ライオスHD",size:"M",type:"a",cost:35,hp:20,str:1,tec:1,wlk:1,fly:1,tgh:1, slot:3}
-{id:1438,name:"ラグナバレッドHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1, slot:3}
+{id:1438,name:"ラグナバレットHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1, slot:3}
 {id:1450,name:"ラムダイバーHD",size:"M",type:"lacs",cost:40,hp:20,str:1,tec:2,wlk:-1,fly:1,tgh:2, slot:3}
 {id:1458,name:"ランサーロットHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,tgh:3, slot:3}
 {id:1459,name:"ランサーロットHD2",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:1,tgh:3, slot:3}
