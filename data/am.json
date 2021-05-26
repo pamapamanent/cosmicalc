@@ -176,6 +176,7 @@
 {id:470,name:"サイドロンAM",size:"L",type:"l",cost:55,hp:20,str:2,tec:-1,wlk:1,tgh:3, slot:3,comment:["盾耐久値不明"]}
 {id:471,name:"サイドロンAM2",size:"L",type:"a",cost:65,hp:20,str:-1,tec:2,wlk:2,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},comment:["盾あり（耐久値不明）","チューン可否不明"]}
 {id:494,name:"サジタルマクシスAM",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:3, slot:3}
+{id:510,name:"ジーウェインAM",size:"L",type:"a",cost:40,hp:25,tec:1,fly:1,tgh:3, slot:3, jointPart:1, fixedParts:{am : "ジーウェインAM@" }}
 {id:525,name:"シェイデンAM",size:"L",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
 {id:530,name:"ジオグラシスAM",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:1,wlk:2,fly:-1,tgh:1, slot:3}
 {id:531,name:"ジオグラシスAM2",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:2,wlk:-1,tgh:2, slot:3}
@@ -249,8 +250,7 @@
 {id:587,name:"ウィングプラスAMJ",size:"L",type:"lacs",cost:20,wlk:-1,fly:2, slot:1, builtin:{bs:1},comment:["ショップ販売"]}
 {id:588,name:"ギミックランチャーAMJ",size:"M",type:"c",cost:60,tec:1,wlk:-1,tgh:1, slot:1,tunable:{mwp:1}, main:{pwr:7,shl:280,rng:330,spd:290,itv:600},comment:["ショップ販売"]}
 {id:1130,name:"クリスタルビットAMJ",size:"M",type:"a",cost:40, slot:1,tunable:{mwp:1}, main:{pwr:6,shl:350,rng:275,spd:350,itv:320},comment:["【結晶】コイン景品"]}
-{id:510,name:"ジーウェインAMJ",size:"L",type:"a",cost:40,hp:25,tec:1,fly:1,tgh:3, slot:3, jointPart:1, fixedParts:{am : "ジーウェインAM" }}
-{id:423,name:"シャインフェザーAMJ",size:"M",type:"lacs", slot:3, builtin:{bs:1},comment:["コイン景品","３色あり","BS内蔵"]}
+{id:423,name:"シャインフェザーAMJ",size:"M",type:"lacs", slot:1, builtin:{bs:1},comment:["コイン景品","３色あり","BS内蔵"]}
 {id:595,name:"ドローガンAMJ",size:"M",type:"s",cost:60,str:1,tec:1,tgh:-1, slot:1,tunable:{mwp:1}, main:{pwr:6,shl:200,rng:250,spd:480,itv:500},comment:["ショップ販売","2021/05/19 ステータス修正"]}
 {id:1244,name:"バアルAMJ",size:"M",type:"c",cost:40, slot:1,tunable:{mwp:1}, jointPart:1, main:{pwr:11,shl:210,rng:330,spd:290,itv:800},comment:["【欲望】コイン景品"]}
 {id:596,name:"ハウザーAMJ",size:"L",type:"c",cost:70,tec:2,wlk:-1, slot:1, sub:{pwr:33,shl:60,rng:350,spd:210,itv:1000},comment:["ショップ販売"]}
@@ -259,7 +259,7 @@
 {id:599,name:"ビームキャンセラーAMJ",size:"M",type:"c",cost:50,tec:-1,tgh:2, slot:1,tunable:{mwp:1}, main:{pwr:16,shl:220,rng:300,spd:320,itv:800},comment:["ショップ販売"]}
 {id:600,name:"ビームミサイルAMJ",size:"M",type:"a",cost:60,tec:1,fly:1,tgh:-1, slot:1,tunable:{mwp:1}, main:{pwr:14,shl:130,rng:275,spd:350,itv:900},comment:["ショップ販売"]}
 {id:602,name:"フォールドライフルAMJ",size:"M",type:"lacs",cost:60,tec:2,wlk:-1, slot:1,tunable:{mwp:1}, main:{pwr:9,shl:220,rng:250,spd:480,itv:520},comment:["ショップ販売"]}
-{id:1212,name:"ヘケトケレスAMJ",size:"L",type:"c",cost:20, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:190,rng:300,spd:260,itv:600},comment:["ユニオンコイン景品"]}
+{id:1212,name:"ヘケトケレスAMJ",size:"L",type:"c",cost:20, slot:1,tunable:{mwp:1}, main:{pwr:8,shl:190,rng:300,spd:260,itv:600},comment:["ユニオンコイン景品"]}
 {id:606,name:"ミドルガトリングAMJ",size:"M",type:"lc",cost:60,tec:2,wlk:-1, slot:1,tunable:{mwp:1}, main:{pwr:6,shl:1080,rng:200,spd:400,itv:140},comment:["ショップ販売"]}
-{id:425,name:"ライズフェザーAMJ",size:"M",type:"lacs", slot:3, builtin:{bs:1},comment:["コイン景品","３色あり","BS内蔵"]}
+{id:425,name:"ライズフェザーAMJ",size:"M",type:"lacs", slot:1, builtin:{bs:1},comment:["コイン景品","３色あり","BS内蔵"]}
 {id:1508,name:"ルペットAMJ",size:"M",type:"lac",cost:20,hp:-35,str:-1,tec:-2,wlk:-1,fly:-1,tgh:-1, slot:1, joint:{am:2},comment:["AMJ2は同じ性能"]}

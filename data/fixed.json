@@ -187,7 +187,7 @@
 {id:1473,name:"リリレインBS",size:"S",type:"c",cost:40,hp:25,wlk:2,fly:3, slot:3}
 
 {group:"ＡＭ",prefixId:"A",nextId:6000}
-{id:509,name:"ジーウェインAM",size:"L",type:"a", slot:0}
+{id:509,name:"ジーウェインAM@",size:"L",type:"a", slot:0}
 {id:636,name:"スケアガントAM",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, joint:{wp:0}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["部位破壊不能","手持ち装備不可"]}
 {id:841,name:"グレート・ロイAM",size:"L",type:"c",cost:100,hp:25,tec:3,tgh:2, slot:3, joint:{wp:0}, main:{pwr:20,shl:240,rng:330,spd:260,itv:800},comment:["武器手持ち不可"]}
 {id:842,name:"グレート・ロイAM2",size:"L",type:"c",cost:100,hp:25,tec:3,tgh:2, slot:3, main:{pwr:20,shl:240,rng:330,spd:260,itv:800}}
