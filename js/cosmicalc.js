@@ -20,8 +20,8 @@
 (function($, undefined){
 
 /* CONST VARS */
-var VERSION = "4.0.3",
-		LAST_MODIFIED = "2021.05.26",
+var VERSION = "4.0.4",
+		LAST_MODIFIED = "2021.05.27",
 
 	WEB_ACCESS_QUERY = "?mode=getData&target=",
 
