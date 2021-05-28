@@ -217,3 +217,4 @@
 {id:604,name:"フロップBSJ",size:"M",type:"lacs",cost:30,tec:-1,wlk:3,fly:-1, slot:1,comment:["ショップ販売"]}
 {id:1213,name:"ヘケトケレスBSJ",size:"LL",type:"c",cost:40, slot:1,tunable:{mwp:1}, main:{pwr:6,shl:360,rng:330,spd:290,itv:600},comment:["ユニオンコイン景品"]}
 {id:607,name:"ムーランBSJ",size:"M",type:"lacs",cost:40,hp:15,wlk:2,tgh:-1, slot:1,comment:["ショップ販売"]}
+{id:609,name:"リアウィングBSJ",size:"S",type:"lacs",cost:20,tec:-1,wlk:2, slot:1,comment:["ショップ販売"]}

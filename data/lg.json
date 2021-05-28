@@ -182,5 +182,6 @@
 {id:747,name:"LGJ",size:"M",type:"lacs", slot:1, jointPart:1,comment:["仮ジョイント","あとでけすかも"]}
 {id:1007,name:"キュウビLGJ",size:"M",type:"lacs",cost:10,hp:5, slot:1,comment:["【因果】コイン景品","α、βステータス同じ"]}
 {id:593,name:"スネイルボムLGJ",size:"M",type:"s",cost:80,tec:2,tgh:-1, slot:1, sub:{pwr:20,shl:400,rng:100,spd:100,itv:1000},comment:["ショップ販売"]}
+{id:601,name:"フォースバリアLGJ",size:"S",type:"lacs",cost:50,tec:2,tgh:-1, slot:1, sub:{pwr:0,shl:35,rng:600,spd:100,itv:1000},comment:["ショップ販売"]}
 {id:605,name:"ミサイルバレルLGJ",size:"L",type:"c",cost:80,tec:1,wlk:-1,fly:-1,tgh:1, slot:1, sub:{pwr:16,shl:160,rng:350,spd:230,itv:1000},comment:["ショップ販売"]}
 {id:608,name:"ラテラルレーザーLGJ",size:"M",type:"s",cost:90,tec:2,fly:-1, slot:1,tunable:{mwp:1}, main:{pwr:3,shl:1560,rng:225,spd:480,itv:100},comment:["ショップ販売"]}
