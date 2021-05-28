@@ -79,5 +79,5 @@
 {id:1087,name:"アウロラキャノン",size:"S",type:"a", slot:0, joint:{wp:2}, sub:{pwr:0,rng:0,spd:0,itv:500},comment:["ステラAM専用"]}
 {id:1092,name:"ヴォルケンランス",size:"S",type:"l",cost:160, slot:3, sub:{pwr:32,rng:90,spd:180,itv:2000},comment:["ナイトジャーAM2専用","チューン可否不明"]}
 {id:1093,name:"シヴァリーガード",size:"S",type:"c",cost:50, slot:0, sub:{pwr:0,rng:10,spd:0,itv:500},comment:["ナターシャAM専用"]}
-{id:1095,name:"フェアリスBS@",size:"S",type:"c",cost:20, slot:0, sub:{pwr:0,shl:40,rng:0,spd:160,itv:1000},comment:["フェアリスBS専用"]}
+{id:1111,name:"フェアリスBS@",size:"S",type:"a",cost:20, slot:0, sub:{pwr:0,shl:40,rng:0,spd:160,itv:1000},comment:["フェアリスBS専用"]}
 {id:1098,name:"マニモウィング",size:"S",type:"a",cost:70,hp:25,str:1,fly:2,tgh:2, slot:0, joint:{wp:1}, sub:{pwr:0,shl:60,rng:0,spd:160,itv:1000},comment:["マニモガールBD専用"]}

@@ -171,7 +171,7 @@
 
 {group:"ＬＬサイズ",prefixId:"LL",commonStat:{size:"LL",type:""},nextId:0}
 {id:292,name:"ガデロガLG",size:"LL",type:"lacs",cost:45,hp:65,str:-1,tec:-1,wlk:4,fly:1,tgh:3, slot:3, joint:{bs:1},comment:["BS増設可能"]}
-{id:552,name:"シノ・イクスロードLG",size:"LL",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:150,spd:150,itv:1000},comment:["BS増設可能"]}
+{id:552,name:"シノ・イクスロードLG",size:"LL",type:"l",cost:145,hp:55,str:2,tec:-1,wlk:4,tgh:1, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:28,rng:150,spd:150,itv:1000},comment:["BS増設可能","チューン可否不明"]}
 {id:555,name:"シノ・イクスロードLG3",size:"LL",type:"l",cost:225,hp:55,str:2,tec:-1,wlk:3,tgh:2, slot:3, joint:{bs:1},tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:1000},comment:["BS接続可能","チューン可否不明"]}
 {id:1169,name:"ブリガバロンLG",size:"LL",type:"lacs",cost:50,hp:70,str:1,tec:-1,wlk:3,tgh:3, slot:3}
 {id:1309,name:"マシンドレッドLG",size:"LL",type:"l",cost:50,hp:70,str:2,wlk:3,fly:-1,tgh:2, slot:3}
