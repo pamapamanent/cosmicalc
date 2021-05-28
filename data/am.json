@@ -205,7 +205,7 @@
 {id:1038,name:"バフデバスターAM",size:"L",type:"s",cost:60,hp:20,str:1,fly:1,tgh:3, slot:3,tunable:{pwp:1}, sub:{pwr:22,rng:150,spd:10,itv:1000}}
 {id:1048,name:"パルサーディオAM",size:"L",type:"lacs",cost:40,hp:25,str:2,wlk:1,tgh:2, slot:3}
 {id:1193,name:"ブレイズバロンAM",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:2,wlk:1,fly:1,tgh:-1, slot:3}
-{id:1194,name:"ブレイズバロンAM2",size:"L",type:"l",cost:140,hp:25,str:3,tec:-1,wlk:1,tgh:2, slot:3, joint:{wp:0}, sub:{pwr:32,rng:70,spd:85,itv:600},comment:["手持ち武器不可","チューン可否不明"]}
+{id:1194,name:"ブレイズバロンAM2",size:"L",type:"l",cost:140,hp:25,str:3,tec:-1,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:600},comment:["手持ち武器不可","チューン可否不明"]}
 {id:1195,name:"ブレイズバロンAM3",size:"L",type:"l",cost:170,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:32,rng:150,spd:10,itv:1000},comment:["TEC依存","手持ち装備不可"]}
 {id:1202,name:"プレデトバイツAM",size:"L",type:"c",cost:80,hp:25,str:-1,tec:3,wlk:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:290,rng:330,spd:290,itv:800}}
 {id:1214,name:"ベクターAM",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2, slot:3}
