@@ -231,7 +231,7 @@
 {id:1064,name:"メロディコードα",size:"S",type:"s",cost:65, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:380,rng:250,spd:400,itv:500}, sub:{pwr:11,shl:240,rng:250,spd:320,itv:1000},comment:["攻撃用","チューン可否不明"]}
 {id:1065,name:"メロディコードβ",size:"S",type:"s",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:80,rng:300,spd:300,itv:500}, sub:{pwr:0,shl:50,rng:300,spd:300,itv:1000},comment:["サポート用","チューン可否不明"]}
 {id:1066,name:"メロディコードγ",size:"S",type:"s",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:260,rng:250,spd:360,itv:600}, sub:{pwr:10,shl:120,rng:260,spd:300,itv:500},comment:["ジャマー用","チューン可否不明"]}
-{id:1067,name:"チェーンブレード",size:"S",type:"l",cost:130, slot:3, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:28,rng:77,spd:102,itv:500},comment:["キリカAM専用"]}
+{id:342,name:"チェーンブレード",size:"S",type:"l",cost:130, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:28,rng:77,spd:102,itv:500},comment:["キリカAM専用"]}
 {id:1068,name:"チェーンブレードの鞘",size:"S",type:"l",cost:60, slot:0,tunable:{pwp:1}, main:{pwr:0,shl:-1,rng:0,spd:150,itv:1000}, sub:{pwr:28,rng:120,spd:250,itv:1000},comment:["キリカBD専用","変形後ステータス記載"]}
 {id:1072,name:"クリーガーシルト",size:"S",type:"a",cost:120, slot:3, joint:{wp:1},tunable:{mwp:1,pwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}, sub:{pwr:30,rng:70,spd:85,itv:500}, fixedParts:{wp : "クリーガーシルト@" },comment:["コロナAM専用"]}
 {id:1078,name:"雀子弓",size:"S",type:"l",cost:50, slot:3, main:{pwr:20,shl:50,rng:200,spd:570,itv:500}, sub:{pwr:10,rng:150,spd:85,itv:2000},comment:["コンバーションパーツ","獄卒の勾玉専用","チューン可否不明"]}
