@@ -91,7 +91,7 @@
 {id:424,name:"ダブルスターエッジBS-G",size:"M",type:"lacs",cost:35,hp:20,wlk:1,fly:3,tgh:1, slot:3, builtin:{bs:1},comment:["コイン景品","BS内蔵"]}
 {id:436,name:"ゴートランBS",size:"M",type:"l",cost:40,hp:25,tec:-1,wlk:2,fly:3,tgh:1, slot:3}
 {id:467,name:"サイコクラスターBS",size:"M",type:"a",cost:40,hp:20,str:1,tec:2,fly:3,tgh:-1, slot:3}
-{id:474,name:"サイドロンBS",size:"M",type:"a",cost:40,hp:25,tec:-1,wlk:2,fly:3,tgh:1, slot:3}
+{id:474,name:"サイドロンBS",size:"M",type:"l",cost:40,hp:25,tec:-1,wlk:2,fly:3,tgh:1, slot:3}
 {id:545,name:"シグマクロックBS",size:"M",type:"s",cost:40,hp:20,str:2,tec:1,fly:2, slot:3}
 {id:551,name:"シノ・イクスロードBS",size:"M",type:"l",cost:40,hp:25,tec:2,fly:3, slot:3}
 {id:646,name:"スコルタンBS",size:"M",type:"s",cost:35,hp:20,tec:2,fly:3, slot:3}
@@ -172,7 +172,7 @@
 {id:461,name:"コントラディクトBS",size:"L",type:"c",cost:40,hp:25,str:1,wlk:-1,fly:3,tgh:2, slot:3}
 {id:499,name:"サジタルマクシスBS",size:"L",type:"c",cost:40,hp:25,str:2,fly:3, slot:3}
 {id:512,name:"ジーウェインBS",size:"L",type:"a",cost:40,hp:25,tec:2,wlk:-1,fly:3,tgh:1, slot:3}
-{id:527,name:"シェイデンBS",size:"L",type:"c",cost:125,hp:25,fly:5, slot:3, sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
+{id:527,name:"シェイデンBS",size:"L",type:"a",cost:125,hp:25,fly:5, slot:3, sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
 {id:536,name:"ジオグラシスBS",size:"L",type:"l",cost:40,hp:25,str:1,wlk:1,fly:3, slot:3}
 {id:537,name:"ジオグラシスBS2",size:"L",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1, slot:3}
 {id:580,name:"シュトルバンガーBS",size:"L",type:"c",cost:40,hp:20,str:2,wlk:1,fly:2, slot:3}
