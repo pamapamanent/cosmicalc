@@ -193,7 +193,7 @@
 {id:1015,name:"ダブルマグ",size:"M",type:"l",cost:140, slot:3,tunable:{mwp:1}, main:{pwr:14,shl:400,rng:225,spd:440,itv:460},comment:["アリーナコイン景品","シーズン１"]}
 {id:1016,name:"ブロウバズーカ",size:"M",type:"c",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:14,shl:220,rng:330,spd:530,itv:500},comment:["アリーナコイン景品","シーズン１"]}
 {id:1017,name:"アクアパラソル",size:"M",type:"lac",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:28,shl:210,rng:250,spd:360,itv:560},comment:["エンジェルコイン景品","チューン可否不明"]}
-{id:1020,name:"ビームポンプバズーカ",size:"M",type:"a",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:23,shl:190,rng:275,spd:400,itv:900},comment:["エンジェルコイン景品","チューン可否不明"]}
+{id:243,name:"ビームポンプバズーカ",size:"M",type:"a",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:23,shl:240,rng:275,spd:360,itv:760},comment:["エンジェルコイン景品","チューン可否不明"]}
 {id:1023,name:"ゲルニアロッド",size:"M",type:"c",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:32,shl:160,rng:330,spd:440,itv:900},comment:["クエストコイン景品"]}
 {id:1027,name:"スクイドルガン",size:"M",type:"s",cost:50,tunable:{mwp:1}, main:{pwr:4,shl:900,rng:90,spd:480,itv:100},comment:["スクイドルガールα初期装備","チューン可否不明"]}
 {id:1028,name:"スクイドルバズーカ",size:"M",type:"s",cost:70,tunable:{mwp:1}, main:{pwr:12,shl:220,rng:275,spd:290,itv:700},comment:["スクイドルガールEV初期装備","チューン可否不明"]}

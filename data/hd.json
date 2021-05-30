@@ -41,7 +41,7 @@
 {id:106,name:"アマテウスHD",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:2,fly:1, slot:3}
 {id:122,name:"アルバトレオスHD",size:"M",type:"c",cost:80,hp:25,str:-1,tec:3,wlk:1,fly:2, slot:3,tunable:{mwp:1}, main:{pwr:16,shl:160,rng:330,spd:290,itv:600},comment:["チューン可否不明"]}
 {id:127,name:"アルマダHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:3,wlk:1,fly:1,tgh:-1, slot:3}
-{id:145,name:"アントリオンHD",size:"M",type:"c",cost:40,hp:20,tec:2,fly:1,tgh:2, slot:3}
+{id:145,name:"アントリオンHD",size:"M",type:"c",cost:40,hp:25,tec:2,fly:1,tgh:2, slot:3}
 {id:166,name:"イニトォンHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3, slot:3}
 {id:171,name:"ウィンドリンクスHD",size:"M",type:"lacs",cost:40,hp:20,str:1,tec:-1,fly:2,tgh:3, slot:3}
 {id:190,name:"ヴォルテスHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:-1,fly:2,tgh:2, slot:3}
@@ -83,7 +83,7 @@
 {id:640,name:"スケアガントHD",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:2,fly:2,tgh:-1, slot:3}
 {id:647,name:"スコルタンHD2",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
 {id:652,name:"スゼクHD",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:-1,fly:2,tgh:2, slot:3}
-{id:659,name:"スチールバーンHD",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:2,fly:-1,tgh:3, slot:3}
+{id:659,name:"スチールバーンHD",size:"M",type:"lacs",cost:40,hp:25,str:1,wlk:2,fly:-1,tgh:3, slot:3}
 {id:665,name:"スチールライダーHD2",size:"M",type:"lacs",cost:40,hp:25,tec:2,wlk:2,fly:-1,tgh:2, slot:3}
 {id:680,name:"セイロンHD",size:"M",type:"a",cost:80,hp:25,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:26,shl:140,rng:275,spd:440,itv:800},comment:["AURA未対応のためデフォルトで武装ありとしています","チューン可否不明"]}
 {id:686,name:"セバーレイスタッグHD",size:"M",type:"a",cost:180,hp:25,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:900,rng:275,spd:350,itv:1000},comment:["チューン可否不明"]}
