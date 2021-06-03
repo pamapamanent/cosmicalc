@@ -96,6 +96,7 @@
 {id:1235,name:"フラクタリスLG",size:"L",type:"a",cost:145,hp:70,str:-1,tec:2,wlk:3,fly:1, slot:3, sub:{pwr:10,rng:280,spd:380,itv:1000}}
 {id:1495,name:"メガトンオーTitanLG",size:"L",type:"l",cost:45,hp:25,str:-1,tec:1,wlk:2,tgh:3, slot:3}
 {id:1512,name:"メディックボールLG",size:"L",type:"s",cost:40,hp:25,str:1,wlk:3,tgh:1, slot:3}
+{id:1539,name:"ラークピットLG",size:"L",type:"a",cost:75,hp:25,str:1,tec:1,wlk:3,fly:1,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:120,spd:220,itv:2500}}
 {id:1667,name:"ワイルドビークLG",size:"L",type:"l",cost:75,hp:45,wlk:4,tgh:1, slot:3, sub:{pwr:0,shl:50,rng:80,spd:180,itv:1000},comment:["チューン可否不明"]}
 {id:1356,name:"ベルゼイラフLG",size:"LL",type:"c",cost:160,hp:110,tec:3,wlk:3,fly:-1, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:25,shl:-1,rng:250,spd:350,itv:1000}, sub:{pwr:32,rng:70,spd:20,itv:1000},comment:["チューン可否不明"]}
 {id:383,name:"キングペペンLG",size:"M",type:"l",cost:45,hp:25,wlk:3,tgh:2, slot:3}
@@ -168,6 +169,7 @@
 {id:949,name:"でかキャノンボールBS",size:"L",type:"c",cost:40,hp:25,str:1,fly:3,tgh:1, slot:3}
 {id:1072,name:"ニパ子デストラクトBS",size:"L",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:2,tgh:1, slot:3}
 {id:1493,name:"メガトンオーTitanBS",size:"L",type:"l",cost:40,hp:25,str:1,wlk:2,fly:2, slot:3, sub:{pwr:0,rng:0,spd:0,itv:2000}}
+{id:1538,name:"ラークピットBS",size:"L",type:"a",cost:40,hp:25,str:-1,tec:1,wlk:1,fly:3,tgh:1, slot:3}
 {id:1354,name:"ベルゼイラフBS",size:"LL",type:"c",cost:70,hp:25,wlk:1,fly:4, slot:3,tunable:{pwp:1}, sub:{pwr:28,rng:350,spd:200,itv:1000},comment:["チューン可否不明"]}
 {id:693,name:"シンビジウムBS",size:"M",type:"a",cost:160,hp:25,tec:2,fly:3, slot:3,tunable:{pwp:1}, sub:{pwr:32,shl:25,rng:0,spd:250,itv:1000,tec:100},comment:["チューン可否不明"]}
 {id:934,name:"ディアナBS",size:"M",type:"c", slot:0}
@@ -212,6 +214,7 @@
 {id:1491,name:"メガトンオーTitanAM",size:"L",type:"l",cost:35,hp:20,str:1,wlk:1,tgh:3, slot:3}
 {id:1508,name:"メディックボールAM",size:"L",type:"s",cost:80,hp:20,str:1,tec:2,wlk:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:0,shl:220,rng:300,spd:300,itv:800},comment:["武器手持ち不可","チューン可否不明"]}
 {id:1509,name:"メディックボールAM2",size:"L",type:"s",cost:80,hp:20,str:1,tec:2,wlk:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:6,shl:430,rng:250,spd:325,itv:360},comment:["武器手持ち不可","チューン可否不明"]}
+{id:1536,name:"ラークピットAM",size:"L",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1, slot:3}
 {id:1664,name:"ワイルドビークAM",size:"L",type:"l",cost:95,hp:25,tec:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, sub:{pwr:9,shl:1080,rng:225,spd:440,itv:140},comment:["武器手持ち不可","チューン可否不明"]}
 {id:596,name:"シグマクロックAM2",size:"M",type:"s",cost:125,hp:20,str:-1,tec:3,wlk:1,tgh:2, slot:3, joint:{wp:0}, cartridge:{hpup:14,lv1:"7*6@20|21@30|23@15|22@20|33@15|56@20|35@20|37@25|36@30|29@20|34@30|41@20|27@30|47@50|46@40",lv6:"",lv9:""}, sub:{pwr:28,rng:200,spd:350,itv:1000},comment:["部位破壊不能","武器手持ち不可"]}
 {id:597,name:"シグマクロックAM3",size:"M",type:"s",cost:125,hp:20,tec:1,wlk:2,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:10,rng:200,spd:350,itv:1000},comment:["部位破壊不能","武器手持ち不可"]}

@@ -179,7 +179,6 @@
 {id:1386,name:"マイティバインLG",size:"L",type:"l",cost:90,hp:65,str:1,wlk:3,fly:-1,tgh:3, slot:3,comment:["盾耐久値不明"]}
 {id:1405,name:"マイトボンバーLG",size:"L",type:"lacs",cost:45,hp:25,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
 {id:1490,name:"メガトンオーLG",size:"L",type:"lacs",cost:40,hp:20,str:1,wlk:2,tgh:2, slot:3}
-{id:1539,name:"ラークピットLG",size:"L",type:"a",cost:75,hp:25,str:1,tec:1,wlk:3,fly:1,tgh:-1, slot:3, sub:{pwr:0,shl:60,rng:120,spd:220,itv:2500}}
 {id:1588,name:"ランサーロットLG",size:"L",type:"lacs",cost:50,hp:50,str:1,tec:1,wlk:4, slot:3}
 {id:1656,name:"ロトンレムレスLG",size:"L",type:"lacs",cost:45,hp:25,str:2,tec:2,wlk:2,fly:-1, slot:3}
 
