@@ -214,7 +214,7 @@
 {id:1491,name:"メガトンオーTitanAM",size:"L",type:"l",cost:35,hp:20,str:1,wlk:1,tgh:3, slot:3}
 {id:1508,name:"メディックボールAM",size:"L",type:"s",cost:80,hp:20,str:1,tec:2,wlk:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:0,shl:220,rng:300,spd:300,itv:800},comment:["武器手持ち不可","チューン可否不明"]}
 {id:1509,name:"メディックボールAM2",size:"L",type:"s",cost:80,hp:20,str:1,tec:2,wlk:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:6,shl:430,rng:250,spd:325,itv:360},comment:["武器手持ち不可","チューン可否不明"]}
-{id:1536,name:"ラークピットAM",size:"L",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1, slot:3}
+{id:1536,name:"ラークピットAM",size:"L",type:"a",cost:35,hp:20,tec:1,fly:3,tgh:1, slot:3, joint:{wp:0}}
 {id:1664,name:"ワイルドビークAM",size:"L",type:"l",cost:95,hp:25,tec:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, sub:{pwr:9,shl:1080,rng:225,spd:440,itv:140},comment:["武器手持ち不可","チューン可否不明"]}
 {id:596,name:"シグマクロックAM2",size:"M",type:"s",cost:125,hp:20,str:-1,tec:3,wlk:1,tgh:2, slot:3, joint:{wp:0}, cartridge:{hpup:14,lv1:"7*6@20|21@30|23@15|22@20|33@15|56@20|35@20|37@25|36@30|29@20|34@30|41@20|27@30|47@50|46@40",lv6:"",lv9:""}, sub:{pwr:28,rng:200,spd:350,itv:1000},comment:["部位破壊不能","武器手持ち不可"]}
 {id:597,name:"シグマクロックAM3",size:"M",type:"s",cost:125,hp:20,tec:1,wlk:2,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:10,rng:200,spd:350,itv:1000},comment:["部位破壊不能","武器手持ち不可"]}
