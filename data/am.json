@@ -9,7 +9,7 @@
 {id:19,name:"A.L.E.ジークンロンAM",size:"S",type:"l",cost:75,hp:20,str:2,tec:-1,wlk:2,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:26,shl:70,spd:85,itv:500},comment:["チューン可否不明"]}
 {id:24,name:"A.L.E.ラズフラムAM",size:"S",type:"lacs",cost:35,hp:20,str:2,tec:2,wlk:2,fly:-1, slot:3}
 {id:25,name:"A.L.E.ラズフラムAM2",size:"S",type:"l",cost:105,hp:20,tec:3,wlk:1,fly:-1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:9,shl:600,rng:225,spd:440,itv:200},comment:["武器手持ち不可","チューン可否不明"]}
-{id:31,name:"A.L.E.リリレインAM",size:"S",type:"c",cost:35,hp:20,str:1,tec:3,fly:1, slot:3}
+{id:31,name:"A.L.E.リリレインAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:3,fly:1, slot:3}
 {id:37,name:"K・ノンナAM",size:"S",type:"c",cost:35,hp:20,tec:2,wlk:2,fly:1, slot:3}
 {id:68,name:"アイシーAM",size:"S",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1}
 {id:137,name:"アレスターAM",size:"S",type:"lacs",cost:35,hp:20,str:2,tec:1,wlk:1,fly:2,tgh:-1, slot:3}
@@ -168,7 +168,7 @@
 {id:1633,name:"ルペットAM2",size:"M",type:"lacs",cost:35,hp:20,str:2,wlk:2,fly:-1,tgh:2, slot:3}
 {id:1635,name:"ルペットAM4",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:-1,fly:2,tgh:2, slot:3}
 {id:1642,name:"レイスタッグAM",size:"M",type:"lacs",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1, slot:3}
-{id:1659,name:"ロビンハンターAM",size:"M",type:"l",cost:125,hp:20,tec:2,wlk:2,tgh:1, slot:3, joint:{wp:2},tunable:{mwp:1,pwp:1}, main:{pwr:17,shl:320,rng:225,spd:440,itv:520}, sub:{pwr:14,shl:220,rng:250,spd:320,itv:1000}}
+{id:1659,name:"ロビンハンターAM",size:"M",type:"l",cost:125,hp:20,tec:2,wlk:2,tgh:1, slot:3, joint:{am:2},tunable:{mwp:1,pwp:1}, main:{pwr:17,shl:320,rng:225,spd:440,itv:520}, sub:{pwr:14,shl:220,rng:250,spd:320,itv:1000}}
 {id:1668,name:"ワニガメンティスAM",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,tgh:2, slot:3}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:0}
