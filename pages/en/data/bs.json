@@ -7,9 +7,8 @@
 {id:2,name:"A・ミラルBS",size:"S",type:"lc",cost:65,hp:20,str:-1,tec:2,wlk:1,fly:3, slot:3, sub:{shl:60,rng:100,spd:150,itv:1000},comment:["チューン可否不明"]}
 {id:9,name:"A.L.E.ウィンベルBS",size:"S",type:"s",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2, slot:3}
 {id:21,name:"A.L.E.ジークンロンBS",size:"S",type:"l",cost:40,hp:25,str:2,wlk:1,fly:2, slot:3}
-{id:28,name:"A.L.E.ラズフラムBS",size:"S",type:"l",cost:70,hp:25,str:-1,tec:2,wlk:2,fly:2, slot:3,tunable:{pwp:1}, sub:{pwr:20,shl:30,rng:150,spd:200,itv:500},comment:["A.L.E.ラズフラムLG専用","チューン可否不明"]}
 {id:34,name:"A.L.E.リリレインBS",size:"S",type:"c",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2, slot:3}
-{id:39,name:"K・ノンナBS",size:"S",type:"c",cost:35,hp:20,str:-1,tec:3,fly:3, slot:3, joint:{wp:1},comment:["コンバーションパーツのみ装備可"]}
+{id:39,name:"K・ノンナBS",size:"S",type:"c",cost:35,hp:20,str:-1,tec:3,fly:3, slot:3,comment:["コンバーションパーツのみ装備可"]}
 {id:70,name:"アイシーBS",size:"S",type:"c",cost:40,hp:25,tec:1,wlk:1,fly:3}
 {id:76,name:"アイシーαBS",size:"S",type:"c",cost:40,hp:25,str:-1,tec:1,fly:3,tgh:2, slot:3,comment:["ジアス版パーツ","便宜上αをつけています"]}
 {id:123,name:"アルテリスBS",size:"S",type:"l",cost:40,hp:25,tec:-1,wlk:1,fly:3,tgh:2, slot:3}
@@ -203,7 +202,7 @@
 {id:1013,name:"ドミクラウンBS",size:"L",type:"l",cost:35,hp:20,str:2,tec:-1,fly:3,tgh:1, slot:3}
 {id:1018,name:"ドラゴネイルBS",size:"L",type:"l",cost:40,hp:20,str:2,tec:1,wlk:1,fly:2,tgh:-1, slot:3}
 {id:1023,name:"ドラッケンBS",size:"L",type:"l",cost:40,hp:25,str:1,tec:-1,fly:3,tgh:2, slot:3}
-{id:1131,name:"バフデバスターBS",size:"L",type:"lacs",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2, slot:3}
+{id:1131,name:"バフデバスターBS",size:"L",type:"s",cost:40,hp:25,str:-1,wlk:1,fly:3,tgh:2, slot:3}
 {id:1141,name:"パルサーディオBS",size:"L",type:"s",cost:40,hp:25,wlk:2,fly:2,tgh:1, slot:3}
 {id:1185,name:"ビッグマンテスBS",size:"L",type:"a",cost:40,hp:25,tec:1,fly:2,tgh:2, slot:3}
 {id:1277,name:"ブリッツェルトBS",size:"L",type:"a",cost:55,hp:25,str:1,tec:1,fly:4,tgh:-1, slot:3, sub:{pwr:0,rng:150,spd:200,itv:1000}}

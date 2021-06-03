@@ -127,7 +127,7 @@
 {id:1143,name:"パルサーディオHD2",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2, slot:3}
 {id:1150,name:"バルテオンHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3}
 {id:1160,name:"バンガードHD",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2, slot:3}
-{id:1161,name:"バンガードHD3",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3, slot:3}
+{id:1161,name:"バンガードHD3",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:3, slot:3}
 {id:1167,name:"ビートランダーHD",size:"M",type:"l",cost:140,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3, sub:{pwr:32,rng:0,spd:250,itv:1000}}
 {id:1176,name:"ビクトールHD",size:"M",type:"c",cost:40,hp:25,tec:2,wlk:-1,fly:1,tgh:3, slot:3}
 {id:1181,name:"ビクトリーHD",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
@@ -180,7 +180,7 @@
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:0}
 {id:60,name:"アーティラスHD",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
 {id:85,name:"アクイーアHD",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,fly:1, slot:3}
-{id:86,name:"アクイーアHD2",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:1,fly:2, slot:3}
+{id:86,name:"アクイーアHD2",size:"L",type:"lacs",cost:35,hp:20,tec:1,wlk:1,fly:1,tgh:2, slot:3}
 {id:208,name:"ウォーダスHD",size:"L",type:"lacs",cost:40,hp:25,str:3,wlk:-1,tgh:3, slot:3}
 {id:209,name:"ウォーダスHD2",size:"L",type:"lacs",cost:40,hp:25,tec:3,wlk:1,fly:-1,tgh:2, slot:3}
 {id:334,name:"ガナハウンドHD",size:"L",type:"lacs",cost:40,hp:20,str:1,tec:2,wlk:1,fly:1, slot:3}
