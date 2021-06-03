@@ -183,8 +183,8 @@
 {id:417,name:"クリムローゼαBS",size:"S",type:"a", slot:0}
 {id:424,name:"クルールBS",size:"S",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:2,fly:2,tgh:1, slot:3}
 {id:564,name:"ジークンロンBS",size:"S",type:"l",cost:40,hp:25,str:2,tec:-1,fly:3,tgh:1, slot:3}
-{id:621,name:"シャーナBS2",size:"S",type:"a",cost:100, slot:0, main:{pwr:40,shl:50,rng:275,spd:480,itv:1000}, sub:{pwr:14,shl:240,rng:275,spd:360,itv:1000},comment:["変形後　HP+70"]}
-{id:622,name:"シャーナBS3",size:"S",type:"a", slot:3, joint:{wp:2}, main:{pwr:13,shl:600,rng:275,spd:400,itv:700}, sub:{pwr:0,shl:30,rng:0,spd:180,itv:1000}, fixedParts:{wp : ["シャーナBS4","シャーナBS4"] }}
+{id:621,name:"シャーナBS2",size:"S",type:"a",cost:100, slot:0,tunable:{mwp:1}, main:{pwr:40,shl:50,rng:275,spd:480,itv:1000}, sub:{pwr:14,shl:240,rng:275,spd:360,itv:1000},comment:["変形後　HP+70"]}
+{id:622,name:"シャーナBS3",size:"S",type:"a", slot:3, joint:{wp:2},tunable:{mwp:1}, main:{pwr:13,shl:600,rng:275,spd:400,itv:700}, sub:{pwr:0,shl:30,rng:0,spd:180,itv:1000}, fixedParts:{wp : ["シャーナBS4","シャーナBS4"] }}
 {id:623,name:"シャーナBS4",size:"S",type:"a", slot:0}
 {id:688,name:"シルビアBS",size:"S",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
 {id:765,name:"セラフクリムローゼBS",size:"S",type:"a", slot:0}
@@ -254,7 +254,7 @@
 {id:545,name:"サニーAM",size:"S",type:"l",cost:40,hp:25,str:3,wlk:1,tgh:1, slot:3,comment:["部位破壊不能"]}
 {id:546,name:"サニーAM2",size:"S",type:"l",cost:40,hp:25,str:3,wlk:1,tgh:1, slot:3, joint:{wp:2},comment:["部位破壊不能","エフェクトコンバーションスロット省略"]}
 {id:562,name:"ジークンロンAM",size:"S",type:"l",cost:40,hp:25,str:1,tec:1,wlk:2,tgh:1, slot:3}
-{id:617,name:"シャーナAM",size:"S",type:"a",cost:110,hp:25,tec:2,wlk:1,fly:2, slot:3, main:{pwr:23,shl:240,rng:275,spd:400,itv:600}}
+{id:617,name:"シャーナAM",size:"S",type:"a",cost:110,hp:25,tec:2,wlk:1,fly:2, slot:3,tunable:{mwp:1}, main:{pwr:23,shl:240,rng:275,spd:400,itv:600}}
 {id:618,name:"シャーナAM2",size:"S",type:"a",cost:70,hp:25,tec:2,wlk:1,fly:2, slot:3, sub:{pwr:0,shl:30,rng:0,spd:180,itv:1000}}
 {id:685,name:"シルビアAM",size:"S",type:"l",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3, joint:{wp:0},comment:["部位破壊不能","手持ち装備不可"]}
 {id:686,name:"シルビアAM2",size:"S",type:"l",cost:60,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},comment:["部位破壊不能"]}
