@@ -207,8 +207,8 @@
 {group:"ＡＭ",prefixId:"A",nextId:6000}
 {id:708,name:"スケアガントAM",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, joint:{wp:0}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["部位破壊不能","手持ち装備不可"]}
 {id:710,name:"スケアガントAM3",size:"L",type:"l",cost:180,hp:25,str:3,tec:-1,wlk:2,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:25,shl:210,rng:275,spd:480,itv:300}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["部位破壊不能"]}
-{id:925,name:"グレート・ロイAM",size:"L",type:"c",cost:100,hp:25,tec:3,tgh:2, slot:3, joint:{wp:0}, main:{pwr:20,shl:240,rng:330,spd:260,itv:800},comment:["武器手持ち不可"]}
-{id:926,name:"グレート・ロイAM2",size:"L",type:"c",cost:100,hp:25,tec:3,tgh:2, slot:3, main:{pwr:20,shl:240,rng:330,spd:260,itv:800}}
+{id:925,name:"グレート・ロイAM",size:"L",type:"c",cost:100,hp:25,tec:3,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:20,shl:240,rng:330,spd:260,itv:800},comment:["武器手持ち不可"]}
+{id:926,name:"グレート・ロイAM2",size:"L",type:"c",cost:100,hp:25,tec:3,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:20,shl:240,rng:330,spd:260,itv:800}}
 {id:1027,name:"ドラッケンαAM",size:"L",type:"l",cost:85,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:25,rng:150,spd:250,itv:1000},comment:["チューン可否不明"]}
 {id:1028,name:"ドラッケンαAM2",size:"L",type:"l",cost:35,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1, slot:3}
 {id:1491,name:"メガトンオーTitanAM",size:"L",type:"l",cost:35,hp:20,str:1,wlk:1,tgh:3, slot:3}
@@ -302,7 +302,7 @@
 {id:854,name:"ダゴミュールBS@",size:"L",type:"c",cost:80, slot:0, main:{pwr:13,shl:300,rng:350,spd:500,itv:800}}
 {id:856,name:"ダゴミュールBS2@1",size:"L",type:"c",cost:60, slot:0, main:{pwr:23,shl:120,rng:330,spd:350,itv:800}}
 {id:857,name:"ダゴミュールBS2@2",size:"L",type:"c",cost:60, slot:0, main:{pwr:10,shl:300,rng:380,spd:500,itv:300}}
-{id:928,name:"グレート・ロイBD@",size:"L",type:"c", slot:0, main:{pwr:12,shl:580,rng:350,spd:440,itv:600}, sub:{pwr:0,shl:30,rng:10,spd:10,itv:1000}}
+{id:928,name:"グレート・ロイBD@",size:"L",type:"c", slot:0,tunable:{mwp:1}, main:{pwr:12,shl:580,rng:350,spd:440,itv:600}, sub:{pwr:0,shl:30,rng:10,spd:10,itv:1000}}
 {id:1130,name:"バフデバスターBD@",size:"L",type:"s", slot:0, main:{pwr:7,shl:500,rng:330,spd:290,itv:600}}
 {id:1556,name:"ラグナバレットBD@",size:"L",type:"c",cost:110, slot:0, main:{pwr:14,shl:450,rng:350,spd:400,itv:400}}
 {id:1026,name:"ドストレックスソウル",size:"LL",type:"l",cost:170, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:20,shl:50,rng:200,spd:570,itv:500}, sub:{pwr:32,rng:70,spd:85,itv:2000},comment:["チューン可否不明"]}
@@ -321,6 +321,7 @@
 {id:613,name:"シノーリスBD2@",size:"M",type:"l",cost:100, slot:0,tunable:{mwp:1}, main:{pwr:9,shl:480,rng:250,spd:320,itv:300}}
 {id:718,name:"スケアドラムガン",size:"M",type:"l",cost:80, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:1100,rng:225,spd:440,itv:300},comment:["チューン可否不明"]}
 {id:719,name:"スケアナイフ＆ボム",size:"M",type:"l",cost:90, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
+{id:933,name:"ディアナBD",size:"M",type:"c", slot:0, joint:{wp:5},tunable:{pwp:1}, sub:{pwr:32,shl:30,rng:350,spd:10,itv:1000}, fixedParts:{wp : ["ディアナHD","ディアナLG","ディアナBS","ディアナAM","ディアナAM"] }}
 {id:954,name:"でかマニモBD@",size:"M",type:"l",cost:100, slot:3, sub:{pwr:30,rng:56,spd:68,itv:1500},comment:["チューン可否不明"]}
 {id:1078,name:"ハイガクゥーンBS@",size:"M",type:"c", slot:0, main:{pwr:7,shl:300,rng:330,spd:290,itv:880}, sub:{pwr:17,shl:140,rng:350,spd:300,itv:1000}}
 {id:1082,name:"ハイバリオンAM@",size:"M",type:"c", slot:0, sub:{pwr:20,shl:130,rng:350,spd:290,itv:1000}}
