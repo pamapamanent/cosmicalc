@@ -232,7 +232,7 @@
 {id:1313,name:"ヘカトケレスAM",size:"L",type:"c",cost:115,hp:20,str:-1,tec:3,wlk:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:14,shl:360,rng:330,spd:370,itv:800},comment:["チューン可否不明"]}
 {id:1314,name:"ヘカトケレスAM2",size:"L",type:"c",cost:115,hp:20,str:-1,tec:4,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:26,shl:210,rng:300,spd:320,itv:800},comment:["手持ち装備不可","チューン可否不明"]}
 {id:1322,name:"ベクターAM",size:"L",type:"lacs",cost:35,hp:20,str:1,tec:-1,wlk:2,fly:1,tgh:2, slot:3}
-{id:1379,name:"マイティバインAM",size:"L",type:"l", slot:3,tunable:{pwp:1}, sub:{pwr:35,shl:40,rng:70,spd:85,itv:2000},comment:["盾耐久値不明","チューン可否不明"]}
+{id:1379,name:"マイティバインAM",size:"L",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:35,shl:40,rng:70,spd:85,itv:2000},comment:["盾耐久値不明","チューン可否不明"]}
 {id:1380,name:"マイティバインAM2",size:"L",type:"l",cost:80,hp:25,str:1,wlk:1,tgh:3, slot:3,comment:["盾耐久値不明"]}
 {id:1398,name:"マイトボンバーAM",size:"L",type:"a",cost:85,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:900,rng:240,spd:440,itv:140},comment:["手持ち装備不可"]}
 {id:1399,name:"マイトボンバーAM2",size:"L",type:"a",cost:115,hp:20,str:-1,tec:3,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:25,shl:240,rng:275,spd:400,itv:720},comment:["手持ち装備不可","2021/06/02修正"]}
