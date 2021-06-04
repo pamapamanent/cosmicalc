@@ -206,7 +206,7 @@
 
 {group:"ＡＭ",prefixId:"A",nextId:6000}
 {id:708,name:"スケアガントAM",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, joint:{wp:0}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["部位破壊不能","手持ち装備不可"]}
-{id:710,name:"スケアガントAM3",size:"L",type:"l",cost:180,hp:25,str:3,tec:-1,wlk:2,tgh:1, slot:3, joint:{wp:0}, main:{pwr:25,shl:210,rng:275,spd:480,itv:300}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["部位破壊不能"]}
+{id:710,name:"スケアガントAM3",size:"L",type:"l",cost:180,hp:25,str:3,tec:-1,wlk:2,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:25,shl:210,rng:275,spd:480,itv:300}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["部位破壊不能"]}
 {id:925,name:"グレート・ロイAM",size:"L",type:"c",cost:100,hp:25,tec:3,tgh:2, slot:3, joint:{wp:0}, main:{pwr:20,shl:240,rng:330,spd:260,itv:800},comment:["武器手持ち不可"]}
 {id:926,name:"グレート・ロイAM2",size:"L",type:"c",cost:100,hp:25,tec:3,tgh:2, slot:3, main:{pwr:20,shl:240,rng:330,spd:260,itv:800}}
 {id:1027,name:"ドラッケンαAM",size:"L",type:"l",cost:85,hp:20,str:2,tec:-1,wlk:2,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:25,rng:150,spd:250,itv:1000},comment:["チューン可否不明"]}
