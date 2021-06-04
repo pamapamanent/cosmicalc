@@ -317,7 +317,7 @@
 {id:294,name:"オーガヒルAM2@",size:"M",type:"c",cost:70, slot:0, main:{pwr:19,shl:300,rng:350,spd:230,itv:500}}
 {id:351,name:"ガンアームズBS@",size:"M",type:"c", slot:0, main:{pwr:16,shl:200,rng:350,spd:520,itv:900}}
 {id:504,name:"サイコクラスターBD@",size:"M",type:"a",cost:120, slot:0, main:{pwr:[4,5,6],shl:1200,rng:[275,285,300],spd:345,itv:1000}, sub:{pwr:[30,35,40],shl:60,rng:275,spd:350,itv:1000},comment:["2021/06/02修正"]}
-{id:506,name:"サイコクラスターBD2@",size:"M",type:"a",cost:200, slot:0, joint:{wp:1}, main:{pwr:6,shl:1200,rng:275,spd:320,itv:1200}, sub:{pwr:14,shl:240,rng:275,spd:350,itv:1000}}
+{id:506,name:"サイコクラスターBD2@",size:"M",type:"a",cost:200, slot:0, main:{pwr:[6,6,8],shl:1200,rng:[275,275,300],spd:[320,320,400],itv:1200}, sub:{pwr:[14,14,22],shl:240,rng:275,spd:350,itv:1000}}
 {id:613,name:"シノーリスBD2@",size:"M",type:"l",cost:100, slot:0,tunable:{mwp:1}, main:{pwr:9,shl:480,rng:250,spd:320,itv:300}}
 {id:718,name:"スケアドラムガン",size:"M",type:"l",cost:80, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:1100,rng:225,spd:440,itv:300},comment:["チューン可否不明"]}
 {id:719,name:"スケアナイフ＆ボム",size:"M",type:"l",cost:90, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
