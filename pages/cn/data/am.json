@@ -72,7 +72,7 @@
 {id:108,name:"アマテウスAM",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:2,tgh:2, slot:3}
 {id:109,name:"アマテウスAM2",size:"M",type:"c",cost:100,hp:25,tec:3,wlk:1,fly:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:22,shl:190,rng:330,spd:290,itv:300},comment:["武器手持ち不可","チューン可否不明"]}
 {id:127,name:"アルバトレオスAM",size:"M",type:"c",cost:70,hp:25,tec:2,wlk:1,tgh:2, slot:3, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:26,rng:100,spd:250,itv:500,tec:100},comment:["武器手持ち不可","チューン可否不明"]}
-{id:149,name:"アントリオンAM2",size:"M",type:"c",cost:55,hp:20,wlk:2,fly:2,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:6,shl:580,rng:200,spd:400,itv:200},comment:["武器手持ち不可","チューン可否不明"]}
+{id:149,name:"アントリオンAM",size:"M",type:"c",cost:55,hp:20,wlk:2,fly:2,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:6,shl:580,rng:200,spd:400,itv:200},comment:["武器手持ち不可","チューン可否不明"]}
 {id:150,name:"アントリオンAM3",size:"M",type:"c",cost:85,hp:20,tec:2,wlk:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:640,rng:150,spd:400,itv:200},comment:["チューン可否不明"]}
 {id:156,name:"イヅナカムイαAM",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:-1,fly:2,tgh:1, slot:3}
 {id:157,name:"イヅナカムイαAM2",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:1, slot:3}
@@ -175,7 +175,7 @@
 {id:56,name:"アーティラスAM",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3, slot:3}
 {id:81,name:"アクイーアAM",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:1,fly:1,tgh:1, slot:3}
 {id:131,name:"アルマダAM",size:"L",type:"a",cost:100,hp:25,tec:3,wlk:-1,fly:1,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:13,shl:400,rng:275,spd:255,itv:360},comment:["手持ち装備不可","チューン可否不明"]}
-{id:148,name:"アントリオンAM",size:"L",type:"c",cost:125,hp:20,tec:3,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:42,shl:50,rng:300,spd:360,itv:2000},comment:["武器手持ち不可","チューン可否不明"]}
+{id:148,name:"アントリオンAM2",size:"L",type:"c",cost:125,hp:20,tec:3,tgh:2, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:42,shl:50,rng:300,spd:360,itv:2000},comment:["武器手持ち不可","チューン可否不明"]}
 {id:203,name:"ウォーダスAM",size:"L",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
 {id:204,name:"ウォーダスAM2",size:"L",type:"lacs",cost:35,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1, slot:3}
 {id:217,name:"ヴォルフライエAM",size:"L",type:"lacs",cost:40,hp:25,tec:3,wlk:1,fly:1, slot:3}
