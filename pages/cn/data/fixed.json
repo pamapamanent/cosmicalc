@@ -1,5 +1,5 @@
 {group:"ＨＤ",prefixId:"H",nextId:0}
-{id:252,name:"ロズブラオHD",size:"L",type:"l",cost:30, slot:3, main:{pwr:25,shl:50,rng:200,spd:500,itv:500}}
+{id:252,name:"ロスブラオHD",size:"L",type:"l",cost:30, slot:3, main:{pwr:25,shl:50,rng:200,spd:500,itv:500,str:100}}
 {id:950,name:"でかキャノンボールHD",size:"L",type:"c",cost:45,hp:25,tec:2,wlk:1,tgh:2, slot:3}
 {id:1494,name:"メガトンオーTitanHD",size:"L",type:"l",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1, slot:3}
 {id:1355,name:"ベルゼイラフHD",size:"LL",type:"c",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:2,tgh:2, slot:3}
@@ -85,7 +85,7 @@
 {id:1617,name:"ルーシェαHD2",size:"S",type:"c",cost:90,hp:25,tec:2,wlk:2,tgh:1, slot:3, sub:{pwr:20,rng:100,spd:350,itv:1000,tec:100}}
 
 {group:"ＬＧ",prefixId:"L",nextId:2000}
-{id:253,name:"ロズブラオLG",size:"L",type:"l",cost:30, slot:0, sub:{pwr:20,rng:220,spd:0,itv:1000}}
+{id:253,name:"ロスブラオLG",size:"L",type:"l",cost:30, slot:0, sub:{pwr:20,rng:220,spd:0,itv:1000,str:100}}
 {id:931,name:"グレート・ロイLG",size:"L",type:"c",cost:50,hp:25,wlk:3,tgh:3, slot:3, sub:{pwr:0,rng:0,spd:0,itv:500}}
 {id:951,name:"でかキャノンボールLG",size:"L",type:"c",cost:40,hp:25,tec:1,wlk:3,fly:-1,tgh:2, slot:3}
 {id:1031,name:"ドラッケンαLG",size:"L",type:"l",cost:45,hp:25,wlk:3,tgh:2, slot:3, joint:{bs:1}}
@@ -353,7 +353,7 @@
 {id:237,name:"ラブリーシリンジα",size:"S",type:"s",cost:50, slot:3, sub:{pwr:1,shl:30,rng:300,spd:300,itv:500},comment:["本来のパーツ名は「ラブリーシリンジ」ですが便宜上αとしています"]}
 {id:238,name:"ラブリーシリンジβ",size:"S",type:"s",cost:30, slot:3, sub:{pwr:16,shl:220,rng:300,spd:400,itv:700},comment:["本来のパーツ名は「ラブリーシリンジ」ですが便宜上βとしています"]}
 {id:245,name:"エクスラズフラムAM@",size:"S",type:"l", slot:0}
-{id:250,name:"エクスランス",size:"S",type:"l",cost:210, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:20,shl:340,rng:225,spd:440,itv:500,str:100}, sub:{pwr:30,shl:30,rng:100,spd:250,itv:1000}}
+{id:250,name:"エクスランス",size:"S",type:"l",cost:210, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:20,shl:340,rng:225,spd:440,itv:500,str:100}, sub:{pwr:30,shl:30,rng:100,spd:250,itv:1000,str:100}}
 {id:270,name:"プリンセスシールド",size:"S",type:"l",cost:20, slot:3, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}}
 {id:271,name:"プリンセスシヴァリー",size:"S",type:"l",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:500}}
 {id:272,name:"プリンセスストライク",size:"S",type:"l",cost:30, slot:3,tunable:{mwp:1}, main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100}}
@@ -377,7 +377,7 @@
 {id:901,name:"プチフォンティエン",size:"S",type:"s",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:3,shl:270,rng:250,spd:320,itv:1000}, sub:{pwr:0,shl:3,rng:100,spd:150,itv:1000},comment:["チューン可否不明"]}
 {id:902,name:"プチラビリンアクス",size:"S",type:"s",cost:40, slot:3,tunable:{mwp:1}, main:{pwr:4,shl:320,rng:300,spd:330,itv:340}}
 {id:917,name:"るーしぇBD@",size:"S",type:"s",cost:30, slot:3, sub:{pwr:0,shl:3,rng:0,spd:0,itv:5000}}
-{id:920,name:"ろずぶらお",size:"S",type:"s", slot:3,tunable:{pwp:1}, sub:{pwr:10,shl:30,rng:70,spd:100,itv:2500}}
+{id:920,name:"ろすぶらお",size:"S",type:"s", slot:3,tunable:{pwp:1}, sub:{pwr:10,shl:30,rng:70,spd:100,itv:2500,str:100}}
 {id:1045,name:"シヴァリーキャノン@",size:"S",type:"c",cost:50, slot:0, main:{pwr:40,shl:30,rng:300,spd:400,itv:500},comment:["正式名称は「シヴァリーキャノン」ですが、便宜上@をつけています"]}
 {id:1049,name:"ナターシャBD@",size:"S",type:"c", slot:0}
 {id:1058,name:"アルティメットニッパー",size:"S",type:"c",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:4,shl:1200,rng:330,spd:340,itv:300}}
