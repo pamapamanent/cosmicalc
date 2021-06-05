@@ -166,7 +166,7 @@
 {id:84,name:"アクイーアBS",size:"L",type:"a",cost:50,hp:30,str:1,tec:2,wlk:-1,fly:3,tgh:1, slot:3}
 {id:152,name:"アントリオンBS",size:"L",type:"c",cost:90,hp:25,str:-1,tec:2,fly:2,tgh:2, slot:3, sub:{pwr:7,shl:360,rng:350,spd:290,itv:1000},comment:["チューン可否不明"]}
 {id:206,name:"ウォーダスBS",size:"L",type:"l",cost:40,hp:25,str:2,tec:-1,wlk:1,fly:3, slot:3}
-{id:207,name:"ウォーダスBS2",size:"L",type:"a",cost:40,hp:25,str:-1,tec:2,wlk:3,fly:1, slot:3}
+{id:207,name:"ウォーダスBS2",size:"L",type:"l",cost:40,hp:25,str:-1,tec:2,wlk:3,fly:1, slot:3}
 {id:219,name:"ヴォルフライエBS",size:"L",type:"a",cost:40,hp:25,tec:2,fly:4,tgh:-1, slot:3, joint:{wp:1}, main:{pwr:6,shl:600,rng:275,spd:350,itv:1000}, sub:{pwr:0,shl:30,rng:100,spd:120,itv:1000}, fixedParts:{wp : "ヴォルフライエBS@" }}
 {id:320,name:"カタロスBS",size:"L",type:"a",cost:40,hp:25,str:1,tec:1,wlk:-1,fly:3,tgh:1, slot:3}
 {id:327,name:"ガデロガBS",size:"L",type:"c",cost:40,hp:25,str:1,wlk:-1,fly:3,tgh:2, slot:3}
