@@ -197,7 +197,7 @@
 {id:585,name:"ジオグラシスAM3",size:"L",type:"l",cost:105,hp:20,str:3,wlk:3,fly:-1, slot:3,tunable:{pwp:1}, sub:{pwr:30,rng:80,spd:150,itv:2000}}
 {id:586,name:"ジオグラシスAM4",size:"L",type:"a",cost:85,hp:20,tec:3,wlk:-1,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:350,rng:275,spd:290,itv:1000},comment:["チューン可否不明"]}
 {id:642,name:"シュトルバンガーAM",size:"L",type:"c",cost:125,hp:25,str:-1,tec:3,tgh:3, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:560,rng:330,spd:290,itv:400}}
-{id:643,name:"シュトルバンガーAM2",size:"L",type:"c",cost:100,hp:25,tec:3,wlk:1,fly:1, slot:3}
+{id:643,name:"シュトルバンガーAM2",size:"L",type:"c",cost:100,hp:25,tec:3,wlk:1,fly:1, slot:3,tunable:{mwp:1}, main:{pwr:17,shl:320,rng:330,spd:260,itv:500}}
 {id:709,name:"スケアガントAM2",size:"L",type:"lacs",cost:40,hp:20,str:2,tec:1,wlk:2,fly:1,tgh:-1, slot:3}
 {id:711,name:"スケアガントAM4",size:"L",type:"lacs",cost:40,hp:25,str:-1,tec:2,wlk:2,tgh:2, slot:3}
 {id:730,name:"スチールバーンAM2",size:"L",type:"a",cost:100,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3, sub:{pwr:12,shl:200,rng:275,spd:350,itv:1000},comment:["チューン可否不明"]}
@@ -266,7 +266,7 @@
 {id:1581,name:"ランサーロットAM2",size:"LL",type:"l",cost:90,hp:25,wlk:2,fly:1,tgh:2, slot:3, joint:{wp:0}, sub:{pwr:0,rng:100,spd:50,itv:500},comment:["武器手持ち不可","盾耐久値不明","チューン可否不明"]}
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:0}
-{id:644,name:"シュトルバンガーAMJ",size:"L",type:"c",cost:30, slot:1}
+{id:644,name:"シュトルバンガーAMJ",size:"L",type:"c",cost:30, slot:1,tunable:{mwp:1}, main:{pwr:10,shl:240,rng:300,spd:400,itv:800}}
 {id:659,name:"ウィングプラスAMJ",size:"L",type:"lacs",cost:20,wlk:-1,fly:2, slot:1, builtin:{bs:1},comment:["ショップ販売"]}
 {id:668,name:"ハウザーAMJ",size:"L",type:"c",cost:70,tec:2,wlk:-1, slot:1, sub:{pwr:33,shl:60,rng:350,spd:210,itv:1000},comment:["ショップ販売"]}
 {id:1315,name:"ヘカトケレスAMJ",size:"L",type:"c",cost:20, slot:1,tunable:{mwp:1}, main:{pwr:8,shl:190,rng:300,spd:260,itv:600},comment:["ユニオンコイン景品"]}
