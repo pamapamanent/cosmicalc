@@ -1488,7 +1488,7 @@ var ajaxManager = new function(){
 				dataError = function(){
 					Message.set('Error!　'+fname+' Failed to Load。', 2);
 					if(++tcount == task.length){
-						Message.set('処理を中断します。', 2);
+						Message.set('Stop Processing.', 2);
 						$("#OVERLAY").hide();
 					}
 			},
@@ -2011,7 +2011,7 @@ function autoSetup(ccd){
 		}
 
 		if(pd == undefined){
-			Message.set('"'+this.name+'"はパーツデータが見つかりませんでした。', 1);
+			Message.set('"'+this.name+'"No Part Data Was Found.', 1);
 			return;
 		}
 
