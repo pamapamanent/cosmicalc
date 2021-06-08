@@ -179,7 +179,7 @@
 {id:317,name:"カタロスAM",size:"L",type:"a",cost:40,hp:25,tec:3,fly:1,tgh:1, slot:3}
 {id:331,name:"ガナハウンドAM",size:"L",type:"l",cost:135,hp:25,str:3,tec:-1,wlk:1,tgh:2, slot:3, sub:{pwr:32,rng:70,spd:85,itv:500},comment:["チューン可否不明"]}
 {id:354,name:"ギガトンオーAM",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:2,tgh:1, slot:3}
-{id:369,name:"ギャランバルドAM2",size:"L",type:"l",cost:145,hp:25,str:4,tec:-1,wlk:2, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:37,shl:30,rng:70,spd:85,itv:500},comment:["武器手持ち不可","チューン可否不明"]}
+{id:369,name:"ギャランバルドAM2",size:"L",type:"l",cost:145,hp:25,str:4,tec:-1,wlk:2, joint:{wp:0},tunable:{pwp:1}, sub:{pwr:37,shl:30,rng:70,spd:85,itv:500,str:100},comment:["武器手持ち不可"]}
 {id:396,name:"クシュルブAM",size:"L",type:"l",cost:90,hp:20,str:3,wlk:1,fly:2,tgh:-1, slot:3,tunable:{pwp:1}, sub:{pwr:33,rng:35,spd:43,itv:2000},comment:["チューン可否不明"]}
 {id:432,name:"クロコダガーAM",size:"L",type:"lacs",cost:35,hp:20,str:3,tec:1,tgh:1, slot:3}
 {id:477,name:"コスモカイザーAM",size:"L",type:"lacs",cost:40,hp:25,str:3,tec:1,tgh:1, slot:3}
