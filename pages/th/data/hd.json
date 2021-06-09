@@ -74,6 +74,8 @@
 {id:475,name:"ゴートランHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:2,wlk:-1,fly:1,tgh:1, slot:3}
 {id:508,name:"サイコクラスターHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:2,tgh:-1, slot:3}
 {id:509,name:"サイコクラスターHD2",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:2,fly:2, slot:3}
+{id:1686,name:"サイコフォーミュラHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1, slot:3}
+{id:1683,name:"サイコフォーミュラHD2",size:"M",type:"c",cost:100,hp:25,str:-1,tec:3,fly:1,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:15,shl:280,rng:330,spd:290,itv:740}}
 {id:516,name:"サイドロンHD",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:-1,fly:2,tgh:2, slot:3}
 {id:517,name:"サイドロンHD2",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:-1,wlk:3,tgh:2, slot:3}
 {id:541,name:"サジタルマクシスHD",size:"M",type:"lacs",cost:40,hp:25,tec:2,tgh:3, slot:3}
