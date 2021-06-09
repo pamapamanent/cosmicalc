@@ -202,7 +202,7 @@
 {id:1039,name:"ビートルガン",size:"M",type:"l",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:19,shl:330,rng:225,spd:440,itv:500},comment:["ビートランダー初期装備"]}
 {id:1040,name:"クリスタルビームガン",size:"M",type:"a",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:20,shl:250,rng:275,spd:440,itv:700},comment:["【結晶】コイン景品"]}
 {id:1041,name:"デバイスブレイカー",size:"M",type:"c",cost:90, slot:3,tunable:{mwp:1}, main:{pwr:33,shl:150,rng:330,spd:480,itv:1000},comment:["【結晶】コイン景品"]}
-{id:1042,name:"フラクタリスアニマ",size:"M",type:"a", slot:3, main:{pwr:8,shl:800,rng:275,spd:400,itv:200},comment:["【結晶】コイン景品"]}
+{id:1042,name:"フラクタリスアニマ",size:"M",type:"a",cost:200, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:800,rng:275,spd:400,itv:200},comment:["【結晶】コイン景品"]}
 {id:1043,name:"ラピッドパルスミサイル",size:"M",type:"a",cost:110, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:350,rng:275,spd:350,itv:320},comment:["【結晶】コイン景品"]}
 {id:1047,name:"ソルジャーレールガン",size:"M",type:"c",cost:160, slot:3,tunable:{mwp:1}, main:{pwr:30,shl:180,rng:330,spd:480,itv:520},comment:["ブラディスター初期装備","チューン可否不明"]}
 {id:1049,name:"ブリンクメイス",size:"M",type:"c",cost:190, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:12,shl:390,rng:330,spd:330,itv:1000}, sub:{pwr:30,rng:75,spd:100,itv:1000,tec:100},comment:["ブリンク初期装備","チューン可否不明"]}
