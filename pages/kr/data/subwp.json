@@ -60,7 +60,7 @@
 {id:1033,name:"メモリ・スロット",size:"M",type:"lacs", slot:3,comment:["ロボ共通のスロット増設パーツ"]}
 {id:1035,name:"カムイスタッフ",size:"M",type:"lacs",cost:160, slot:3, sub:{pwr:32,rng:91,spd:110,itv:500},comment:["【因果】コイン景品"]}
 {id:1036,name:"ダマスクスナイフ",size:"M",type:"l",cost:140, slot:3, sub:{pwr:31,rng:105,spd:128,itv:1000},comment:["【因果】コイン景品"]}
-{id:1037,name:"ハクメンスクナアニマ",size:"M",type:"l",cost:150, slot:3, sub:{pwr:34,rng:70,spd:85,itv:500},comment:["【因果】コイン景品"]}
+{id:1037,name:"ハクメンスクナアニマ",size:"M",type:"l",cost:150, slot:3,tunable:{pwp:1}, sub:{pwr:34,rng:70,spd:85,itv:500},comment:["【因果】コイン景品"]}
 {id:1038,name:"ホムラスタッフ",size:"M",type:"lacs",cost:90, slot:3, sub:{pwr:25,shl:180,rng:250,spd:290,itv:1000},comment:["【因果】コイン景品"]}
 {id:1044,name:"オネストシールド",size:"M",type:"lacs",cost:35, slot:3,comment:["プラチナチケット景品","α、βステータス同じ","盾耐久値不明"]}
 {id:1045,name:"カタストロフシールド",size:"M",type:"lacs",cost:35, slot:3,comment:["プラチナチケット景品","α、βステータス同じ","盾耐久値不明"]}
