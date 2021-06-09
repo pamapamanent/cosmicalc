@@ -23,6 +23,8 @@
 {id:415,name:"クリムローゼαAM2",size:"S",type:"a",cost:105,hp:20,str:3,fly:1,tgh:1, slot:3, sub:{pwr:30,rng:70,spd:8,itv:5500}}
 {id:436,name:"クロスラプターAM",size:"S",type:"a",cost:35,hp:20,str:-1,tec:1,fly:3,tgh:2, slot:3, joint:{wp:2}, fixedParts:{wp : "クロスラプターAM@" }}
 {id:438,name:"クロスラプターAM2",size:"S",type:"a",cost:35,hp:20,str:1,tec:-1,fly:3,tgh:2, slot:3, joint:{wp:2}, fixedParts:{wp : "クロスラプターAM2@" }}
+{id:1687,name:"サイコフォーミュラAM",size:"S",type:"c",cost:120,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:12,shl:500,rng:330,spd:290,itv:740},comment:["手持ち装備不可"]}
+{id:1685,name:"サイコフォーミュラAM2",size:"S",type:"c",cost:90,hp:25,tec:3,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:10,shl:460,rng:330,spd:290,itv:740},comment:["手持ち装備不可"]}
 {id:570,name:"ジークンαAM",size:"S",type:"lacs",cost:35,hp:20,str:1,tec:1,wlk:2,tgh:1, slot:3}
 {id:626,name:"シャインバスターAM",size:"S",type:"lacs",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
 {id:631,name:"シャインバトラーAM",size:"S",type:"lacs",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1, slot:3}
