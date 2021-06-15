@@ -296,7 +296,7 @@
 {id:537,name:"サジタルマクシスBD@",size:"L",type:"c",cost:140, slot:0, main:{pwr:42,shl:160,rng:350,spd:520,itv:500}}
 {id:539,name:"サジタルマクシスBD2@",size:"L",type:"c",cost:140, slot:0, main:{pwr:25,shl:440,rng:350,spd:520,itv:340}}
 {id:557,name:"ジーウェインAM@",size:"L",type:"a", slot:0}
-{id:646,name:"シュトルバンガーBD@",size:"L",type:"c",cost:90, slot:0, main:{pwr:9,shl:780,rng:350,spd:290,itv:500}}
+{id:646,name:"シュトルバンガーBD@",size:"L",type:"c",cost:90, slot:0, main:{pwr:8,shl:840,rng:350,spd:290,itv:500}}
 {id:648,name:"シュトルバンガーBD2@",size:"L",type:"c",cost:120, slot:0, main:{pwr:9,shl:760,rng:350,spd:330,itv:600}}
 {id:737,name:"スチールバーンLG@",size:"L",type:"a", slot:0, joint:{bs:1}}
 {id:854,name:"ダゴミュールBS@",size:"L",type:"c",cost:80, slot:0, main:{pwr:13,shl:300,rng:350,spd:500,itv:800}}
