@@ -86,7 +86,7 @@
 {id:762,name:"セバーレイスタッグLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:3,tgh:1, slot:3}
 {id:829,name:"ソルジェッターLG",size:"M",type:"a",cost:95,hp:25,str:3,tec:-1,wlk:2,fly:1, slot:3,tunable:{pwp:1}, sub:{pwr:34,shl:30,rng:120,spd:220,itv:1000},comment:["チューン可否不明"]}
 {id:959,name:"デジトロイドLG",size:"M",type:"lacs",cost:45,hp:25,str:2,wlk:3,tgh:1, slot:3}
-{id:981,name:"テツジンガーLG",size:"M",type:"l",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:2, slot:3}
+{id:981,name:"テツジンガーLG",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:-1,tgh:2, slot:3}
 {id:1004,name:"トニトルスLG",size:"M",type:"a",cost:75,hp:25,wlk:2,fly:2,tgh:2, slot:3, sub:{pwr:0,shl:60,rng:100,spd:120,itv:1000},comment:["チューン可否不明"]}
 {id:1042,name:"ナイトジャーLG",size:"M",type:"lacs",cost:45,hp:25,str:1,wlk:3,fly:1,tgh:1, slot:3}
 {id:1080,name:"ハイガクゥーンLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,wlk:3,fly:2,tgh:1, slot:3}

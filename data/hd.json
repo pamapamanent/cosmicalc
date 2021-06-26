@@ -107,7 +107,7 @@
 {id:958,name:"デジトロイドHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,fly:1,tgh:1, slot:3}
 {id:965,name:"デストラクトHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,tgh:2, slot:3}
 {id:970,name:"デストラクトMAXHD",size:"M",type:"lacs",cost:40,hp:25,str:-1,tec:2,fly:1,tgh:3, slot:3}
-{id:980,name:"テツジンガーHD",size:"M",type:"l",cost:35,hp:20,str:1,wlk:1,tgh:3, slot:3}
+{id:980,name:"テツジンガーHD",size:"M",type:"lacs",cost:35,hp:20,str:1,wlk:1,tgh:3, slot:3}
 {id:985,name:"テントリオンHD",size:"M",type:"a",cost:105,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:7,shl:440,rng:275,spd:350,itv:760}}
 {id:991,name:"トイボックスHD",size:"M",type:"lacs",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1, slot:3}
 {id:1003,name:"トニトルスHD",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:3,wlk:1,tgh:-1, slot:3}
@@ -129,7 +129,7 @@
 {id:1143,name:"パルサーディオHD2",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2, slot:3}
 {id:1150,name:"バルテオンHD",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:1,fly:1,tgh:2, slot:3}
 {id:1160,name:"バンガードHD",size:"M",type:"lacs",cost:40,hp:25,tec:1,wlk:1,fly:1,tgh:2, slot:3}
-{id:1161,name:"バンガードHD3",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:1,wlk:1,tgh:3, slot:3}
+{id:1161,name:"バンガードHD3",size:"M",type:"lacs",cost:40,hp:25,str:2,tec:-1,wlk:1,tgh:3, slot:3}
 {id:1167,name:"ビートランダーHD",size:"M",type:"l",cost:140,hp:25,str:2,tec:-1,wlk:1,fly:1,tgh:2, slot:3, sub:{pwr:32,rng:0,spd:250,itv:1000}}
 {id:1176,name:"ビクトールHD",size:"M",type:"c",cost:40,hp:25,tec:2,wlk:-1,fly:1,tgh:3, slot:3}
 {id:1181,name:"ビクトリーHD",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:2,tgh:1, slot:3}
