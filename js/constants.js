@@ -17,8 +17,8 @@
 
 
 /* CONST VARS */
-var VERSION = "4.1.5",
-		LAST_MODIFIED = "2021.06.15",
+var VERSION = "4.1.6",
+		LAST_MODIFIED = "2021.06.29",
 
 	WEB_ACCESS_QUERY = "?mode=getData&target=",
 
