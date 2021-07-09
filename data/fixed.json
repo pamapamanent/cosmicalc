@@ -83,6 +83,8 @@
 {id:1607,name:"リリレインαHD",size:"S",type:"c",cost:40,hp:25,wlk:2,fly:2,tgh:1, slot:3}
 {id:1616,name:"ルーシェαHD",size:"S",type:"c",cost:90,hp:25,str:-1,tec:2,wlk:1,fly:1,tgh:2, slot:3, sub:{pwr:25,rng:100,spd:350,itv:1000}}
 {id:1617,name:"ルーシェαHD2",size:"S",type:"c",cost:90,hp:25,tec:2,wlk:2,tgh:1, slot:3, sub:{pwr:20,rng:100,spd:350,itv:1000,tec:100}}
+{id:1848,name:"カグラHD",size:"S",type:"c",cost:40,hp:25,str:1,tec:2,fly:1,tgh:1,slot:3}
+{id:1805,name:"ベルゼイラフガールHD",size:"S",type:"c",cost:75,hp:20,tec:1,fly:2,tgh:2,slot:3, sub:{pwr:30,shl:40,rng:150,spd:350,itv:1000}}
 
 {group:"ＬＧ",prefixId:"L",nextId:2000}
 {id:253,name:"ロスブラオLG",size:"L",type:"l",cost:30, slot:0, sub:{pwr:20,rng:220,spd:0,itv:1000,str:100}}
@@ -162,6 +164,8 @@
 {id:1524,name:"メルフィLG",size:"S",type:"s",cost:85,hp:25,str:-1,wlk:3,fly:2,tgh:2, slot:3, sub:{pwr:20,shl:30,rng:80,spd:150,itv:1000}}
 {id:1603,name:"リリレインLG",size:"S",type:"c",cost:45,hp:25,tec:2,wlk:2,fly:1, slot:3}
 {id:1618,name:"ルーシェαLG",size:"S",type:"c",cost:45,hp:25,str:2,wlk:3,fly:1,tgh:-1, slot:3}
+{id:1849,name:"カグラLG",size:"S",type:"c",cost:45,hp:25,tec:2,wlk:3,fly:1,slot:3}
+{id:1806,name:"ベルゼイラフガールLG",size:"S",type:"c",cost:45,hp:25,tec:1,wlk:3,fly:2,slot:3,joint:{bs:1}}
 
 {group:"ＢＳ",prefixId:"B",nextId:4000}
 {id:133,name:"アルマダBS",size:"L",type:"a",cost:95,hp:25,str:1,tec:2,wlk:-1,fly:3,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:5,shl:900,rng:275,spd:280,itv:340},comment:["チューン可否不明"]}
@@ -203,6 +207,7 @@
 {id:1067,name:"ニパ子キャノンボールBS",size:"S",type:"c",cost:35,hp:20,str:1,fly:3,tgh:1, slot:3}
 {id:1219,name:"フォンメイαBS",size:"S",type:"a",cost:100,hp:25,tec:1,fly:4, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:30,rng:0,spd:10,itv:1000}, sub:{pwr:0,shl:60,rng:100,spd:160,itv:1000}}
 {id:1601,name:"リリレインBS",size:"S",type:"c",cost:40,hp:25,wlk:2,fly:3, slot:3}
+
 
 {group:"ＡＭ",prefixId:"A",nextId:6000}
 {id:708,name:"スケアガントAM",size:"L",type:"l",cost:60,hp:25,str:3,tec:2, slot:0, joint:{wp:0}, sub:{pwr:0,rng:0,spd:0,itv:1000},comment:["部位破壊不能","手持ち装備不可"]}
@@ -285,6 +290,10 @@
 {id:1519,name:"メルフィAM",size:"S",type:"s",cost:40,hp:25,str:2,tec:2,wlk:2,fly:-1, slot:3, joint:{wp:0},comment:["部位破壊不能","武器手持ち不可"]}
 {id:1520,name:"メルフィAM2",size:"S",type:"s",cost:140,hp:25,str:2,tec:2,wlk:2,fly:-1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:10,shl:340,rng:250,spd:320,itv:300}, sub:{pwr:8,rng:250,spd:500,itv:1000},comment:["部位破壊不能"]}
 {id:1599,name:"リリレインAM",size:"S",type:"c",cost:40,hp:25,str:1,tec:2,wlk:1,fly:1, slot:3}
+{id:1850,name:"カグラAM",size:"S",type:"c",cost:80,hp:25,tec:2,wlk:1,fly:1,tgh:1,slot:3,joint:{wp:0}, sub:{pwr:1,shl:30,rng:60,spd:70,itv:1000},comment:["手持ち装備不可"],comment:["手持ち装備不可"]}
+{id:1851,name:"カグラAM2",size:"S",type:"c",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1,slot:3,joint:{wp:0},comment:["部位破壊不能","手持ち装備不可"],comment:["部位破壊不能","手持ち装備不可"]}
+{id:1808,name:"ベルゼイラフガールAM",size:"S",type:"c",cost:35,hp:20,str:1,tec:2,wlk:1,fly:-1,tgh:2,slot:0}
+{id:1809,name:"ベルゼイラフガールAM2",size:"S",type:"c",cost:35,hp:20,str:1,tec:2,wlk:1,fly:-1,tgh:2,slot:0}
 
 {group:"ＷＰ",prefixId:"W",nextId:8000}
 {id:500,name:"メモリ・スロット",size:"M",type:"lacs", slot:3,comment:["ロボ共通のスロット増設パーツ"]}
@@ -396,3 +405,5 @@
 {id:1518,name:"グランテッドボウ",size:"S",type:"s",cost:70, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:80,rng:300,spd:300,itv:500}}
 {id:1612,name:"ルーシェαBD@",size:"S",type:"c", slot:0, sub:{pwr:0,rng:0,spd:0,itv:1000}}
 {id:1614,name:"ルーシェαBD2@",size:"S",type:"c", slot:0, sub:{pwr:0,rng:0,spd:0,itv:1000}}
+{id:1853,name:"結界障壁",size:"S",type:"c",cost:40,slot:3, sub:{pwr:1,rng:60,spd:70,itv:1000}}
+{id:1852,name:"神祓の弓",size:"S",type:"c",cost:150,slot:3,tunable:{mwp:1}, main:{pwr:34,shl:160,rng:330,spd:300,itv:500}}

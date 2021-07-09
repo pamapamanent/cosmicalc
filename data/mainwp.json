@@ -1,7 +1,7 @@
 {group:"ハンドガン系",prefixId:"HG",nextId:0}
-{id:1,name:"ハンドガン",size:"S",type:"lacs",cost:15, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:500,rng:225,spd:570,itv:300}}
-{id:2,name:"オートガン",size:"S",type:"lacs",cost:35, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:440,rng:225,spd:500,itv:300}}
-{id:3,name:"カスタムガン",size:"M",type:"lc",cost:150, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:700,rng:225,spd:440,itv:260}}
+{id:0001,name:"ハンドガン",size:"S",type:"lacs",cost:15, slot:3,tunable:{mwp:1}, main:{pwr:6,shl:500,rng:225,spd:570,itv:300}}
+{id:1,name:"オートガン",size:"S",type:"lacs",cost:35, slot:3,tunable:{mwp:1}, main:{pwr:8,shl:440,rng:225,spd:500,itv:300}}
+{id:"A1",name:"カスタムガン",size:"M",type:"lc",cost:150, slot:3,tunable:{mwp:1}, main:{pwr:12,shl:700,rng:225,spd:440,itv:260}}
 {id:4,name:"ハンドマグ",size:"S",type:"lacs",cost:15, slot:3,tunable:{mwp:1}, main:{pwr:10,shl:260,rng:225,spd:570,itv:460}}
 {id:5,name:"オートマグ",size:"S",type:"lacs",cost:45, slot:3,tunable:{mwp:1}, main:{pwr:14,shl:280,rng:225,spd:500,itv:460}}
 {id:6,name:"カスタムマグ",size:"M",type:"lc",cost:150, slot:3,tunable:{mwp:1}, main:{pwr:21,shl:400,rng:225,spd:440,itv:460}}
@@ -250,3 +250,6 @@
 {id:1107,name:"マニモウィング@",size:"S",type:"a",cost:40, slot:3, main:{pwr:3,shl:800,rng:300,spd:400,itv:440},comment:["マニモウィング専用"]}
 {id:1108,name:"グロームロッド",size:"S",type:"a",cost:100, slot:3,tunable:{mwp:1}, main:{pwr:9,shl:540,rng:275,spd:440,itv:300}, sub:{pwr:26,shl:40,rng:0,spd:150,itv:1000},comment:["マルカAM専用"]}
 {id:1111,name:"ラビリンアクス",size:"S",type:"c",cost:225, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:13,shl:320,rng:330,spd:330,itv:340}, sub:{pwr:30,shl:120,rng:350,spd:290,itv:1000},comment:["ミルル・ミゥAM専用","変形後のステータスを記載"]}
+{id:1810,name:"グリードウェポン",size:"M",type:"c",slot:0,joint:{wp:2}, sub:{pwr:0,rng:0,spd:0,itv:500},comment:["ベルゼイラフガール専用"],comment:["ベルゼイラフガール専用"]}
+{id:1812,name:"ゼブルサイガン",size:"S",type:"c",cost:60,slot:3,tunable:{mwp:1}, main:{pwr:10,shl:540,rng:330,spd:220,itv:300},comment:["ベルゼイラフガール／グリードウェポン専用"],comment:["ベルゼイラフガール／グリードウェポン専用"]}
+{id:1811,name:"バアルバズーカ",size:"S",type:"c",cost:90,slot:3,tunable:{mwp:1}, main:{pwr:19,shl:420,rng:330,spd:400,itv:400},comment:["ベルゼイラフガール／グリードウェポン専用"],comment:["ベルゼイラフガール／グリードウェポン専用"]}
