@@ -169,6 +169,10 @@
 {id:1642,name:"レイスタッグAM",size:"M",type:"lacs",cost:35,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1, slot:3}
 {id:1659,name:"ロビンハンターAM",size:"M",type:"l",cost:125,hp:20,tec:2,wlk:2,tgh:1, slot:3, joint:{am:2},tunable:{mwp:1,pwp:1}, main:{pwr:17,shl:320,rng:225,spd:440,itv:520}, sub:{pwr:14,shl:220,rng:250,spd:320,itv:1000}}
 {id:1668,name:"ワニガメンティスAM",size:"M",type:"lacs",cost:40,hp:25,str:1,tec:2,tgh:2, slot:3}
+{id:572,name:"シェイデンAM",size:"L",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1,slot:3}
+{id:573,name:"シェイデンAM2",size:"L",type:"a",cost:205,hp:25,str:-1,tec:3,fly:1,tgh:2,slot:3,joint:{wp:0},tunable:{mwp:1}, main:{pwr:20,shl:330,rng:275,spd:520,itv:240},comment:["武器手持ち不可"]}
+{id:574,name:"シェイデンAM3",size:"L",type:"lacs",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1,slot:3}
+{id:1766,name:"シェイデンAM4",size:"LL",type:"a",cost:200,hp:25,str:-1,tec:3,fly:2,tgh:1,slot:3,joint:{wp:0},tunable:{mwp:1}, main:{pwr:32,shl:260,rng:275,spd:440,itv:660},comment:["手持ち装備不可"]}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:0}
 {id:56,name:"アーティラスAM",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3, slot:3}
