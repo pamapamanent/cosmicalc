@@ -362,7 +362,7 @@
 {id:237,name:"ラブリーシリンジα",size:"S",type:"s",cost:50, slot:3, sub:{pwr:1,shl:30,rng:300,spd:300,itv:500},comment:["本来のパーツ名は「ラブリーシリンジ」ですが便宜上αとしています"]}
 {id:238,name:"ラブリーシリンジβ",size:"S",type:"s",cost:30, slot:3, sub:{pwr:16,shl:220,rng:300,spd:400,itv:700},comment:["本来のパーツ名は「ラブリーシリンジ」ですが便宜上βとしています"]}
 {id:245,name:"エクスラズフラムAM@",size:"S",type:"l", slot:0}
-{id:250,name:"エクスランス",size:"S",type:"l",cost:210, slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:20,shl:340,rng:225,spd:440,itv:500,str:100}, sub:{pwr:30,shl:30,rng:100,spd:250,itv:1000,str:100}}
+{id:250,name:"エクスランス",size:"S",type:"l",cost:160,slot:3,tunable:{mwp:1,pwp:1}, main:{pwr:18,shl:220,rng:225,spd:480,itv:500,str:100}, sub:{pwr:30,shl:30,rng:100,spd:250,itv:1000,str:100},comment:["2021/07/08修正"]}
 {id:270,name:"プリンセスシールド",size:"S",type:"l",cost:20, slot:3, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000}}
 {id:271,name:"プリンセスシヴァリー",size:"S",type:"l",cost:120, slot:3,tunable:{pwp:1}, sub:{pwr:32,rng:77,spd:94,itv:500}}
 {id:272,name:"プリンセスストライク",size:"S",type:"l",cost:30, slot:3,tunable:{mwp:1}, main:{pwr:20,shl:50,rng:200,spd:570,itv:500,str:100}}
