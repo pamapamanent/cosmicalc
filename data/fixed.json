@@ -407,3 +407,4 @@
 {id:1614,name:"ルーシェαBD2@",size:"S",type:"c", slot:0, sub:{pwr:0,rng:0,spd:0,itv:1000}}
 {id:1853,name:"結界障壁",size:"S",type:"c",cost:40,slot:3, sub:{pwr:1,rng:60,spd:70,itv:1000}}
 {id:1852,name:"神祓の弓",size:"S",type:"c",cost:150,slot:3,tunable:{mwp:1}, main:{pwr:34,shl:160,rng:330,spd:300,itv:500}}
+{id:1834,name:"ランパーニルLG@",size:"LL",type:"l",cost:70,hp:20,str:2,tec:-1,wlk:1,fly:2,tgh:1,slot:3,tunable:{pwp:1}, sub:{pwr:0,rng:90,spd:200,itv:1000}}

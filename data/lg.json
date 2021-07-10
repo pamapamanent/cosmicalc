@@ -194,6 +194,7 @@
 {id:1560,name:"ラグナバレットLG",size:"LL",type:"lacs",cost:50,hp:60,wlk:4,tgh:2, slot:3}
 {id:1567,name:"ラクラボロスLG",size:"LL",type:"s",cost:245,hp:60,str:2,tec:2,wlk:3,tgh:-1, slot:3, joint:{wp:1},tunable:{mwp:1,pwp:1}, main:{pwr:15,shl:400,rng:250,spd:440,itv:500}, sub:{pwr:27,rng:70,spd:85,itv:1000}, fixedParts:{wp : "ラクラボロスLG@" }}
 {id:1651,name:"ロッソアスピーデLG",size:"LL",type:"a",cost:115,hp:80,str:-1,tec:2,wlk:2,fly:6,tgh:2, slot:3, builtin:{bs:1}, sub:{pwr:0,shl:60,rng:150,spd:150,itv:1000},comment:["BS内蔵？","チューン可否不明"]}
+{id:1833,name:"ランパーニルLG",size:"LL",type:"l",cost:160,hp:70,str:2,tec:-1,wlk:3,tgh:2,slot:3,joint:{wp:1},tunable:{pwp:1}, sub:{pwr:32,rng:90,spd:85,itv:1000}, fixedParts:{wp : ["ランパーニルLG@"] }}
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:0}
 {id:677,name:"ミサイルバレルLGJ",size:"L",type:"c",cost:80,tec:1,wlk:-1,fly:-1,tgh:1, slot:1, sub:{pwr:16,shl:160,rng:350,spd:230,itv:1000},comment:["ショップ販売"]}
