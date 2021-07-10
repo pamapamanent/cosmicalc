@@ -122,6 +122,7 @@
 {id:1663,name:"ロビンハンターLG",size:"M",type:"lacs",cost:45,hp:25,tec:2,wlk:2,fly:2, slot:3}
 {id:1672,name:"ワニガメンティスLG",size:"M",type:"lacs",cost:45,hp:25,str:-1,tec:1,wlk:3,fly:1,tgh:2, slot:3}
 {id:1729,name:"ヴァリアントLG",size:"M",type:"a",cost:65,hp:25,tec:2,wlk:3,fly:2,tgh:-1,slot:3, sub:{pwr:0,shl:50,rng:0,spd:150,itv:1000}}
+{id:1787,name:"ハイプリストルLG",size:"M",type:"lacs",cost:45,hp:25,wlk:3,fly:1,tgh:2,slot:3}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:0}
 {id:61,name:"アーティラスLG",size:"L",type:"c",cost:90,hp:25,str:-1,tec:3,wlk:3,tgh:1, slot:3,tunable:{pwp:1}, sub:{pwr:23,rng:120,spd:250,itv:1000,tec:100},comment:["チューン可否不明"]}

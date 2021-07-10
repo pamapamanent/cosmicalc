@@ -173,6 +173,8 @@
 {id:573,name:"シェイデンAM2",size:"L",type:"a",cost:205,hp:25,str:-1,tec:3,fly:1,tgh:2,slot:3,joint:{wp:0},tunable:{mwp:1}, main:{pwr:20,shl:330,rng:275,spd:520,itv:240},comment:["武器手持ち不可"]}
 {id:574,name:"シェイデンAM3",size:"L",type:"lacs",cost:40,hp:25,str:2,wlk:1,fly:1,tgh:1,slot:3}
 {id:1766,name:"シェイデンAM4",size:"LL",type:"a",cost:200,hp:25,str:-1,tec:3,fly:2,tgh:1,slot:3,joint:{wp:0},tunable:{mwp:1}, main:{pwr:32,shl:260,rng:275,spd:440,itv:660},comment:["手持ち装備不可"]}
+{id:1786,name:"ハイプリストルAM",size:"M",type:"lacs",cost:35,hp:20,tec:2,wlk:1,fly:1,tgh:1,slot:3,joint:{bs:0}}
+{id:1785,name:"ハイプリストルAM2",size:"M",type:"s",cost:135,hp:20,wlk:2,fly:1,tgh:2,slot:3,joint:{wp:0}, sub:{pwr:0,shl:230,rng:0,spd:0,itv:800},comment:["手持ち装備不可"]}
 
 {group:"Ｌサイズ",prefixId:"L",commonStat:{size:"L",type:""},nextId:0}
 {id:56,name:"アーティラスAM",size:"L",type:"lacs",cost:40,hp:25,str:1,tec:1,wlk:1,fly:-1,tgh:3, slot:3}
