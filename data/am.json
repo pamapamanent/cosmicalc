@@ -194,7 +194,7 @@
 {id:478,name:"コスモカイザーAM2",size:"L",type:"l",cost:90,hp:25,str:-1,tec:2,wlk:2,tgh:2, slot:3,tunable:{pwp:1}, sub:{pwr:27,shl:30,rng:120,spd:250,itv:500}}
 {id:497,name:"コントラディクトAM",size:"L",type:"c",cost:100,hp:25,str:-1,tec:3,wlk:1,fly:1,tgh:1, slot:3, joint:{wp:0},tunable:{mwp:1}, main:{pwr:22,shl:160,rng:330,spd:290,itv:780},comment:["手持ち装備不可","チューン可否不明"]}
 {id:511,name:"サイドロンAM",size:"L",type:"l",cost:55,hp:20,str:2,tec:-1,wlk:1,tgh:3, slot:3,comment:["盾耐久値不明"]}
-{id:512,name:"サイドロンAM2",size:"L",type:"a",cost:65,hp:20,str:-1,tec:2,wlk:2,tgh:2, slot:3,tunable:{mwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},comment:["盾あり（耐久値不明）","チューン可否不明"]}
+{id:512,name:"サイドロンAM2",size:"L",type:"l",cost:65,hp:20,str:-1,tec:2,wlk:2,tgh:2,slot:3,tunable:{mwp:1}, main:{pwr:0,shl:50,rng:0,spd:10,itv:1000},comment:["盾あり（耐久値不明）","チューン可否不明"]}
 {id:535,name:"サジタルマクシスAM",size:"L",type:"lacs",cost:40,hp:25,str:2,tec:3, slot:3}
 {id:556,name:"ジーウェインAM",size:"L",type:"a",cost:40,hp:25,tec:1,fly:1,tgh:3, slot:3, jointPart:1, fixedParts:{am : "ジーウェインAM@" }}
 {id:572,name:"シェイデンAM",size:"L",type:"lacs",cost:40,hp:25,tec:2,wlk:1,fly:1,tgh:1, slot:3}
