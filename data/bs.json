@@ -224,6 +224,7 @@
 {id:578,name:"シェイデンBS2",size:"LL",type:"a",cost:125,hp:25,tec:2,wlk:1,fly:4,tgh:-2, slot:3, sub:{pwr:1,shl:1,rng:200,spd:110,itv:2000}}
 {id:1268,name:"ブリガバロンBS",size:"LL",type:"l",cost:40,hp:25,str:1,tec:-1,wlk:1,fly:2,tgh:2, slot:3}
 {id:1317,name:"ヘカトケレスBS",size:"LL",type:"c",cost:125,hp:20,tec:2,wlk:-1,fly:3,tgh:1, slot:3,tunable:{mwp:1}, main:{pwr:11,shl:700,rng:330,spd:290,itv:1000},comment:["チューン可否不明"]}
+{id:1758,name:"コルディプスBS",size:"LL",type:"c",cost:95,hp:20,str:-1,tec:2,wlk:1,fly:2,tgh:1,slot:3,tunable:{mwp:1}, main:{pwr:10,shl:500,rng:330,spd:280,itv:800}}
 
 {group:"ジョイント",prefixID:"J",commonStat:{jointPart:1},nextID:8}
 {id:1318,name:"ヘカトケレスBSJ",size:"LL",type:"c",cost:40, slot:1,tunable:{mwp:1}, main:{pwr:6,shl:360,rng:330,spd:290,itv:600},comment:["ユニオンコイン景品"]}
